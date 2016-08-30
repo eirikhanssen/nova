@@ -37,73 +37,125 @@
 */
 
 (function nova(){
+	console.log("Start nova extractor - mine metadata for DOI submission");
 	var url = window.location.href;
+	var title = document.title;
 
-	if(isPublicationPage()){
-		novaPublicationPageStart();
-	} else if(isMainPage()) {
-		mainPageStart();
-	}
+	if(isNovaPublicationPage(url)){
+		novaPublicationPage();
+	} else if(isNovaExtractorMainPage(url)) {
+		novaExtractorMainPage();
+	} else {console.log('unknown page: ' + url);}
 
-	console.log("running nova_extractor");
-   
-	var mainTitle = document.querySelector('.research_project h1').textContent;
-	var subTitle = document.querySelector('.research_project p.ingress').textContent;
-	var authorsList = document.querySelectorAll('.research_project ul li');
-    var dateEdition,
-        datePublished,
-        publicationType,
-        issn,
-        pages,
-        authors;
-    
-    function getAuthors(authorsList){
-		var authorArray = [];
-		for (var i = 0; i < authorsList.length; i++) {
-			authorArray.push(authorsList[i].textContent);
-		}
-		return authorArray;
-        
-	};
-    
-    authors = getAuthors(authorsList);
-
-    var possibleMetaEms = document.querySelectorAll('div > em');
-	for (var j = 0; j < possibleMetaEms.length; j++) {
-		switch (possibleMetaEms[j].textContent) {
-			case 'Utgivelsesår:':
-				dateEdition = possibleMetaEms[j].nextElementSibling.textContent.trim();
-			break;
-            case 'Publisert:':
-				datePublished = possibleMetaEms[j].nextElementSibling.textContent.trim();
-			break;
-            case 'Publikasjonstype:':
-				publicationType = possibleMetaEms[j].nextElementSibling.textContent.trim();
-			break;
-            case 'ISSN:':
-				issn = possibleMetaEms[j].nextElementSibling.textContent.trim();
-			break;
-            case 'Antall sider:':
-				pages = possibleMetaEms[j].nextElementSibling.textContent.trim();
-			break;
-            default:
-            break;
+	function isNovaPublicationPage(url){
+		if(url.indexOf('NOVA/Publikasjonar/') > -1) {
+			return true;
+		} else {
+			return false;
 		}
 	}
 
-	var publicationData = {
-        url: url,
-		mainTitle: mainTitle,
-		subTitle: subTitle,
-		authors: authors,
-		dateEdition: dateEdition,
-		datePublished: datePublished,
-        publicationType: publicationType,
-        issn: issn,
-        pages: pages
-    };
+	function isNovaExtractorMainPage(url){
+		if(title.indexOf('NOVA extractor') > -1) {
+			return true;
+		} else {
+			return false;
+		}
+	}
 
-    var stringified = JSON.stringify(publicationData);
-    console.log(stringified);
-  
-}());
+	function novaPublicationPage() {
+		console.log('novaPublicationPage');
+
+		function closePage(){
+			var answer = confirm("Done mining metadata. Close this page?");
+			if (answer == true) {
+				window.close();
+			}
+		};
+
+		closePage();
+
+		/*var mainTitle = document.querySelector('.research_project h1').textContent;
+		var subTitle = document.querySelector('.research_project p.ingress').textContent;
+		var authorsList = document.querySelectorAll('.research_project ul li');
+	    var dateEdition,
+	        datePublished,
+	        publicationType,
+	        issn,
+	        pages,
+	        authors;
+	    
+	    function getAuthors(authorsList){
+			var authorArray = [];
+			for (var i = 0; i < authorsList.length; i++) {
+				authorArray.push(authorsList[i].textContent);
+			}
+			return authorArray;
+	        
+		};
+	    
+	    authors = getAuthors(authorsList);
+
+	    var possibleMetaEms = document.querySelectorAll('div > em');
+		for (var j = 0; j < possibleMetaEms.length; j++) {
+			switch (possibleMetaEms[j].textContent) {
+				case 'Utgivelsesår:':
+					dateEdition = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				break;
+	            case 'Publisert:':
+					datePublished = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				break;
+	            case 'Publikasjonstype:':
+					publicationType = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				break;
+	            case 'ISSN:':
+					issn = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				break;
+	            case 'Antall sider:':
+					pages = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				break;
+	            default:
+	            break;
+			}
+		}
+
+		var publicationData = {
+	        url: url,
+			mainTitle: mainTitle,
+			subTitle: subTitle,
+			authors: authors,
+			dateEdition: dateEdition,
+			datePublished: datePublished,
+	        publicationType: publicationType,
+	        issn: issn,
+	        pages: pages
+	    };
+
+	    var stringified = JSON.stringify(publicationData);
+	    console.log(stringified);*/
+
+	}
+
+	function novaExtractorMainPage(){
+		console.log('novaExtractorMainPage');
+
+		var temahefteLenker = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Ungdomskulturer-og-narkotikabruk",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Foreldrestoettende-tilbud-i-kommunene",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Dokumentasjon-Ung-i-Oslo-2006",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Forebyggende-arbeid-og-hjelpetiltak-i-barneverntjenesten",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Veiledning-og-veiledningsmodeller-i-barnevernets-foerstelinjetjeneste",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Naturen-i-Stor-Elvdal-ulven-og-det-sosiale-landskapet",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Fra-ide-til-virkelighet.-En-modell-for-koordinering-og-drift-av-det-forebyggende-barne-og-ungdomsarbeidet",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Kvalitetssatsing-i-norske-barnehager",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Hvordan-maalene-ble-naadd",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/En-skandinavisk-boligmodell"]
+
+	function openPages(pageLinks){
+		window.open(pageLinks[0]);
+	} // openPages(); 
+
+	openPages(temahefteLenker);
+
+	} // novaExtractorMainPage()
+
+}()); // function nova()

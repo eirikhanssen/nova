@@ -68,10 +68,20 @@
 
 		function closePage(){
 			var answer = confirm("Done mining metadata. Close this page?");
-			if (answer == true) {
+			if (answer === true) {
 				window.close();
 			}
-		};
+		}
+
+		function saveData(stringifiedJsonOBJ) {
+			console.log("GM_setValue");
+			GM_setValue("http://a.test.com", stringifiedJsonOBJ);
+		}
+
+		function retrieveData() {
+			console.log("GM_getValue, parsin into a JSON object.");
+			console.log(JSON.parse(GM_getValue('http://a.test.com')));
+		}
 
 		// mine metadata
 		var mainTitleElem = document.querySelector('.research_project h1');
@@ -144,6 +154,10 @@
 
 	    var stringified = JSON.stringify(publicationData);
 	    console.log(stringified);
+
+	    saveData(stringified);
+
+	    retrieveData();
 
 		closePage();
 

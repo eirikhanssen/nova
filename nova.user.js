@@ -73,17 +73,50 @@
 			}
 		};
 
-		closePage();
-
-		/*var mainTitle = document.querySelector('.research_project h1').textContent;
-		var subTitle = document.querySelector('.research_project p.ingress').textContent;
-		var authorsList = document.querySelectorAll('.research_project ul li');
+		// mine metadata
+		var mainTitleElem = document.querySelector('.research_project h1');
+		var mainTitle = (mainTitleElem !== null) ? mainTitleElem.textContent : "";
+		var subTitleElem = document.querySelector('.research_project p.ingress');
+		var subTitle = (subTitleElem !== null) ? subTitleElem.textContent : "";
+		
+		function getAuthorList () {
+			return document.querySelectorAll('.research_project ul li');
+		}
+		
 	    var dateEdition,
 	        datePublished,
 	        publicationType,
 	        issn,
 	        pages,
 	        authors;
+
+	        authors = (function () {
+				var al = getAuthorList();
+				var authorArray = [];
+				for (var i = 0; i < al.length; i++) {
+					authorArray.push(al[i].textContent);
+				}
+				return authorArray;
+			})();
+
+		var publicationData = {
+	        url: url,
+			mainTitle: mainTitle,
+			subTitle: subTitle,
+			authors: authors,
+			dateEdition: dateEdition,
+			datePublished: datePublished,
+	        publicationType: publicationType,
+	        issn: issn,
+	        pages: pages
+	    };
+
+	    var stringified = JSON.stringify(publicationData);
+	    console.log(stringified);
+
+		closePage();
+
+		/*
 	    
 	    function getAuthors(authorsList){
 			var authorArray = [];
@@ -119,20 +152,7 @@
 			}
 		}
 
-		var publicationData = {
-	        url: url,
-			mainTitle: mainTitle,
-			subTitle: subTitle,
-			authors: authors,
-			dateEdition: dateEdition,
-			datePublished: datePublished,
-	        publicationType: publicationType,
-	        issn: issn,
-	        pages: pages
-	    };
-
-	    var stringified = JSON.stringify(publicationData);
-	    console.log(stringified);*/
+		*/
 
 	}
 
@@ -148,7 +168,7 @@
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Fra-ide-til-virkelighet.-En-modell-for-koordinering-og-drift-av-det-forebyggende-barne-og-ungdomsarbeidet",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Kvalitetssatsing-i-norske-barnehager",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Hvordan-maalene-ble-naadd",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/En-skandinavisk-boligmodell"]
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/En-skandinavisk-boligmodell"];
 
 	function openPages(pageLinks){
 		window.open(pageLinks[0]);

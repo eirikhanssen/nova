@@ -75,9 +75,9 @@
 
 		// mine metadata
 		var mainTitleElem = document.querySelector('.research_project h1');
-		var mainTitle = (mainTitleElem !== null) ? mainTitleElem.textContent : "";
+		var mainTitle = (mainTitleElem !== null) ? mainTitleElem.textContent : undefined;
 		var subTitleElem = document.querySelector('.research_project p.ingress');
-		var subTitle = (subTitleElem !== null) ? subTitleElem.textContent : "";
+		var subTitle = (subTitleElem !== null) ? subTitleElem.textContent : undefined;
 		
 		function getAuthorList () {
 			return document.querySelectorAll('.research_project ul li');
@@ -87,6 +87,7 @@
 	        datePublished,
 	        publicationType,
 	        issn,
+	        isbn,
 	        pages,
 	        authors;
 
@@ -99,37 +100,7 @@
 				return authorArray;
 			})();
 
-		var publicationData = {
-	        url: url,
-			mainTitle: mainTitle,
-			subTitle: subTitle,
-			authors: authors,
-			dateEdition: dateEdition,
-			datePublished: datePublished,
-	        publicationType: publicationType,
-	        issn: issn,
-	        pages: pages
-	    };
-
-	    var stringified = JSON.stringify(publicationData);
-	    console.log(stringified);
-
-		closePage();
-
-		/*
-	    
-	    function getAuthors(authorsList){
-			var authorArray = [];
-			for (var i = 0; i < authorsList.length; i++) {
-				authorArray.push(authorsList[i].textContent);
-			}
-			return authorArray;
-	        
-		};
-	    
-	    authors = getAuthors(authorsList);
-
-	    var possibleMetaEms = document.querySelectorAll('div > em');
+		var possibleMetaEms = document.querySelectorAll('div > em');
 		for (var j = 0; j < possibleMetaEms.length; j++) {
 			switch (possibleMetaEms[j].textContent) {
 				case 'Utgivelsesår:':
@@ -144,17 +115,39 @@
 	            case 'ISSN:':
 					issn = possibleMetaEms[j].nextElementSibling.textContent.trim();
 				break;
+				case 'ISBN:':
+					isbn = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				break;
 	            case 'Antall sider:':
 					pages = possibleMetaEms[j].nextElementSibling.textContent.trim();
 				break;
 	            default:
+	            	if(possibleMetaEms[j].textContent.trim().indexOf('Temahefte') > -1) {
+	            		publicationType = possibleMetaEms[j].textContent.trim();
+	            	}
 	            break;
 			}
 		}
 
-		*/
+		var publicationData = {
+	        url: url,
+			mainTitle: mainTitle,
+			subTitle: subTitle,
+			authors: authors,
+			dateEdition: dateEdition,
+			datePublished: datePublished,
+	        publicationType: publicationType,
+	        issn: issn,
+	        isbn: isbn,
+	        pages: pages
+	    };
 
-	}
+	    var stringified = JSON.stringify(publicationData);
+	    console.log(stringified);
+
+		closePage();
+
+		}
 
 	function novaExtractorMainPage(){
 		console.log('novaExtractorMainPage');

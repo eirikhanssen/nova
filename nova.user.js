@@ -5,6 +5,7 @@
 // @description  Extract info from NOVA publications
 // @author       You
 // @match        http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/*
+// @match        http://localhost/~hanson/nova/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_deleteValue
@@ -36,10 +37,16 @@
 */
 
 (function nova(){
+	var url = window.location.href;
+
+	if(isPublicationPage()){
+		novaPublicationPageStart();
+	} else if(isMainPage()) {
+		mainPageStart();
+	}
 
 	console.log("running nova_extractor");
-
-    var url = window.location.href;
+   
 	var mainTitle = document.querySelector('.research_project h1').textContent;
 	var subTitle = document.querySelector('.research_project p.ingress').textContent;
 	var authorsList = document.querySelectorAll('.research_project ul li');

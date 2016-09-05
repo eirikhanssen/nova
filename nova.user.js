@@ -79,7 +79,7 @@
 		}
 
 		function retrieveData() {
-			console.log("GM_getValue, parsin into a JSON object.");
+			console.log("GM_getValue, parsing into a JSON object.");
 			console.log(JSON.parse(GM_getValue('http://a.test.com')));
 		}
 
@@ -161,7 +161,7 @@
 
 		closePage();
 
-		}
+	}
 
 	function novaExtractorMainPage(){
 		console.log('novaExtractorMainPage');
@@ -178,7 +178,31 @@
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/En-skandinavisk-boligmodell"];
 
 	function openPages(pageLinks){
-		window.open(pageLinks[0]);
+		console.log("already stored?");
+		console.log(GM_getValue(pageLinks[0]));
+		console.log("opening window: " + pageLinks[0]);
+		var win = window.open(pageLinks[0]);
+		/*win.addEventListener('unload', function(event) {
+        	console.log("Window closed: " + pageLinks[0]);
+        	console.log("Data collected for this url: ");
+        	console.log(GM_getValue(pageLinks[0]));
+      	});*/
+
+      	win.onunload = function() {
+  		if (window.opener && typeof(window.opener.onPopupClosed) == 'function') {
+    		window.opener.onPopupClosed();
+  			}
+
+  		console.log("Window closed: " + pageLinks[0]);
+        	console.log("Data collected for this url: ");
+        	console.log(GM_getValue(pageLinks[0]));
+
+		};
+
+		window.onPopupClosed = function() {
+  			console.log("You closed the pop up!");
+		};
+
 	} // openPages(); 
 
 	openPages(temahefteLenker);

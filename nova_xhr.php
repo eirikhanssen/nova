@@ -1,5 +1,6 @@
 <?php 
 require 'db_login.php';
+ini_set('default_charset', 'UTF-8');
 	
 
 
@@ -20,10 +21,10 @@ require 'db_login.php';
 	$sql = "INSERT INTO nova_json (url, json)";
 	$sql .= "VALUES ('$site_url', '$json_data');";
 
-	if($conn->multi_query($sql) === TRUE) {
-		echo "Success!";
+	if($conn->query($sql) === TRUE) {
+		echo "</br><strong>Success!</strong></br></br><strong>json data:</strong></br></br>" . $json_data;
 	} else {
-		echo "Error! </br>" . $sql . "</br>" . $conn->error;
+		echo "<div style='color:red'></br><strong>Error!</strong></br></br>" . "<strong>json data:</strong></br></br>" . $json_data . "</br><strong>sql:</strong></br>" . $sql . "</br></br>" . "<strong>Error:</strong> </br></br>" . $conn->error . "</div>"; 
 	}
 
 	$conn->close();

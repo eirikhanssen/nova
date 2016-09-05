@@ -626,10 +626,7 @@ var alle_serier = {
 		console.log('novaPublicationPage');
 
 		function closePage(){
-			var answer = confirm("Done mining metadata. Close this page?");
-			if (answer === true) {
-				window.close();
-			}
+            window.close();
 		}
 
 		function saveData(stringifiedJsonOBJ) {
@@ -735,32 +732,16 @@ var alle_serier = {
         console.log("opening: " + currentLink);
 		var win = window.open(currentLink);
         
-		var checkIfWinStillOpenLoop = setInterval(function(){
-            if(!win.closed) {
-				console.log("still open");
-                
-			} else {
-                clearInterval(checkIfWinStillOpenLoop);
+        var counter = 0;
+        
+		var checkIfWinStillOpenLoop = requestAnimationFrame(function(){
+            if(win.closed) {
+                // ready for next iteration...
+                cancelAnimationFrame(checkIfWinStillOpenLoop);
 				console.log("the popup-page has closed: " + currentLink);
             }
-		}, 2);
+		});
         
-		/*win.addEventListener('unload', function(event) {
-        	console.log("Window closed: " + pageLinks[0]);
-        	console.log("Data collected for this url: ");
-        	console.log(GM_getValue(pageLinks[0]));
-      	});*/
-
-      	/*win.onunload = function() {
-  		if (window.opener && typeof(window.opener.onPopupClosed) == 'function') {
-    		window.opener.onPopupClosed();
-    		console.log("Window unloaded: " + pageLinks[0]);
-  			}
-		};
-
-		window.onPopupClosed = function() {
-  			console.log("You closed the pop up: " +  pageLinks[0]);
-		};*/
 
 	} // openPages(); 
 

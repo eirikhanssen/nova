@@ -626,7 +626,10 @@ var alle_serier = {
 		console.log('novaPublicationPage');
 
 		function closePage(){
-            window.close();
+            var delay_in_ms = 2000;
+            setTimeout(function(){
+                window.close();
+            }, delay_in_ms);
 		}
 
 		function saveData(stringifiedJsonOBJ) {
@@ -724,28 +727,30 @@ var alle_serier = {
 
 		var temahefteLenker = alle_serier.temahefte;
 
-	function openPages(pageLinks){
-		//console.log("already stored?");
-		//console.log(GM_getValue(pageLinks[0]));
-		console.log("opening window: " + pageLinks[0]);
-		var currentLink = pageLinks[0]
+	function openPages(linkList, index){
+        var len = linkList.length;
+		var currentLink = linkList[index]
         console.log("opening: " + currentLink);
 		var win = window.open(currentLink);
-        
         var counter = 0;
-        
 		var checkIfWinStillOpenLoop = requestAnimationFrame(function(){
             if(win.closed) {
                 // ready for next iteration...
                 cancelAnimationFrame(checkIfWinStillOpenLoop);
 				console.log("the popup-page has closed: " + currentLink);
+                if(index < (len - 1)) {
+                    openPages(linkList, (index + 1));
+                } else {
+                    console.log("all done with: " + len + " entries");
+                }
             }
 		});
         
 
-	} // openPages(); 
+	} // openPages();
 
-	openPages(temahefteLenker);
+        console.log(alle_serier.temahefte);
+	openPages(temahefteLenker, 0);
 
 	} // novaExtractorMainPage()
 

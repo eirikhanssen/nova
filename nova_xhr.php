@@ -13,6 +13,7 @@ ini_set('default_charset', 'UTF-8');
 	echo "<p>Trying to store data...</p>";*/
 	// create connection
 	$conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
+	mysqli_set_charset($conn, 'utf8');
 	// check connection
 	if($conn->connect_error) {
 		die("Connection failed: " .  $conn->connect_error); 
@@ -20,6 +21,8 @@ ini_set('default_charset', 'UTF-8');
 
 	$sql = "INSERT INTO nova_json (url, json)";
 	$sql .= "VALUES ('$site_url', '$json_data');";
+
+
 
 	if($conn->query($sql) === TRUE) {
 		echo "</br><strong>Success!</strong></br></br><strong>json data:</strong></br></br>" . $json_data;

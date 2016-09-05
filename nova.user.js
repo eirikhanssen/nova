@@ -725,16 +725,7 @@ var alle_serier = {
 	function novaExtractorMainPage(){
 		console.log('novaExtractorMainPage');
 
-		var temahefteLenker = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Ungdomskulturer-og-narkotikabruk",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Foreldrestoettende-tilbud-i-kommunene",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Dokumentasjon-Ung-i-Oslo-2006",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Forebyggende-arbeid-og-hjelpetiltak-i-barneverntjenesten",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Veiledning-og-veiledningsmodeller-i-barnevernets-foerstelinjetjeneste",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Naturen-i-Stor-Elvdal-ulven-og-det-sosiale-landskapet",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Fra-ide-til-virkelighet.-En-modell-for-koordinering-og-drift-av-det-forebyggende-barne-og-ungdomsarbeidet",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Kvalitetssatsing-i-norske-barnehager",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Hvordan-maalene-ble-naadd",
-"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/En-skandinavisk-boligmodell"];
+		var temahefteLenker = alle_serier.temahefte;
 
 	function openPages(pageLinks){
 		console.log("already stored?");
@@ -750,16 +741,12 @@ var alle_serier = {
       	win.onunload = function() {
   		if (window.opener && typeof(window.opener.onPopupClosed) == 'function') {
     		window.opener.onPopupClosed();
+    		console.log("Window unloaded: " + pageLinks[0]);
   			}
-
-  		console.log("Window closed: " + pageLinks[0]);
-        	console.log("Data collected for this url: ");
-        	console.log(GM_getValue(pageLinks[0]));
-
 		};
 
 		window.onPopupClosed = function() {
-  			console.log("You closed the pop up!");
+  			console.log("You closed the pop up: " +  pageLinks[0]);
 		};
 
 	} // openPages(); 

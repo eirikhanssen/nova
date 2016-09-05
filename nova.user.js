@@ -626,7 +626,7 @@ var alle_serier = {
 		console.log('novaPublicationPage');
 
 		function closePage(){
-            var delay_in_ms = 2000;
+            var delay_in_ms = 1500;
             setTimeout(function(){
                 window.close();
             }, delay_in_ms);
@@ -737,7 +737,7 @@ var alle_serier = {
             if(win.closed) {
                 // ready for next iteration...
                 cancelAnimationFrame(checkIfWinStillOpenLoop);
-				console.log("the popup-page has closed: " + currentLink);
+				console.log("closed: " + currentLink);
                 if(index < (len - 1)) {
                     openPages(linkList, (index + 1));
                 } else {

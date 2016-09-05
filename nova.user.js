@@ -626,20 +626,10 @@ var alle_serier = {
 		console.log('novaPublicationPage');
 
 		function closePage(){
-            var delay_in_ms = 1500;
+            var delay_in_ms = 10000;
             setTimeout(function(){
                 window.close();
             }, delay_in_ms);
-		}
-
-		function saveData(stringifiedJsonOBJ) {
-			console.log("GM_setValue");
-			GM_setValue("http://a.test.com", stringifiedJsonOBJ);
-		}
-
-		function retrieveData() {
-			console.log("GM_getValue, parsing into a JSON object.");
-			console.log(JSON.parse(GM_getValue('http://a.test.com')));
 		}
 
 		// mine metadata
@@ -714,8 +704,9 @@ var alle_serier = {
 	    var stringified = JSON.stringify(publicationData);
         
         function ajax_post(json_data_string){
+            var statusEl = document.querySelector("#statusEl");
             var xhr = new XMLHttpRequest();
-            var post_url = "localhost/nova/nova_xhr.php";
+            var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
             var site_url = window.location.href;
             var post_data = "site_url="+site_url+"&json_data="+json_data_string;
             xhr.open("POST",post_url,true);
@@ -733,20 +724,22 @@ var alle_serier = {
                 }
                 closePage();
             };
+            xhr.send(post_data);
+        	statusEl.innerHTML = statusEl.innerHTML + "</br>posted data: </br>" + post_data + "</br>";
         }
         
         // send the data to php now and wait for response to update the status div.
         
         var statusEl = document.createElement("aside");
+        statusEl.id = "statusEl";
         statusEl.innerHTML="processing XHR...</br>";
         statusEl.style.cssText="position:fixed; top:0; right:0; bottom:0; width: 33%; margin-top: 3em; margin-bottom: 3em; opacity: 0.7; border: 3px solid red; color: black; background-color: #dddddd; font-family: sans-serif; white-space: pre; padding: 0.5em; font-size: 1.5em;";
         document.querySelector("body").appendChild(statusEl);
 
+        console.log("posting: ");
 	    console.log(stringified);
-      
         ajax_post(stringified);
-
-        console.log("posting data...");
+        
 
 	}
 

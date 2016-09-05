@@ -739,7 +739,7 @@ var alle_serier = {
         
         var statusEl = document.createElement("aside");
         statusEl.innerHTML="processing XHR...</br>";
-        statusEl.style.cssText="position:fixed; top:0; right:0; width: 33%; opacity: 0.7; border: 3px solid red; color: black; background-color: yellow; font-family: sans-serif; white-space: pre; padding: 0.5em; font-size: 1.5em;";
+        statusEl.style.cssText="position:fixed; top:0; right:0; bottom:0; width: 33%; margin-top: 3em; margin-bottom: 3em; opacity: 0.7; border: 3px solid red; color: black; background-color: #dddddd; font-family: sans-serif; white-space: pre; padding: 0.5em; font-size: 1.5em;";
         document.querySelector("body").appendChild(statusEl);
 
 	    console.log(stringified);

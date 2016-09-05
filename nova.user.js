@@ -593,7 +593,7 @@ var alle_serier = {
     rapporter: rapporter,
     skriftserie: skriftserie,
     temahefte: temahefte
-}
+};
 
 
 	// pages to investigate END
@@ -712,13 +712,41 @@ var alle_serier = {
 	    };
 
 	    var stringified = JSON.stringify(publicationData);
+        
+        function ajax_post(json_data_string){
+            var xhr = new XMLHttpRequest();
+            var post_url = "localhost/nova/nova_xhr.php";
+            var site_url = window.location.href;
+            var post_data = "site_url="+site_url+"&json_data="+json_data_string;
+            xhr.open("POST",post_url,true);
+            // set the content type header info for sending url encoded vars in the request
+            xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+            // access the onreadystatechenge event for the XMLHttpRequest object
+            xhr.onreadystatechange = function(){
+                var return_data = xhr.responseText;
+                if(xhr.readyState == 4 && xhr.status == 200) {
+                    statusEl.style.color = "green";
+                    statusEl.innerHTML = statusEl.innerHTML + "success! " + return_data;
+                } else {
+                    statusEl.style.color = "red";
+                    statusEl.innerHTLM = statusEl.innerHTML + "failure! " + return_data;
+                }
+                closePage();
+            };
+        }
+        
+        // send the data to php now and wait for response to update the status div.
+        
+        var statusEl = document.createElement("aside");
+        statusEl.innerHTML="processing XHR...</br>";
+        statusEl.style.cssText="position:fixed; top:0; right:0; width: 33%; opacity: 0.7; border: 3px solid red; color: black; background-color: yellow; font-family: sans-serif; white-space: pre; padding: 0.5em; font-size: 1.5em;";
+        document.querySelector("body").appendChild(statusEl);
+
 	    console.log(stringified);
+      
+        ajax_post(stringified);
 
-	    saveData(stringified);
-
-	    retrieveData();
-
-		closePage();
+        console.log("posting data...");
 
 	}
 
@@ -749,7 +777,7 @@ var alle_serier = {
 
 	} // openPages();
 
-        console.log(alle_serier.temahefte);
+    console.log(alle_serier.temahefte);
 	openPages(temahefteLenker, 0);
 
 	} // novaExtractorMainPage()

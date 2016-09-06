@@ -632,10 +632,14 @@ var alle_serier = {
 
 		function closePage(){
             // sleep
-            var delay_in_ms = 4000;
+            var delay_in_ms = 1000;
             setTimeout(function(){
                 window.close();
             }, delay_in_ms);
+            /*var readyToClose = confirm("done, close this page?");
+            if(readyToClose) {
+                window.close();
+            }*/
 		}
 
 		// mine metadata
@@ -720,15 +724,18 @@ var alle_serier = {
             xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
             // access the onreadystatechenge event for the XMLHttpRequest object
             xhr.onreadystatechange = function(){
+                console.log(xhr.readyState + ", " + xhr.status);
                 var return_data = xhr.responseText;
                 if(xhr.readyState == 4 && xhr.status == 200) {
                     statusEl.style.color = "green";
                     statusEl.innerHTML = statusEl.innerHTML + return_data;
+                    closePage();
                 } else {
                     statusEl.style.color = "red";
                     statusEl.innerHTLM = statusEl.innerHTML + return_data;
+                    closePage();
                 }
-                closePage();
+                
             };
             xhr.send(post_data);
         	statusEl.innerHTML = statusEl.innerHTML + "</br></br><strong>posted data sendt to server: </strong></br></br>" + post_data + "</br>";
@@ -756,9 +763,9 @@ var alle_serier = {
 	function openPages(linkList, index){
         var len = linkList.length;
 		var currentLink = linkList[index]
-        console.log("opening: " + currentLink);
+        console.log("opening linkList[" + index + "]: " + currentLink);
 		var win = window.open(currentLink);
-        var counter = 0;
+        //var counter = 0;
 		var checkIfWinStillOpenLoop = requestAnimationFrame(function(){
             if(win.closed) {
                 // ready for next iteration...

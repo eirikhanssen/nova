@@ -5,6 +5,7 @@ ini_set('default_charset', 'UTF-8');
 	$idFilename = $_POST['filename'];
 	$series = $_POST['series'];
 	$json_data = $_POST['json_data'];
+	$len = $_POST['len'];
 
 	/*echo "<p>Received data from " . $site_url . "</p>";
 	echo "<p>Received data: </p>";
@@ -18,8 +19,8 @@ ini_set('default_charset', 'UTF-8');
 		die("Connection failed: " .  $conn->connect_error); 
 	}
 
-	$sql = "INSERT INTO $db_table (idFilename, series, JSON)";
-	$sql .= "VALUES ('$idFilename', '$series', '$json_data');";
+	$sql = "INSERT INTO $db_table (idFilename, series, len, JSON)";
+	$sql .= "VALUES ('$idFilename', '$series', '$len', '$json_data');";
 
 
 

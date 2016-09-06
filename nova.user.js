@@ -593,7 +593,7 @@ var alle_serier = {
 };
 
 	function getBaseFilenameFromUrl(inputString) {
-		return inputString.replace(/\//g,"|").replace(/^.+?([^|]+)$/g, "$1").replace(/^(.+?)[.][^.]+/g, "$1").toLowerCase();
+		return inputString.replace(/\//g,"|").replace(/^.+?([^|]+)$/g, "$1").replace(/^(.+?)[.][^.]+/g, "$1");
 	}
 	
 	function getSeriesFromUrl(inputString){
@@ -632,7 +632,7 @@ var alle_serier = {
 
 		function closePage(){
             // sleep
-            var delay_in_ms = 1000;
+            var delay_in_ms = 100;
             setTimeout(function(){
                 window.close();
             }, delay_in_ms);
@@ -715,10 +715,11 @@ var alle_serier = {
         
         function ajax_post(json_data_string){
             console.log("json_data_string: " + json_data_string);
+            var len = json_data_string.length;
             var statusEl = document.querySelector("#statusEl");
             var xhr = new XMLHttpRequest();
             var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
-            var post_data = "filename="+filename+"&series="+series+"&json_data="+json_data_string;
+            var post_data = "filename="+filename+"&series="+series+"&len="+len+"&json_data="+json_data_string;
             xhr.open("POST",post_url,true);
             // set the content type header info for sending url encoded vars in the request
             xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
@@ -757,33 +758,24 @@ var alle_serier = {
 
 	function novaExtractorMainPage(){
 		console.log('novaExtractorMainPage');
-
-		var temahefteLenker = alle_serier.notat;
+        var alleSerierArray = notat.concat(rapporter, skriftserie, temahefte);
 
 	function openPages(linkList, index){
         var len = linkList.length;
-		var currentLink = linkList[index]
-        console.log("opening linkList[" + index + "]: " + currentLink);
-		var win = window.open(currentLink);
-        //var counter = 0;
-		var checkIfWinStillOpenLoop = requestAnimationFrame(function(){
-            if(win.closed) {
-                // ready for next iteration...
-                cancelAnimationFrame(checkIfWinStillOpenLoop);
-				console.log("closed: " + currentLink);
-                if(index < (len - 1)) {
-                    openPages(linkList, (index + 1));
-                } else {
-                    console.log("all done with: " + len + " entries");
-                }
-            }
-		});
-        
-
+        if(len > index) {
+        	var currentLink = linkList[index];
+        	console.log("opening linkList[" + index + "]: " + currentLink);
+        	window.open(currentLink);
+        	setTimeout(function(){
+        		openPages(linkList, (index + 1));
+        	},200);
+        } else {
+        	console.log("All done opening " + len + " pages.")
+        }
+		
 	} // openPages();
 
-    //console.log(temahefteLenker);
-	openPages(temahefteLenker, 0);
+	openPages(alleSerierArray, 0);
 
 	} // novaExtractorMainPage()
 

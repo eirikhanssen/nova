@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Barns levekår - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Barns levekår" />
+    <meta itemprop="name" content="Barns levekår">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+						<meta name="description" content="Barns levekår" />
+			<meta itemprop="description" content="Barns levekår" />
+			
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2008/Barns-levekaar" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Rapporter/2008/Children-s-level-of-living-the-impact-of-family-incomes">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Rapporter/2008/Children-s-level-of-living-the-impact-of-family-incomes">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_45519 subtree_level_6_node_id_79028 subtree_level_7_node_id_39796"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter">Rapporter</a></li>
+                                                          <li>
+                                    <a class="current">Barns levekår</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Barns levekår</h1>            
+                                        <p class="ingress">Familiens inntekt og barns levekår over tid</p>
+                                        <em>Forfatter(e):</em>
+                <ul><li>Mona Sandbæk (red.) </li><li>Anne Skevik Grødem </li><li><a href="/tilsatt/lbkri">Lars Bjarne Kristofersen</a></li><li><a href="/tilsatt/joniva">Jon Ivar Elstad</a></li><li><a href="/tilsatt/secla">Sten-Erik Clausen</a></li><li>Anne Brita Thorød </li></ul>
+                                        <em>NOVA Rapport 7/08</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/45890/676824/file/3379_1.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p>I denne rapporten presenterer og drøfter vi resultatene fra andre datainnsamling i prosjektet «Barns levekår - betydningen av familiens inntekt» som ble gjennomført i 2006. Undersøkelsen handler om hvordan barn fra familier med lav inntekt (60 prosent av medianinntekten) har det sammenliknet med barn i familier fra alle inntektsgrupper. Statistisk sentralbyrå intervjuet 1303 familier og et tilsvarende antall barn i alderen 9-15 år for andre gang. Et sentralt spørsmål er om det har funnet sted noen endring i løpet av de tre årene som har gått fra vi intervjuet barn og foreldre første gang (Sandbæk 2004).Rapporten belyser utviklingen av familienes levekår fra 2003 til 2006, og forholdet mellom lav inntekt og levekår. Vi ser på sammenhengen mellom lav familieinntekt og barns skolehverdag, fritidsaktiviteter og helse. Avslutningsvis drøfter vi mulige tiltak med særlig fokus på tiltak som kan støtte foreldrene i å gi barna gode oppvekstforhold, og tiltak rettet direkte mot barna selv.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p>
+<strong>Kapittel 1: Innledning</strong>
+</p><p>Undersøkelsen «Barns levekår - betydningen av familiens inntekt» er et samarbeidsprosjekt mellom Norske Kvinners Sanitetsforening og NOVA. Den landsomfattende og representative intervjuundersøkelsen studerer leve­kårene til barn som lever i familier med under 60 prosent av medianinn­tekten. Barn og foreldre er informanter om ulike sider av levekårene sine. Det er en longitudinell undersøkelse med tre datainnsamlinger over 10 år, med både kvantitativ og kvalitativ informasjon. Valget av et paneldesign gjør at vi følger de samme familiene over tid. I denne rapporten presenterer og drøfter vi resultatene fra andre datainnsamling som ble gjennomført i 2006. Statistisk sentralbyrå intervjuet 1303 familier og et tilsvarende antall barn i alderen 9-15 år for andre gang. 1068 av informantene kom fra «lavinn­tektsutvalget», mens 235 kom fra et «kontrollutvalg». Et sentralt spørsmål i denne rapporten er hvilke endringer som har funnet sted i løpet av de tre årene som har gått fra vi intervjuet barn og foreldre første gang i 2003 (Sandbæk red. 2004).</p><p>
+<strong>Kapittel 2: Metode</strong>
+</p><p>Kapittel 2 går nærmere inn på metodiske aspekter ved studien. Studien består av to utvalg: lavinntektsutvalget, som består av familier som hadde inntekter under EUs fattigdomsgrense i inntektsåret 2000, og kontroll­utvalget, som består av familier med inntekter fra hele inntektsfordelingen. Fattigdomsgrensen er definert som inntekt per forbruksenhet lavere enn 60 prosent av medianinntekten ved bruk av den modifiserte OECD-skalaen. Intervjuene ble gjennomført våren 2006. Vi intervjuet både voksne og barn, barna var på intervjutidspunktet mellom 9 og 15 år gamle. Svarprosentene i 2006 var 65,6 prosent i lavinntektsutvalget og 75,8 prosent i kontroll­utvalget, som er omtrent som forventet i en undersøkelse av denne typen. En frafallsanalyse viser at vi har størst frafall blant ikke-vestlige innvandrere og blant familier med svak arbeidstilknytning.</p><p>
+<strong>Kapittel 3: Familieforhold og yrkestilknytning</strong>
+&nbsp;</p><p>Kapitlet gjennomgår noen av de sentrale bakgrunnskjennetegnene ved fami­liene i undersøkelsen. Som i 2003 finner vi at andelen barn som bor sammen med begge foreldrene, er mer enn 10 prosentpoeng lavere i lavinntekts­utvalget enn i kontrollutvalget (63 mot 73 prosent). Flere i lavinntekts­utvalget har opplevd familieendring i perioden 2003-2006. Dette skyldes delvis at mange av de som var enslige foreldre i 2003, har etablert nye parfor­hold i 2006. Ser vi på yrkestilknytning, finner vi at 70 prosent av kontroll­utvalget er toforeldrefamilier med to inntekter. Tilsvarende tall for norske i lavinntektsutvalget er 48 prosent, for innvandrere i lavinntektsutvalget 26 prosent. Toforeldrefamilier der ingen av de voksne har lønnet arbeid, utgjør mindre enn én prosent av kontrollutvalget, 3 prosent av norske lavinntekts­familier, og 24 prosent av innvandrerfamilier i lavinntektsutvalget. Den vanligste familiekonstellasjonen blant ikke-vestlige innvandrere i lavinntekts­utvalget er toforeldrefamilier der bare én er yrkesaktiv. Det er generelt en klar tendens i retning av at familiene i lavinntektsutvalget har sterkere arbeidstil­knytning i 2006 enn de hadde i 2003. Utdanningsnivået er høyest i kontroll­utvalget og lavest blant ikke-vestlige innvandrere i lavinntektsutvalget. Ser vi på mottak av sosialhjelp, finner vi at 14 prosent av familiene i lavinntekts­utvalget har mottatt større eller mindre summer, mot under to prosentikontrollutvalget.Alle gruppene vi ser på har hatt en viss inntektsøkning i perioden (målt i nominelle kroner), men forskjellene mellom kontrollut­valget, norske/vestlige familier i lavinntektsutvalget og ikke-vestlige innvand­rere i lavinntektsutvalget er fortsatt tydelige. 63 prosent av de ikke-vestlige innvandrerne og 46 prosent av de norske i lavinntektsutvalget har hatt inntektunderfattigdomsgrensen i minst tre av de seks</p><p>
+<strong>Kapittel 4: Flytting, boligforhold og boligproblemer</strong>
+</p><p>Flere familier i lavinntektsutvalget enn i kontrollutvalget (27 versus 14 prosent) har opplevd flytting i perioden 2003-2006. Det har vært mest flytting blant familier som hadde en utilfredsstillende boligsituasjon i 2003. Flere har etablert seg som selveiere på boligmarkedet: 64 prosent av familiene i lavinntektsutvalget, og 87 prosent i kontrollutvalget, bor i selveide boliger i 2006. Boligstørrelsen, målt som antall rom per person i husholdningen, har økt lite i perioden. Ikke-vestlige innvandrere bor trangt svært mye oftere enn andre grupper - hele 63 prosent av dem disponerer mindre enn ett rom per person. Det tilsvarende tallet for norske familier i lavinntektsutvalget er 12 prosent. Andelen som oppgir ulike boligproblemer, er lavere i 2006 enn i 2003, men familiene i lavinntektsutvalget oppgir fortsatt flere boligproblemer enn kontrollutvalget. I 2003 oppga 48 prosent av lavinntektsutvalget, og 62 prosent i kontrollutvalget, at de ikke hadde noen av de boligproblemene vi spesifiserte. Andelene i 2006 er hhv. 57 og 69. Antallet boligproblemer vari­erer i noen grad med inntektsutviklingen etter 2000: det er flere som har svært dårlige boliger blant dem i lavinntektsutvalget som hadde inntekter under fattigdomsgrensen i 2005 enn blant de som har hatt en bedre inntekts­utvikling.</p><p>
+<strong>Kapittel 5: Materielle levekår</strong>
+</p><p>79 prosent av familiene i lavinntektsutvalget eier alle de tre sentrale for­bruksgodene vi har definert (fryser, vaskemaskin, oppvaskmaskin) i 2006, mot 71 prosent i 2003. Andelen i kontrollutvalget er 95 prosent. Andelen i lavinntektsutvalget som sier at de ikke har mulighet til å klare en uforutsett regning på 10.000 kroner er falt fra 8 til 4 prosent. Ingen i kontrollutvalget gir dette svaret. Andelene som oppgir at de ikke får pengene til å strekke til, er stabile, og fortsatt høyere i lavinntektsutvalget enn i kontrollutvalget. De som har inntekter under fattigdomsgrensen i 2005, sier oftere at de har problemer med å få pengene til å strekke til enn familier som har hatt en bedre inntektsutvikling. Ikke-vestlige innvandrere, enslige forsørgere og familier med svak yrkestilknytning er overrepresenterte blant familier med dårlige levekår innenfor lavinntektsutvalget. 62 prosent av familiene i lav­inntektsutvalget oppgir ingen av de levekårsproblemene vi har definert (boligproblemer, mangel på forbruksgoder, føler at pengene ikke strekker til), mens 26 prosent opplever ett problem, 9 prosent to, og 3 prosent oppgir alle tre levekårsproblemer. Det har skjedd en forbedring på dette området i perioden: i 2003 oppga 50 prosent av familiene i lavinntektsutvalget at de ikke hadde noen av de aktuelle levekårsproblemene. Av de som hadde problemer på alle de tre områdene i 2003, har nesten hver tredje beveget seg til «ingen levekårsproblemer»-kategorien. Vi ser altså en generell tendens til forbedring, samtidig som vi ser at fåoppleversvært dårligelevekår etter disse indikatorene over tid.</p><p>
+<strong>Kapittel 6: Familieliv og sosiale nettverk</strong>
+</p><p>De viktigste skillelinjene med hensyn til familieliv og nettverk går mellom ikke-vestlige innvandrerfamilier på den ene sida, og norske familier på den andre, heller enn mellom familier med god eller mindre god økonomi. 33 prosent av ikke-vestlige innvandrere i lavinntektsutvalget avstår fra å reise på årlige ferier, mot 11 prosent av norske familierilavinntektsutvalget og 7 prosent i kontrollutvalget. 28 prosent av ikke-vestlige innvandrerfamilier går ikke ut og spiser eller på kino minst en gang i halvåret, mot 16 prosent av de norske i lavinntektsutvalget og 11 prosent i kontrollutvalget. Men: andelen innvandrere som inviterer venner/familier hjem er 85 prosent, som er høyere enn for norske i lavinntektsutvalget (77 prosent) og for kontroll­utvalget (80 prosent). Det er ingen forskjeller mellom lavinntektsutvalget og kontrollutvalget når det gjelder kontakt med besteforeldre, derimot har ikke-vestlige innvandrerbarn vesentlig mindre besteforeldrekontakt. 81 prosent av barna i kontrollutvalget ser minst en av besteforeldrene sin minst en gang i måneden, mot 71 prosent av norske barn i lavinntektsutvalget - og 14 prosent av de ikke-vestlige innvandrerbarna. Ikke-vestlige innvandrere i lavinntektsutvalget har langt mer sårbare sosiale nettverk enn norske familier i lavinntekts- og kontrollutvalget. 25 prosent av innvandrerne sier de mangler noen å snakke fortrolig med i familien, mens 30 prosent mangler noen å snakke med uten­for familien. Tilsvarende tall for norske i lavinntektsutvalget er 7 og 9 prosent. 26 prosent av innvandrerne mangler noen i familien som kan stille opp ved sykdom, og 27 prosent har ingen utenfor familien. Andelene blant de norske er 9 og 16 prosent. Rundt 10 prosent av inn­vandrerne har ingen å gå til for en fortrolig samtale eller når de trenger hjelp ved sykdom, verken i eller utenfor familien.</p><p>
+<strong>Kapittel 7: Helse og helserelaterte forhold blant foreldre og foresatte</strong>
+</p><p>Som i 2003 har de foresatte i lavinntektsutvalget også i 2006 generelt en mye dårligere helsesituasjon enn de foresatte i kontrollutvalget. I lavinntekts­utvalget rapporterer 23 prosent av mødrene og 22 prosent av fedrene i 2006 at deres egenvurderte allmennhelse er middels eller dårlig, mot henholdsvis 13 og 15 prosent blant mødrene og fedrene i kontrollutvalget. Også om­fanget av psykiske plager er klart større blant mødrene i lavinntektsutvalget enn blant mødrene i kontrollutvalget. Endringene av helsetilstanden blant de foresatte fra 2003 til 2006 er imidlertid ganske lik i lavinntektsutvalget og i kontrollutvalget, og helsetilstanden blant de foresatte varierer ikke på noen klar måte med varigheten av fattigdom i perioden 2000-2005. Analysene ga inntrykk av at helseproblemer hemmet yrkesaktiviteten i 2006 blant de fore­satte i lavinntektsutvalget, og helseproblemer er derfor trolig en av årsakene til at disse familienes lavinntektssituasjon vedvarte. Blant de foresatte i lavinntektsfamiliene er det særlig de ikke-vestlige og eneforsørgerne som gir inntrykk av relativt dårlig helsetilstand, mens lavinntektsforeldrene som opp­lever en merromsligfamilieøkonomi i 2006, rapportererom mindre omfang av dårlig egenvurdert helse og av psykiske plager. Opplevelsen av en dårlig familieøkonomi ser derfor særlig ut til å ha sammenheng med de subjektive helseplagene blant foreldrene.</p><p>
+<strong>Kapittel 8: Barns skolehverdag: Prestasjoner, sosiale relasjoner og trivsel</strong>
+</p><p>De fleste barna i lavinntektsutvalget kom i første fase av undersøkelsen godt ut på flere av indikatorene både når det gjaldt skolen som læringsarena og sosial trivsel. Likevel var det en større andel i lavinntekts- enn i kontroll­utvalget som syntes de klarte seg dårligere på skolen enn «de andre». En noe større andel i lavinntekts- enn i kontrollutvalget hadde spesialundervisning.&nbsp;</p><p>Etter annen intervjurunde finner vi at dette bildet er litt, menikkevesentlig, endret. Alle barna som deltok i andre fase, svarte selv på spørs­målene.</p><p>Åtte av 10 barn både i lavinntekts- og kontrollutvalget oppgir at de trives veldig godt / godt på skolen. Ni av 10 synes at de har veldig god / god kontakt med lærer og kan snakke med læreren. Godt over halvparten sier seg helt enige i at læreren oppfordrer dem til å uttrykke meningene sine og behandler alle rettferdig. Det er signifikante forskjeller i retning av at ikke-vestlige ungdommer utrykker seg mer positivt om disse forholdene. Nærmere ni av 10 i begge utvalg oppgir at de har fire eller flere gode venner i klassen / på trinnet og omlag 10 prosent to eller tre.&nbsp;</p><p>Ungdommene i lavinntektsutvalget oppgir signifikant lavere matema­tikk-karakterer enn kontrollutvalget. For øvrig er det små variasjoner i karakterer, de største variasjonene finner vi mellom gutter og jenter i kontrollutvalget.</p><p>Det er en større andel som blir mobbet på skolen i lavinntektsutvalget sammenliknet med kontrollutvalget, men forskjellene er ikke signifikante. Blant dem som ble mobbet i 2003, er det en større sjanse for å bli mobbet også i 2006.</p><p>I familier med lav inntekt i 2005 er det signifikant flere barn som benytter pedagogisk-psykologisk tjeneste.</p><p>
+<strong>Kapittel 9: Fritid og sosial deltakelse</strong>
+</p><p>Som i 2003 finner vi i 2006 signifikante resultater når det gjelder høyere deltaking i organiserte fritidsaktiviteter (trener i klubb, for eksempel fotball, riding eller liknende) blant norske barn i lavinntektsgruppen 9-12 år sammenliknet med ikke-vestlige barn i samme alder. Blant 13-15-åringene er en enda høyere andel av de ikke-vestlige innvandrerne i lavinntektsgrup­pen passive i forhold til organiserte aktiviteter, det gjelder nå vel 46 prosent. I kontrollutvalget og blant barn med norsk/vestlig bakgrunn i lavinntekts­utvalget er henholdsvis 33 og 22 prosent passive.&nbsp; Det er først og fremst de ikke-vestlige jentene som bidrar til de signifikante forskjellene mellom inn­tektsgruppene, ikke guttene.</p><p>Blant de yngste finner vi at ikke-vestlige barn i lavinntektsgruppen sammenliknet med både lavinntektsgruppen av norske / vestlige innvandrere og kontrollgruppen sjeldnere har venner hjemme hos seg. Dette gjelder både gutter og jenter. Vi finner ikkeslikeforskjeller for 13-15-åringene.</p><p>Barna og de unge i kontrollutvalget oppgir noe oftere enn barna og de unge i lavinntektsgruppen at de eier CD-spiller, mobiltelefon, ski/snowboard eller sykkel. Når vi splitter lavinntektsutvalget i norske / vestlige innvandrere og ikke-vestlige innvandrere, ser vi at disse typene av utstyr oftere eies av de norske enn av ikke-vestlige innvandrere. Forskjellene er særlig store for ski/snowboard og vesentlig mindre for sykkel. Alle forskjellene er statistisk signifikante</p><p>
+<strong>Kapittel 10: Barns opplevelse av famlieøkonomien og egne økonomiske ressurser</strong>
+</p><p>I 2003 svarte bare de eldste barna (10-12-åringene) på spørsmålet om deres eget syn på familiens økonomi. Flertallet av barna svarte den gangen at familien verken hadde god eller dårlig råd, og at familiens økonomi ikke hadde lagt begrensninger på deres egen sosiale deltakelse. Vi observerer i 2006 også bare små variasjoner i barna og de unges subjektive opplevelse av familiens økonomi på grunnlag av den registrerte inntektssituasjonen. Dette kan ha sammenheng med at foreldrene skjermer barna, men og med at barna vegrer seg for å fortelle om familiens økonomiske vansker. Men vi finner en noe klarere og sterkere sammenheng i forventet retning med foreldrenes subjektive rapportering. I familier der foreldrene rapporterer om en anstrengt økonomi, er også barna langt mer tilbøyelige tilårapportere det samme. I den delen av lavinntektsutvalget med de gjennomgående laveste inntektene, hvor foreldrene i egne intervjuer hevder at pengene ikke strekker til, svarer en vesentlig høyere andel av barna at familien har dårlig / veldig dårlig råd sammenliknet med familier i lavinntektsutvalget hvor foreldrene hadde mer positivt syn på familieøkonomien.</p><p>Målene vi har for barnas egne økonomiske ressurser viser med enkelte unntak mindre forskjeller mellom de to delene av lavinntektsutvalget (lavinntekt / ikke lavinntekt tre av de seks siste årene) og kontrollutvalget. Det er litt forskjell i gjennomsnittstallene for lommepenger (ukentlig beløp) og en viss forskjell i andelen 13-15-åringer som jobber utenom skolen. 27 prosent i kontrollutvalget jobber utenom skolen i 2006 mot kun vel 15 prosent i lavinntektsutvalget</p><p>
+<strong>Kapittel 11: Helse blant lavinntektsbarna</strong>
+</p><p>I analyser av helseforhold blant barn er det viktig å legge vekt ikke bare på sykdommer og funksjonshemninger, men også på barnets kroppslige, men­tale og sosiale utvikling, ettersom slike indikatorer representerer barnets potensial for helse på lengre sikt. Kapitlet viser at lavinntektsbarna har en lavere høydevekst enn barna i kontrollutvalget. Kontrollert for alders- og kjønnssammensetning er lavinntektsbarna 2-3 cm kortere enn barna i kon­trollutvalget. Det er også en litt større tendens til overvekt blant lavinntekts­barna enn blant barna i kontrollutvalget, mens sykdommer og funksjons­hemninger ikke forekommer oftere blant lavinntektsbarna enn blant kontrollutvalgsbarna. Når det gjelder trivsel, psykosomatiske symptomer og sosial tilpasning, er ikke situasjonen blant lavinntektsbarna med ikke-vestlig bakgrunn påtakelig dårligere enn blant kontrollutvalgsbarna. For slike forhold som er knyttet til psykososial utvikling og problematisk atferd, er det imidlertid klare forskjeller mellom kontrollutvalgsbarna og lavinntektsbarna med norsk bakgrunn. Blant de norske lavinntektsbarna rapporterer for eksempel 24 prosent om minst ett ukentlig psykosomatisk symptom, mot 17 prosent blant barna i kontrollutvalget. 15 prosent av de norske lavinntekts­barnaharhatt mer enn 10 dagers skolefravær pågrunn av sykdom «siden skoleferien», mot 9 prosent blant kontrollutvalgsbarna. De norske lavinn­tektsbarna har også oftere hatt kontakt med instanser som barne- og ung­domspsykiatrien og barnevernet enn kontrollutvalgsbarna, flere av foreldrene rapporterer at barnet har ADHD (3,8 mot 0,9 prosent), og blant 13-15-åringene er det flere dagligrøykere blant de norske lavinn­tektsbarna enn blant kontrollutvalgsbarna (5,2 mot 0,9 prosent). Den uheldige profilen når det gjelder slike helserelaterte forhold blant de norske lavinntektsbarna er særlig markant i familier som har hatt en svak familieøkonomi over lengre tid, men den er også mer utpreget i eneforsørgerfamilier og i familier der de foresatte selv rapporterer om egne helseproblemer. Dette tyder på at lav familie­inntekt, men også andre familierelaterte forhold som forekommer hyppigere i lavinntektsfamilier, kan være en stressfaktor for barna som er forbundet med en høyere risiko for mistrivsel, uheldig psykososial utvikling og problematisk atferd. Dette ser særlig ut til å inntreffe blant lavinntektsbarna med norsk bakgrunn, men - kanskje litt overraskende - ikke så mye blant lavinntektsbarn med ikke-vestlig bakgrunn. Riktignok er ikke helsesitua­sjonen generelt sett dårlig blant de norske lavinntektsbarna, men det er altså en overhyppighet av problematiske forhold som kan bety en mer ugunstig helseutvikling på lengre sikt</p><p>
+<strong>Kapittel 12: Selvtillit og kontrollplassering</strong>
+</p><p>Resultatene av analysene av Harters (1982, 1988) to skalaer for selvoppfattet kompetanse viser at barn som kommer fra familier med lav inntekt, skårer lavere på selvoppfattet kompetanse enn barn i kontrollutvalget som kom fra familier med inntekter fraheleinntektsfordelingen. Også i familier hvor foreldrene mener at pengene ikke strekker til, er det flere barn som har lav selvoppfattet kompetanse. Barn som bor hos begge foreldrene skårer betydelig høyere både på Harters barne- og ungdomsskala.</p><p>Nowicki og Stricklands (1973) skala for kontrollplassering viser at barn fra familier med lave inntekter over flere år har en større tilbøyelighet til å forklare ulike hendelser med tilfeldigheter og ytre omstendigheter. Til­svarende er de mindre tilbøyelige til å vektlegge betydningen av egne ferdig­heter. Vi finner samme resultater for barn i familier hvor foreldrene vurderer at pengene ikke strekker til. Videre viste resultatene at lavinntektsbarn fra ikke-vestlige opphavsland også hadde en sterkere tendens til å ytre kontroll­plassering, det vil si tilskrive hendelser til ytre omstendigheter.</p><p>
+<strong>Kapittel 13: Sosial ekskludering</strong>
+</p><p>Kapittelet bygger på det kvalitative datasettet i Barns levekår, dvs. 26 intervjuer med barn i alderen 10-13 år. Det belyser om barn som lever i familier med lav inntekt, er utsatt for sosial eksklusjon, og hvilke eksklu­sjonsprosesser som i så fall er i virksomhet. Sosial eksklusjon er knyttet både til strukturelle og relasjonelle forhold, og analyseres langs dimensjonene skole, fritid, venner og forbruk. Tilgang til penger regulerer i stor grad aktivi­teter både i skole, den organiserte og uorganiserte fritiden. Dette legger grunnlag for sosial eksklusjon. De ekskluderende prosessene beveger seg langs to akser. Den ene går fra struktur til relasjon, den andre fra lav til høy grad av eksklusjon. Barna i utvalget befinner seg i forskjellige posisjoner. Noen barn erfarer i liten grad sosial eksklusjon, mens andre opplever eksklusjon på mange områder. Det ser ut til at de barna som lever under dedårligsteøko­nomiske vilkårene også erde som i størst grad risikerer å bli sosialt eksklu­derte.</p><p>
+<strong>Kapittel 14: Barns levekår - konklusjoner</strong>
+</p><p>I dette kapitlet gir vi en samlet drøfting av hvordan resultatene fra andre datainnsamling belyser prosjektets problemstillinger. Vi ser nærmere på utviklingen av familienes levekår fra 2003 til 2006, i henholdsvis lavinntekts- og kontrollutvalget og på forholdet mellom lav inntekt og levekår; kan familiene i vårt lavinntektsutvalg kalles fattige? Foreldrenes svar viser signifi­kante forskjeller på alle de områdene vi har undersøkt i disfavør av familier med lav inntekt, mens bildet er mer sammensatt for barna. Også her går alle ulikheter i disfavør av barn fra familier med lav inntekt, men på mange områder finner vi ikke store forskjeller mellom barn fra ulike inntekts­grupper. Kan dette skyldes at foreldrene beskytter barna sine mot de negative konsekvensene av lav inntekt, eller er det mer dekkende å si at de prioriterer barna, men ikke lykkes med å beskytte dem? Flere av funnene våre peker i retning av at barna fanger opp den faktiske økonomiske situasjonen, særlig når den er vanskelig nok. Avslutningsvis drøfter vi hvordan vi kan beholde et fokus på barn i bekjempelsen av barnefattigdom. Vi drøfter tiltak langs to dimensjoner; universelle tiltak som bygger opp om foreldrenes vilje og ønsker om selv å legge til rette for at barna skal ha gode oppvekstforhold, og tiltak rettet direkte mot barna selv på deres ulike arenaer.</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/nova/publikasjonar/nova-publikasjonar/rapportar/2008/barns-levekaar/nova-rapport-7-08/675591-2-nor-NO/NOVA-Rapport-7-08.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2008</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+326</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+978-82-78-94283-3</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+0808-5013</p>
+                </div>
+                                                                <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                300,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                                                        <a href="mailto:publikasjoner@nova.hioa.no">
+                                NOVA                            </a>
+                                                            </div>
+                        </div>
+
+                            <h4>Tilknyttet prosjekt</h4>
+                <div class="publication_right_content_line">
+                                                    <a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Prosjekter/Prosjekter-sammenlignende-velferdspolitikk/Avsluttede-prosjekter/2011/Barns-levekaar-betydningen-av-familiens-oekonomi-for-barns-hverdag">Barns levekår - betydningen av familiens økonomi for barns hverdag</a><br />
+                                        
+                </div>
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2008/Barns-levekaar" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

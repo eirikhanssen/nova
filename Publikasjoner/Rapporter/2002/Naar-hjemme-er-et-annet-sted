@@ -1,0 +1,502 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Når hjemme er et annet sted - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Når hjemme er et annet sted" />
+    <meta itemprop="name" content="Når hjemme er et annet sted">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+										<meta name="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design" />
+				<meta itemprop="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design">
+						
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2002/Naar-hjemme-er-et-annet-sted" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_45519 subtree_level_6_node_id_79035 subtree_level_7_node_id_39475"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter">Rapporter</a></li>
+                                                          <li>
+                                    <a class="current">Når hjemme er et annet sted</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Når hjemme er et annet sted</h1>            
+                                        <p class="ingress">Omsorg for eldre med minoritetsetnisk bakgrunn</p>
+                                        <em>Forfatter(e):</em>
+                <ul><li><a href="/tilsatt/bjmo">Bjørg Moen</a></li></ul>
+                                        <em>NOVA Rapport 8/02</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/45668/675705/file/3089_1.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p>Denne rapporten handler om eldre med minoritetsetnisk bakgrunnog deres behov, ønsker og forventninger til en god alderdom. Danske og pakistanske eldre har blitt intervjuet om sine liv i Norge.</p><p>Offentlig eldreomsorg står overfor nye utfordringer når når eldre fra minoritetsetniske grupper nå får behov for å benytte helse- og sosialtjenester. Hvilke forventninger har de til omsorg? Er det familien eller det offentlige som har ansvaret for dem? Er tjenestene tilrettelagt slik at de oppleves nyttige? Er det behov for endringer slik at eldre med minoritetsetnisk bakgrunn får samme rett som norske eldre til å benytte tjenestene?</p><p>Dette er noen av de spørsmålene som blir tatt opp i rapporten. Kunnskaper og erfaringer fra undersøkelsen vil kunne danne utgangspunkt for tilrettelegging av en etnisk sensitiv eldreomsorg.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p class=" text-left">Denne rapporten handler om danske og pakistanske eldre mennesker og deres alderdom i Norge. Pakistanske eldre ble valgt fordi jeg i snart 20 år har hatt kontakt med pakistanske innvandrere i Oslo. Danske eldre er valgt ut fra ønsket om å sammenligne eldre som flytter fra et naboland med eldre som kommer langveisfra. En annen grunn er at folk med dansk og pakistansk bakgrunn utgjør to av de største gruppene i Norge. Undersøkelsen har syn-liggjort enkelte perspektiver som er vesentlige i forståelsen av eldres liv. I bestrebelsen på å tilrettelegge for god eldreomsorg vil disse perspektivene utgjøre nyttige utgangspunkter.</p>    <h2 class=" text-left">Etnokulturelt perspektiv</h2><p class=" text-left">Å skape kontinuitet fra barndom til alderdom er vesentlig for eldre. Pakistanske og danske eldre har ulike tilpasninger og preferanser for eldreliv i Norge. Etnokulturell tilhørighet har betydning for opplevelse av kontinuitet og følelse av sammenheng. Alle informantene betegner seg for eksempel som &quot;danske&quot; eller &quot;pakistanske&quot;. Danske eldre har hva jeg vil kalle en individuell etnokulturell tilpasning, mens pakistanske eldre har en etnokultu-rell gruppetilhørighet. Pakistanske menn som er intervjuet kom på 70-tallet, mens familie-medlemmer kom noen år senere for å gjenforenes med sine ektemenn/fedre. Mennene har kommet via kjedemigrasjon, det vil si at pakistanske slekt-ninger og venner i Norge har skaffet arbeid til folk i Pakistan. Ulike typer migrasjonsmønstre - individuell migrasjon og kjedemigrasjon - har konsekvenser for de eldres tilpasning i Norge. Kjedemigrasjonen har bidratt til at pakistanske eldre har tette nettverk i Norge, og de opprettholder kon-takten med hjemstedet i Pakistan. Pakistanske eldre ser familietilhørighet som en forutsetning for et godt liv. Avhengigheten mellom familiemed-lemmer fungerer som lim for samholdet.</p><p class=" text-left">De fleste av de danske informantene kom på 50-tallet. De har kommet som enkeltpersoner fra ulike steder i Danmark. Danske eldre er integrert i det norske samfunnet på alle nivåer. Det finnes ingen organisert dansk gruppe i Norge, men de eldre definerer seg likevel som danske og for-skjellige fra nordmenn. Noen er norsk gift og andre bor alene. De har nettverk bestående av dansker og nordmenn. Danske eldre er derfor mindre avhengige av en dansk gruppetilhørighet i Norge.</p><p class=" text-left">Danske eldre vektlegger individualisme og autonomi. Også for dem betyr familien mye, men de er ikke avhengige av familien i samme grad som pakistanske eldre for å ha et godt liv. Danske eldre ser det som verdifullt å kunne delta i aktiviteter utenfor hjemmet. Noen har hager og hytter som de bruker tid på. De reiser på ferier til Danmark, men også til andre land. De ser god helse som en forutsetning for å ha en god alderdom, og ønsker å kunne planlegge aktiviteter uten helsemessige hindringer. Dette har de til felles med norske eldre.</p>    <h2 class=" text-left">Generasjonsperspektiv</h2><p class=" text-left">En god alderdom for pakistanske eldre leves i flergenerasjonsfamilien. Ti av tolv pakistanske informanter snakker ikke norsk eller snakker dårlig norsk, og de kjenner lite til majoritetssamfunnet. Dette gjelder spesielt kvinnene. Purdah-institusjonen opprettholdes, og kjønnsrollene er komplementære. Det vil blant annet si at kvinner forholder seg til kjønnssegrering, og at deres oppgaver er knyttet til hjemmet. Menn kan i større grad delta utenfor hjemmet, og har ansvaret for kontakt og oppgaver i forhold til majoritets-samfunnet. Eldre menn snakker bedre norsk enn kvinnene, men også blant dem er norskkunnskapene mangelfulle. Både menn og kvinner ønsker et &quot;pakistansk liv&quot;. Dette er først og fremst mulig innenfor pakistanske familier og nettverk. Ulike tilpasninger får konsekvenser for hvilke type omsorgsløsninger som er relevante for eldre. Danske eldre vil i liten grad møte problemer med å benytte tiltak, slik de er tilrettelagt for norske eldre. Men noen nevner at språket kan være en mulighindring i god kommunikasjon med nordmenn. Personale med innvandrerbakgrunn kan også ha vansker med å forstå dansk. Enkelte er bekymret for at dette kan skape avstand til personer i for eksempel aldersinstitusjoner og eldresentre. Noen ønsker samvær med danske eldre.</p><p class=" text-left">Norge har vedtatt en lov (1964) som fritar barn for økonomisk og sosialt ansvar for sine foreldre. Dette betraktes som et fremskritt, yngre mennesker skal ikke behøve å &quot;ofre&quot; seg for belastende omsorgsansvar for hjelpetrengende eldre. Men mange pakistanske, voksne barn ønsker å beholde sine gamle foreldre i hjemmet. Dette kan være en følge av tradisjo-ner, sosiale og økonomiske forpliktelser eller også glede over å bo sammen. De eldre er opptatt av å &quot;ha det som i Pakistan&quot;, og en mulighet for å oppnå dette er blant annet svigerdøtre som er vokst opp i Pakistan. De er mindre påvirket av &quot;norske&quot; væremåter. Men familieomsorgen kan også være en følge av manglende alternativer. Mange eldre har dårlige forutsetninger for å bo alene, eller benytte &quot;norske&quot; tiltak.</p><p class=" text-left">Pakistanske eldre har behov for noen særordninger, blant annet på grunn av kulturelle tradisjoner, manglende språkkunnskaper og fordi de er muslimer. Mange flergenerasjonsfamilier er villige til å strekke seg langt for å påta seg omsorgsansvar for sine gamle. Hjemmebaserte tjenester og ytelser for flergenerasjonsfamilien som en helhet vil derfor kunne bidra til god omsorg for de eldre. Når helse- og sosialpersonell skal utarbeide planer for hvilken type hjelp pakistanske eldre har behov for, må hele familiens behov tas i betraktning. Mye ansvar faller på mellomgenerasjonen, spesielt de yngre kvinnene. Sykehjem eller aldershjem anses for å være en nødløs-ning. Dersom dette skulle kunne være et alternativ til tunge omsorgs-oppgaver i familien, foretrekker mange eldre etnisk atskilte tilbud med to-språklig personale. Pakistanske eldre vil ha nytte av det jeg betegner som familieorientert omsorg, mens danske eldre kan benytte individorientert omsorg på samme måte som norske eldre. For danske eldre er hjemmet det viktigste anker-festet, mens for pakistanske eldre er det familien. Danske eldre ønsker ikke å flytte ut av hjemmet. De vil klare seg selv så lenge dette er mulig. Pakistanske eldre ønsker ikke å flytte ut av familien. De er avhengig av familien for å få dekket sine behov og forventninger til omsorg. Flere flytter rundt mellom sønner og døtre og deres familier og har ikke et eget hjem.</p>    <h2 class=" text-left">Transnasjonalt perspektiv</h2><p class=" text-left">Både pakistanske og danske eldre har hva vi kan betegne en transnasjonal tilpasning. De opprettholder kontakt og føler tilhørighet til både hjemlandet og Norge. Pakistanske eldre holder kontakt med hjemstedet gjennom del-takelse i bryllup og begravelser, og gjennom familiemedlemmers ekteskap med ektefeller fra Pakistan. Enkelte har bygget hus på hjemstedet. Den transnasjonale tilpasningen gjør at mange tilbringer mye tid i hjemlandet, dette gjelder spesielt for pakistanske eldre som ikke er i arbeid. Økonomi og sykdommer kan forhindre kontakten med hjemstedet. De lange hjemreisene forutsetter god helse og tilstrekkelig med penger. Transnasjonal tilpasning er mulig fordi de eldre kan få utbetalt norske pensjoner i Pakistan. En del helsetjenester blir også delvis dekket, dersom de er medlem i Folketrygden og ikke oppholder seg utenfor Norge mer enn seks måneder i året. Flere eldre er avhengige av sosialtrygd. Denne kan de ikke få utbetalt utenfor Norge. For eldre med dårlig råd forhindrer dette hjemreiser. Hjemreiser og kontakt med familien i et hjemland med sol og varme er for pakistanerne vesentlig for god helse - og en god alderdom. Forslag om sykehjem/aldershjem i Pakistan har blitt diskutert i inn-vandrerorganisasjoner. Informantene synes ikke dette er en god ide. De ønsker å være sammen med familiemedlemmer på sine hjemsteder i Pakistan, og heller betale folk for omsorg der. Danske eldre som ønsker å oppholde seg lengreperioder i Danmark, møter ingen hindringer. Deres rettigheter er i samsvar med regelverket til EØS.</p>    <h2 class=" text-left">Drømmen om å komme hjem</h2><p class=" text-left">Omtrent alle pakistanske eldre foretrekker å begraves i hjemlandet. Flere danske eldre gir også uttrykk for dette. For pakistanske eldre blir dette ønsket oppfylt, fordi begravelsesfond og begravelsesbyråer gjør det mulig å sende hjem kister til hjemsteder i Pakistan. Danske eldre har ikke tilsvarende muligheter, de er avhengige av at &quot;noen&quot; sørger for at dette blir gjort. Ønsket om å begraves i hjemlandet kan betraktes som et ønske om å vende hjem. Både danske og pakistanske eldre hadde tenkt å bo i Norge noen år, for så å reise tilbake. Etter hvert har drømmen blitt å flytte til hjemlandet på sine eldre dager. Men ingen har flyttet tilbake. De har hjem, familie og sosiale nettverk som binder dem til Norge. Den transnasjonale tilpasningen demper savn og hjemlengsel, men drømmen om å reise tilbake for godt blir kanskje oppfylt først etter at de er døde. Ønsket om å begraves i hjemlandet kan tolkes som et tegn på at de eldre aldri helt har slått seg til i Norge.</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/nova/publikasjonar/nova-publikasjonar/rapportar/2002/naar-hjemme-er-et-annet-sted/nova-rapport-8-20022/676930-2-nor-NO/NOVA-Rapport-8-2002.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2002</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+143</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+82-7894-137-8</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+0808-5013</p>
+                </div>
+                                                                <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                200,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                                                        <a href="mailto:publikasjoner@nova.hioa.no">
+                                NOVA                            </a>
+                                                            </div>
+                        </div>
+
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2002/Naar-hjemme-er-et-annet-sted" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

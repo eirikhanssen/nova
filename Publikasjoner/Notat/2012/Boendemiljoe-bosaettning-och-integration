@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Boendemiljö, bosättning och integration - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Boendemiljö, bosättning och integration" />
+    <meta itemprop="name" content="Boendemiljö, bosättning och integration">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+										<meta name="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design" />
+				<meta itemprop="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design">
+						
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2012/Boendemiljoe-bosaettning-och-integration" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Notat/2012/Neighbourhood-housing-and-integration">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Notat/2012/Neighbourhood-housing-and-integration">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_78956 subtree_level_6_node_id_78922 subtree_level_7_node_id_39906"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat">Notat</a></li>
+                                                          <li>
+                                    <a class="current">Boendemiljö, bosättning och integration</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Boendemiljö, bosättning och integration</h1>            
+                                                    <em>Forfatter(e):</em>
+                <ul><li><a href="/tilsatt/lmtu">Lena Magnusson Turner</a></li></ul>
+                                        <em>NOVA Notat 6/12</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/45467/674688/file/5947_1.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p>Följande litteraturöversikt handlar om boendemiljö, om bosättning och om integration. Översikten inleds med en diskussion av hur begreppet god boendemiljö har definierats och använts i politiken, i planeringen och i forskning. Därefter följer ett kapitel om boendemiljö och planering, där också begreppet grannskapsplanering diskuteras. Kapitlet följs av en översikt över den offentliga politiska debatten om god boendemiljö såsom den kommer till uttryck i framför allt Stortinget. Jag följer här ett urval av debatten från 1970-talet och framåt. Därefter följer ett kapitel om forskningen om boendemiljö och om hur grannskapets fysiska och sociala utformning kan påverka individens levandsvillkor och livschanser. Här diskuteras också forskning om boendepreferenser och vilken innebörd denna forskning har gett begreppet god boendemiljö.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p>Följande notat är en litteraturöversikt som handlar om den goda boendemiljön, och om hur begreppet boendemiljö diskuteras, definieras och manifesteras i politik, planering och forskning. Notatet är författat inom ramen för forskningsprojektet &quot;Bomiljø, bosetting, integrering&quot; vid NOVA och finansierat av Hushanken. Notatet inleds med en diskussion av hur begreppet god boendemiljö har definierats och använts i politiken, i planeringen och i forskning. I likhet med Aristoteles har nutidens politiker, planerare och forskare betonat att bostaden och bostadsområdet skall upplevas som tryggt och säkert. Men de boende skall också kunna känna lycka eller med ett annat språkbruk, känna trivsel i sitt område.</p><p>Därefter följer ett kapitel om boendemiljö och planering. Här diskuteras bland annat innebörden i grannskapsplaneringen. Omsorgen om boendemiljön har särskilt gällt i fråga om barnen och att den byggda miljön skall tillförsäkra barnen goda uppväxtförhållanden.</p><p>Det framgår tydligt i såväl föregående som nuvarande plan- och bygglag (LOV 1985-06-14 nr 77: Plan- og bygningslov och LOV 2008-06-27 nr 71: Lov om planlegging og byggesaksbehandling). I den politiska debatten, såsom den kommer till uttryck i stortingsmeldingar, har även andra grundläggande mänskliga behoven givets ett stort utrymme, såsom att boendemiljön skall vara hälsosam. Det senare har handlat om att minska störningar från trafiken, förhindra uppkomsten av trafikolyckor och minska luftföroreningarna. Men också om att trångboddhet och inte minst dåligt underhållna bostäder har en negativ inverkan på hälsan. Detta har varit tydliga målsättningar i framför allt stadsförnyelsearbetena. Andra aspekter av hälsan som sats i relation till den goda boendemiljön har varit möjligheterna till rekreation och inte minst tillgången till grönområden. Det senare har gällt oavsett om bostadsområdet varit beläget i stadens mer centrala delar eller i dess ytterområden.</p><p>Notatet fortsättet med den offentliga politiska debatten om god boendemiljö såsom den kommer till uttryck i framför allt Stortinget. Jag följer här ett urval av debatten från 1970-talet och framåt. I debatten har det varit klart och tydligt att bekymren inte varit bostädernas kvalitet, utan snarare bomiljön. Det bör dock sägas att kvaliteten på bostäderna i storstädernas inre delar varit ett bekymmer som diskuterarts i de stortingsmeldingar som behandlat levandsvillkoren i de större städerna och behoven av byförnyelse. Den politiska debatten och diskussionen såsom den speglats i stortingsmeldingar från 1970-talet och framåt har i mångt och mycket haft en likartad definition av innebörden i god boendemiljö. Det som skilt sig åt över tiden är beskrivningen av samhällsproblemet och vad som bekymrat i befintliga boendemiljöer. Det som också skilt sig åt är verktygen för att skapa goda boendemiljöer och dessutom vem det är som bär ansvaret att verkställa åtgärder.</p><p>Den politiska debatten om den goda boendemiljön har manifesterats i lagstiften och då i första hand i &quot;Plan- og bygningslov&quot; från 1985 respektive 2008. Båda lagarna innehåller inledande paragrafer som deklarerar lagens syfte. I relation till den politiska debatten från 1970-talet och framöver, finns några intressanta reflektioner att göra. Det är en tydlig tendens i den politiska debatten efter millennieskiftet att innebörden i god boendemiljö i allt mindre utsträckning har handlat om sociala aspekter av boendemiljön och de socioekonomiska grannskapseffekterna. Fokus har i allt större utsträckning legat på mer fysiska förhållanden. En god boendemiljö skall ge människor goda levnadsvillkor. Men bekymren över att dåliga boendemiljöer i sig kan förstärka effekterna av andra dåliga levnadsvillkor som arbetslöshet ser vi allt mindre av i den politiska debatten efter år 2000. Fram till millennieskiftet betonades inte bara tillgången på arbetsplatser, service, kollektivtrafik och fritidsaktiviteter som aspekter av god boendemiljö. En god boendemiljö skulle också ha ett mervärde i form av utvecklingsmöjligheter för individen och stimulera till sociala kontaker mellan individer. Diskussionen handlade också om hur insatser för att förstärka levnadsvillkoren kunde utformas så att de inte bara förstärkte de materiella levnadsvillkoren utan också de sociala nätverken och det sociala kapitalet samt bidrog till att dana människor i en demokratisk anda.</p><p>I debatten hänvisades med jämna mellanrum till plan- og bygglagen. Det är den lag som är det kommunala verktyget för att säkra individerna en god boendemiljö. Vad säger då lagen från 1985? Av § 1.2 framgår att planering enligt lagen speciellt skall lägga till rätta för att säkra barnen goda uppväxtvillkor. När vi då kommer fram till den nu gällande plan- och bygglagen från 2008 så framgår det att lagen har fått ett betydligt vidare syfte. Nu handlar det om bärkraftig utveckling, miljövänligt byggande, säkerhet och hälsa. Och inte minst om att bygga på attraktiva platser och med goda boendemiljöer. Det är generella formuleringar som gäller alla, och inte enbart barnen.</p><p>I takt med att den poliska debatten måhända lämnat debatten om den goda boendemiljön i en vidare såväl fysisk, social och kulturell bemärkelse, och även gett problematiseringen av densamma en undanskymd roll, har lagstiftningen tagit vid och gett den goda boendemiljön en framskjuten plats i samhällsbygget. Men de sociala aspekterna av boendemiljön och den sociala interaktion som uppkommer mellan individer i ett bostadsområde har likväl kommit i skymundan, eller snarare kommit att omfatta de vanskligställda på bostadsmarknaden och framför allt dem i kommunala bostäder (NOU 2011:15). Emellertid, de sociala aspekterna har indirekt kommit in i diskussionen genom införandet av ägarlägenheter. I den diskussionen blev ägandet ett medel för att inte bara skapa trygghet och säkerhet utan också främja de sociala aspekterna av ett bostadsområde såsom att främja det sociala kapitalet. Men ansvaret synes att i allt större grad läggas på de boende själva. De sociala aspekterna var också en uttalad målsättning i diskussionen om blandad fysisk struktur för att åstadkomma en social blandning i bostadsområdet. Det i sig var ett medel för att skapa sociala kontakter och inte minst tolerans mellan människor.</p><p>Den sociala aspekten i bemärkelsen att lägga grund till kontakter mellan människor i ett bostadsområde, är komplicerad. Det framgår i det kapitel som handlat om forskningen om den goda boendemiljön. Det finns en diskussion bland forskare om vad bostadsområdet betyder och för vem samt hur länge, och inte minst vad betyder de ofta svaga band och nätverk som kan utvecklas i ett bostadsområde i förhållande till andra starkare band som utvecklas i till exempel en familjekrets eller vänkrets.</p><p>Den av frågorna som varit återkommande i forskningen om boendemiljön, det vill säga forskningen om grannskapet och dess betydelse för individer, är för vem grannskapet är viktigt. Tveklöst har det betydelse för barnen och där råder samstämmighet mellan politiker och forskare. Grannskapet har också en vidare betydelse för individers trivsel, säkerhet och trygghet. Men det är fortsatt en öppen fråga i vilken grad grannskapet har oberoende effekter för människors livschanser och vad betyder det att utveckla ett socialt kapital i bostadsområdet. Och hur förhåller sig grannskapet till andra arenor där individen är verksam såsom skola, arbetsplatser och inte minst den arean som utgörs av sociala media. Jag har konstaterat att ’place matters’, men det finns goda skäl att reflektera över den geografiska vidden av platsen, framför allt för dagens unga. För många av dem är de dagliga kontakterna inte enbart knutna till skola och bostadsområde utan också till vänner på Facebook och Twitter - imaginära platser där geografiska gränser har luckrats upp. Och vilka effekter får det för de unga och deras reella bostadsområden?</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/nova/publikasjonar/nova-publikasjonar/notat/2012/boendemiljoe-bosaettning-och-integration/boendemiljoe-bosaettning-och-integration/676566-2-nor-NO/Boendemiljoe-bosaettning-och-integration.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2012</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+73</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+978-82-7894-438-7</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+1890-6435</p>
+                </div>
+                                                                <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                100,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                                                        <a href="mailto:publikasjoner@nova.hioa.no">
+                                NOVA                            </a>
+                                                            </div>
+                        </div>
+
+                            <h4>Tilknyttet prosjekt</h4>
+                <div class="publication_right_content_line">
+                                                    <a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Prosjekter/Prosjekter-sammenlignende-velferdspolitikk/Avsluttede-prosjekter/2012/Bomiljoe-bosetting-integrering">Bomiljø, bosetting, integrering</a><br />
+                                        
+                </div>
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2012/Boendemiljoe-bosaettning-och-integration" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

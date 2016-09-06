@@ -1,0 +1,550 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Samhandlingsreformen - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Samhandlingsreformen" />
+    <meta itemprop="name" content="Samhandlingsreformen">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+						<meta name="description" content="Samhandlingsreformen. Hvordan tar de kommunale helse -og omsorgstjenestene i mot det økte antallet pasienter som skrives ut fra sykehusene? Ny NOVA-rapport" />
+			<meta itemprop="description" content="Samhandlingsreformen. Hvordan tar de kommunale helse -og omsorgstjenestene i mot det økte antallet pasienter som skrives ut fra sykehusene? Ny NOVA-rapport" />
+			
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2013/Samhandlingsreformen" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Rapporter/2013/The-Coordination-Reform">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Rapporter/2013/The-Coordination-Reform">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_45519 subtree_level_6_node_id_78769 subtree_level_7_node_id_39789"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter">Rapporter</a></li>
+                                                          <li>
+                                    <a class="current">Samhandlingsreformen</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Samhandlingsreformen</h1>            
+                                        <p class="ingress">Hvordan tar de kommunale helse -og omsorgstjenestene i mot det økte antallet pasienter som skrives ut fra sykehusene?</p>
+                                        <em>Forfatter(e):</em>
+                <ul><li><a href="/tilsatt/hgaut">Heidi Gautun</a></li><li>Astri Syse </li></ul>
+                                        <em>NOVA Rapport 8/13</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/45485/674778/file/6986_1.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p>I denne rapporten belyses hvilke erfaringer sykepleiere som jobber i sykehjem og hjemmesykepleien, har med samhandlingsreformen som trådte i kraft 1. januar 2012. Fokus er satt på eventuelle endringer i tjenestene forårsaket av økt utskrivning av pasienter fra sykehus. I undersøkelse kommer det fram at et flertall av sykepleierne opplever at de har fått mer varierte og spennende oppgaver, samtidig som at de opplever det som vanskelig at det følger for lite ressurser med de økte oppgavene. Økt tidspress og nye mer kompliserte oppgaver ser ut til å gå ut over kvaliteten på tjenestene noen steder. Halvparten oppgir at hjemmeboende eldre har fått et redusert tjenestetilbud etter reformen. Ni av ti svarer at de opplever at arbeidsbelastningen har økt etter reformen. Det kan se ut som at både hjemmesykepleien og sykehjem har behov for flere ansatte og kompetansehevende tiltak for å klare å utføre nye og økte oppgaver som følger med samhandlingsreformen.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p>
+<strong>Kapittel 1 – Innledning</strong>
+</p><p>I denne rapporten undersøkes hvilke erfaringer sykepleiere som jobber i sykehjem og hjemmesykepleien, har med samhandlingsreformen som trådte i kraft 1. januar 2012. Fokus er satt på eventuelle endringer i tjenestene forårsaket av økt utskrivning av pasienter fra sykehus.</p><p>&nbsp;</p><p>
+<strong>Kapittel 2 – Data og metode</strong>
+</p><p>For å belyse spørsmål som er stilt i innledningskapitlet er det gjennomført to datainnsamlinger. Først ble det foretatt kvalitative intervjuer med seks sykepleiere som jobber i hjemmesykepleien og sykehjem i tre ulike kommuner. Intervjuene ble gjennomført i løpet av april 2013. På bakgrunn av disse intervjuene er det utarbeidet spørsmål som er brukt i en spørreundersøkelse som ble gjennomført i mai 2013 blant 2372 sykepleiere som jobber i sykehjem og hjemmesykepleien i kommuner spredt over hele landet. Et stort flertall av respondentene (94 %) er kvinner. Gjennomsnittsalderen er 42 år. Nesten halvparten jobber i hjemmesykepleien, og om lag like mange jobber i sykehjem.</p><p>&nbsp;</p><p>
+<strong>Kapittel 3 – Resultater fra spørreundersøkelsen</strong>
+</p><p>
+<em class="italic" >Endringer i antall pasienter, pasientgrupper og medisinske behov hos pasienter som kommer fra sykehus</em>
+</p><p>&nbsp;</p><p>Hele syv av ti informanter oppgir at det har vært en økning i antall pasienter som kommer fra sykehus til deres tjeneste etter at samhandlingsreformen trådte i kraft. Betydelig flere hjemmesykepleiere (78 %) oppgir dette sammenlignet med de som jobber i sykehjem (59 %). Sykepleierne ser en stor økning i pasienter med kreft og/eller behov for palliasjon (55–57 %), ortopediske pasienter (45 %), pasienter med infeksjoner (44 %), geriatriske pasienter (42 %) og pasienter med demensproblematikk (39 %). Når vi sammenligner situasjonen i sykehjem med hjemmesykepleien, ser vi noen tydelige forskjeller. Hjemmesykepleien ser ut til å ha en større økning i antall pasienter med kreft, hjerte- og karsykdommer, geriatriske pasienter, rusmisbrukere, personer med psykiske lidelser og pasienter med infeksjonsmedisinske tilstander, mens sykehjem ser ut til å ha en større økning i antall pasienter med demens og hjerneslag.</p><p>&nbsp;</p><p>Omlag halvparten av informantene svarer at under 20 prosent av pasientene som kommer fra sykehus, fortsatt trenger sykehusbehandling. Tre av ti svarer at mellom 21 og 40 prosent av pasientene som skrives ut, fortsatt trenger sykehusbehandling. To av ti oppgir at over 41 prosent av pasientene fortsatt trenger sykehusbehandling. Noen flere pasienter som kommer til hjemmesykepleien, vurderes å ikke være ferdigbehandlet i sykehus, sammenlignet med sykehjem.</p><p>&nbsp;</p><p>Reinnleggelser i sykehus kan være et uttrykk for at pasienter skrives ut før de er ferdigbehandlet i sykehus. Et flertall (67 %) oppgir at under 20 prosent av pasientene reinnlegges i sykehus kort tid (innen en uke) etter utskrivning. Av disse svarer halvparten at det gjelder særdeles få pasienter (under 10 %). To av ti svarer at mellom 21 og 40 prosent av pasientene reinnlegges innen en uke. Et mindretall (8 %) svarer at over 41 prosent av pasientene reinnlegges kort tid etter at de er skrevet ut fra sykehus.</p><p>&nbsp;</p><p>Det er betydelig flere i sykehjem som svarer at det er under 20 prosent som reinnlegges, og langt flere i hjemmesykepleien som svarer at 21–40 prosent av pasientene reinnlegges. Like mange hjemmesykepleiere som sykepleiere i sykehjem oppgir at over 41 prosent reinnlegges.</p><p>&nbsp;</p><p>Seks av ti svarer at antall reinnleggelser kort tid (innen en uke) etter utskrivning fra sykehus har økt etter at reformen trådte i kraft. Det er helt klart flest hjemmesykepleiere som svarer at antallet har økt. I alt 70 prosent av hjemmesykepleierne svarer at reinnleggelser har økt, mens det tilsvarende tallet for ansatte i sykehjem er 48 prosent.</p><p>&nbsp;</p><p>
+<em class="italic" >Endringer i samarbeid med sykehus?</em>
+</p><p>Fire av ti gir uttrykk for at de har et godt samarbeid med sykehus. En liten gruppe (25 %) svarer at det er dårlig. Noen flere hjemmesykepleiere (27 %) enn sykepleiere i sykehjem (23 %) sier at de opplever samarbeid med sykehus som dårlig, men forskjellen er ikke veldig stor selv om den er statistisk signifikant.</p><p>&nbsp;</p><p>Det er noen flere informanter (24 %) som svarer at de opplever samarbeidet med sykehus om utskrivningsklare pasienter som dårlig i dag, sammenlignet med før reformen (12 %). Det er små forskjeller mellom svarene som gis av hjemmesykepleierne og sykepleierne som jobber i sykehjem.</p><p>&nbsp;</p><p>
+Informantene som har svart at de opplever samarbeidet med sykehus som dårlig, har blitt stilt noen oppfølgingsspørsmål for å fange opp hva de opplever som problematisk. Informantene opplever det som problematisk<br />1) at det ikke følger med tilstrekkelig informasjon om pasienter som kommer til tjenesten (84 %), 2) at det ikke følger med medisiner (64 %), 3) at pasienter skrives ut før de er ferdigbehandlet (60 %), 4) at pasienter skrives ut til alle døgnets tider (58 %), 5) at medisinlister ikke er ajourført (52 %), 6) at de ikke får nok tid til å få på plass nødvendige hjelpemidler (52 %) samt 7) nødvendig medisinsk-teknisk utstyr (45 %). Alt i alt ser det ut som at de som oppfatter samarbeidet med sykehus som dårlig, opplever at sykehuset er for raske i selve utskrivningssituasjonen.</p><p>&nbsp;</p><p>Særlig ansatte i hjemmesykepleien opplever problemer knyttet til at pasienter skrives ut uten at medisiner følger med. Det er også betydelig flere hjemmesykepleiere enn sykepleiere i sykehjem som svarer at de ikke får tid på seg til å få på plass tilstrekkelig med hjelpemidler. På den annen side er det færre hjemmesykepleiere som rapporterer at pasienter skrives ut til alle døgnets tider sammenlignet med ansatte i sykehjem.</p><p>&nbsp;</p><p>
+<em class="italic" >Endringer for andre brukere?</em>
+</p><p>Nesten halvparten (44 %) av informantene svarer at hjemmeboende eldre har fått et redusert tilbud etter reformen. Samtidig svarer nesten to av ti at personer med psykiske lidelser har fått et redusert tilbud, og 13 prosent oppgir at det samme gjelder for kronikere og langtidssyke under 67 år. Andelen som svarer at det har funnet sted en reduksjon i tilbudet til rusmisbrukere, er 7 prosent. Det er kun et fåtall som svarer at psykisk utviklingshemmede, rusmisbrukere og fysisk funksjonshemmede under 67 år har fått et redusert tilbud.</p><p>&nbsp;</p><p>Flere hjemmesykepleiere enn sykepleiere som jobber i sykehjem, svarer at hjemmeboende eldre, og også andre brukergrupper, har fått et redusert tjenestetilbud sammenlignet med før reformen.</p><p>&nbsp;</p><p>Omtrent like mange respondenter svarer at det har vært en økning (34 %) som en reduksjon (31 %) i antall korttidsopphold- eller avlastningsopphold i sykehjem. Om lag tre av ti svarer at det er færre hjemmeboende som får langtidsopphold i sykehjem sammenlignet med før reformen. Kun 12 prosent oppgir at det er flere eldre som får opphold.</p><p>&nbsp;</p><p>Sykepleierne som jobber i sykehjem og som jobbet samme sted før reformen, har blitt stilt to spørsmål om eventuelle endringer innad i sykehjemmet. I alt 36 prosent svarer at antall beboere som må dele rom, har økt, og 24 prosent svarer at antall pasienter som plasseres utenfor pasientrom (det vil si som ligger i korridor, sårstellrom, stue, kontor eller et annet sted), har økt.</p><p>&nbsp;</p><p>
+<em class="italic" >Endringer i oppgaver?</em>
+</p><p>Nesten alle informantene gir uttrykk for at kompleksiteten i de sykepleiefaglige oppgavene har økt (91 %). De fleste sier og at: oppgavene har blitt for mange (67 %), at det har blitt mindre tid til omsorgsoppgaver og psykisk støtte (77 %), og at det brukes mer tid til rapportering og administrasjon (76 %). Samtidig gir et stort flertall uttrykk for at de har fått mer varierte og spennende oppgaver (74 %), men at de har behov for opplæring og veiledning i utførelse av nye oppgaver (73 %). I alt 36 prosent sier seg enig i påstanden at de har blitt mindre trygg på oppgaver de utfører. Litt flere (40 %) svarer at de er helt uenige i påstanden. Helhetsinntrykket som tilbakemeldingene gir, er at de ansatte i tjenestene opplever et økt tidspress etter at samhandlingsreformen har trådt i kraft.</p><p>&nbsp;</p><p>For de fleste spørsmålene ser vi små forskjeller i svarene til hjemmesykepleierne og sykepleierne som jobber i sykehjem. Et unntak gjelder spørsmålet om hvorvidt det har vært en økning i antallet eldre som venter på en korttids- eller langtids institusjonsplass. Betydelig flere i hjemmesykepleien svarer bekreftende på dette, sammenlignet med de som jobber i sykehjem. Et annet unntak er spørsmålet om sykepleierne føler seg mindre trygg på oppgaver de skal utføre. Noen flere sykepleiere i sykehjem svarer at de føler seg mindre trygg på de nye oppgavene sammenlignet med hjemmesykepleiere.</p><p>&nbsp;</p><p>
+<em class="italic" >Nok ressurser i tjenesten?</em>
+</p><p>Kun tre av ti sier at tjenesten de jobber i er tilstrekkelig bemannet for å klare å ta imot pasienter fra sykehus. Omtrent like få sier at tjenesten er tilstrekkelig bemannet med sykepleiere. Litt under halvparten gir også uttrykk for en mangel på andre helsearbeidere, og enda flere (65 %) sier andel ufaglærte er for høyt. Syv av ti svarer at tilbudet om rehabilitering/opptrening er mangelfullt. Videre sier nesten halvparten seg enig i påstanden at det er for mange ubesatte stillinger i tjenesten/institusjonen de jobber i. Problemer med å rekruttere nok personell ser altså ut til å være utbredt. Kun fire av ti gir uttrykk for at tjenesten har nødvendig medisinsk-teknisk utstyr. Færre hjemmesykepleiere (30 %) enn sykepleiere i sykehjem (43 %) forteller at de har nødvendig medisinsk-teknisk utstyr. Et flertall sier seg enig i påstanden om at kollegaene generelt har gode norsk kunnskaper. Her synes situasjonen å være langt bedre i hjemmesykepleien (83 %) enn i sykehjem (68 %).</p><p>&nbsp;</p><p>
+<em class="italic" >Kompetansehevende tiltak i forbindelse med samhandlingsreformen?</em>
+</p><p>Informantene er spurt om tjenesten de jobber i har fått tilgang til noen på forhånd definerte typer kompetanseheving, opplæring og veiledning i forbindelse med reformen. Halvparten (52 %) svarer at de har fått tilgang til minst ett av fem kompetansehevende tiltak. I alt 32 prosent oppgir at det er opprettet kontakttelefon/enheter i sykehus som ansatte i tjenesten kan henvende seg til. To av ti svarer at ansatte i tjenesten har blitt kurset av sykehuspersonell, og like mange svarer at ansatte har fått tilbud om etter-og/eller videreutdanning. I alt 19 prosent sier at ambulerende team fra sykehus har besøkt tjenesten de jobber i, mens 15 prosent svarer at ansatte der de jobber har hospitert i sykehus.</p><p>&nbsp;</p><p>Det er små forskjeller i svarene til hjemmesykepleierne og sykepleierne i sykehjem, men det kan synes som om ansatte i hjemmesykepleien i større grad enn ansatte i sykehjem får tilgang til og benytter opplæring og trening fra ambulerende sykehusteam i sitt arbeid.</p><p>&nbsp;</p><p>Flere av sykepleierne som har deltatt i studien, etterspør kompetansehevende tiltak. Rus- og psykiatriområdet skiller seg spesielt ut. Over halvparten (53 %) svarer at kompetansen på rusområdet er dårlig eller svært dårlig, og 44 prosent oppgir at de mangler kompetanse i forhold til psykiatri. Med unntak av fagkompetanse om rus, ser vi små eller ingen forskjeller mellom hjemmesykepleien og sykehjem. Det er imidlertid flere sykepleiere i sykehjem (61 %) enn hjemmesykepleiere (47 %) som gir uttrykk for manglende kompetanse på rusområdet.</p><p>&nbsp;</p><p>
+<em class="italic" >Endringer i kvalitet?</em>
+</p><p>I alt 36 prosent er uenig i påstanden om at kvaliteten på tjenesten de jobber i har blitt bedre. 27 prosent er enig i påstanden, mens 37 prosent svarer verken eller. Et flertall (64 %) svarer at det etter reformen brukes mindre tid på den enkelte pasient, og mer tid på medisinske prosedyrer og oppgaver (62 %).</p><p>&nbsp;</p><p>Fire av ti svarer at den faglige forsvarligheten ivaretas like godt, mens 35 prosent er uenig i påstanden. En like stor andel gir uttrykk for at ernæring, hygiene, pleie- og andre omsorgsbehov ikke ivaretas like godt. Omtrent like mange sier seg enig som uenig i påstanden om at pasientsikkerheten har blitt redusert (36 % og 34 %). Halvparten sier seg enig i påstanden om at pasientene som kommer fra sykehus, har det bedre i deres tjeneste/institusjon enn på sykehus, mens 33 prosent svarer verken eller. Kun 15 prosent sier seg uenig i påstanden. Halvparten sier seg også enig i påstanden: Vi har tilstrekkelig sykepleiefaglig kompetanse til å ivareta pasientene vi mottar.</p><p>&nbsp;</p><p>Å få til et bedre samarbeid om pasienter som trenger tjenester både fra sykehus og kommunene, er en viktig målsetting i reformen. Det er imidlertid kun 26 prosent som gir uttrykk for at det samlede tilbudet til pasienter har blitt mer helhetlig og koordinert, og kun 27 prosent som sier seg enig i påstanden om at pasientforløp mellom sykehus og kommune har blitt forenklet. Så mange som 36 prosent sier seg uenig i de to påstandene.</p><p>&nbsp;</p><p>Hjemmesykepleierne og sykepleierne i sykehjem svarer noenlunde likt på de fleste spørsmålene om kvalitet. Unntakene er at det er en klart større andel i sykehjem som sier at de i dag bruker mer tid på medisinske prosedyrer og oppgaver sammenliknet med hjemmesykepleien. Likeledes er det en betydelig større andel sykepleiere i sykehjem (65 %) enn andel hjemmesykepleiere (37 %) som mener at pasienter som kommer fra sykehus, har det bedre hos dem enn på sykehus</p><p>&nbsp;</p><p>
+<em class="italic" >Endringer for ansatte?</em>
+</p><p>Et stort flertall av sykepleierne gir uttrykk for at arbeidsbelastningen har økt etter reformen (86 %). Litt under halvparten sier at sykefraværet har økt, 17 prosent sier seg uenig i påstanden. Et mindretall svarer at trivselen har økt (20 %). Omtrent halvparten gir uttrykk for at det ikke har funnet sted noen endring, mens 32 prosent er uenig i påstanden om at trivselen har økt. En liten andel (16 %) sier at antall faglærte er redusert, 30 prosent sier det ikke har skjedd noen endring, og 54 prosent sier seg uenig i påstanden. Få sier at antall sykepleiere har økt (25 %), og at det flere med god kompetanse som søker stillinger hos dem nå (19 %). Det er betydelig flere som sier seg uenig i de to påstandene (henholdsvis 56 % og 48 %).</p><p>&nbsp;</p><p>
+<em class="italic" >Forskjeller mellom regioner og kommuner med ulikt innbyggertall</em>
+</p><p>Analysene viser at det generelt er få forskjeller mellom hvordan ansatte i små og større kommuner opplever situasjonen før og etter samhandlingsreformen. Visse ulikheter er imidlertid vesentlige. Disse er: I små kommuner (under 10 000 innbyggere) rapporterer flere en økning i antall pasienter som skrives ut fra sykehus til hjemmesykepleien og/eller sykehjem. I de store kommunene rapporteres det imidlertid i større grad enn små kommuner at pasienter som skrives ut, fortsatt trenger sykehusbehandling. I større kommuner rapporteres også en større økning i antall reinnleggelser i sykehus kort tid etter at de er skrevet ut fra sykehus.</p><p>&nbsp;</p><p>Når vi sammenligner svar på spørsmål om samarbeid med sykehus, ser vi store forskjeller mellom små og større kommuner. En betydelig større andel informanter i de små kommunene beskriver samarbeidet som bra. Det er med unntak av ett spørsmål ubetydelige forskjeller mellom små og store kommuner når vi ser på spørsmålene om endringer i oppgaver. En større andel sykepleiere i små kommuner gir uttrykk for at de har fått mer varierte og spennende oppgaver etter reformen. Analysene av spørsmålene om ressurser viser ikke forskjeller mellom store og små kommuner. Det ser imidlertid ut som at tjenestene i små kommuner i større grad enn større kommuner har medisinsk-teknisk utstyr på plass. Færre i de små kommunene rapporterer også at antall ufaglærte er for høyt. Det er flere forskjeller mellom små og store kommuner når det gjelder kvalitet. De små kommunene kommer best ut på, og gir i større grad enn store kommuner uttrykk for, en bedret kvalitet.</p><p>&nbsp;</p><p>Når vi sammenligner helseregioner, skiller i grove trekk Oslo seg ut fra de øvrige helseregionene, Helse Sør-Øst inkludert. I Oslo svarer en større andel at de mottar pasienter som fortsatt trenger sykehusbehandling, og flere oppgir en økning i antall reinnleggelser i sykehus. Flere i Oslo oppgir også et dårligere samarbeid med sykehus. På den annen side oppgir informantene i Oslo lavest økning i antall pasienter som må dele rom eller plasseres utenfor pasientrom i sykehjem. Oslo skiller seg også ut når vi ser på spørsmålet om sykepleierne opplever en økning i komplekse oppgaver. Færrest i Oslo opplever dette. Det er imidlertid flere sykepleiere i Oslo, sammenlignet med regionene, som svarer at de har fått mindre tid til sykepleiefaglige oppgaver. Sykepleierne i Oslo gir også i mindre grad enn i regionene uttrykk for at de er tilstrekkelig bemannet. Videre ser vi at det er betydelig færre i Oslo som mener at pasienter har det bedre hos dem enn i sykehus. Oslo skiller seg også negativt ut når det gjelder spørsmålet om eventuelle endringer i ansattes trivsel.</p><p>&nbsp;</p><p>
+<strong>Kapittel 4 – Avslutning</strong>
+</p><p>I avslutningskapitlet omtales følgende hovedfunn:</p>
+<ol>
+
+<li>De kommunale helse- og omsorgstjenestene tar imot et økt antall alvorlig syke pasienter fra sykehus etter at samhandlingsreformen trådte i kraft.</li>
+
+<li>Et flertall av sykepleierne gir uttrykk for at de har fått mer varierte og spennende oppgaver, samtidig opplever de det som vanskelig at det følger for lite ressurser med de økte oppgavene.</li>
+
+<li>Sykepleierne etterspør kompetansehevende tiltak.</li>
+
+<li>Fire av ti svarer at samarbeidet med sykehus har blitt bedre, men det er også 24 prosent som sier at samarbeidet har blitt mer anstrengt. Hovedgrunnen ser ut til å være at hjemmesykepleierne og sykepleierne i sykehjem opplever at sykehusene har det for travelt i selve utskrivningssituasjonen.</li>
+
+<li>Et hovedfunn er at nesten halvparten av informantene gir uttrykk for at hjemmeboende eldre har fått et redusert tjenestetilbud.</li>
+
+<li>Det kan se ut som at hjemmesykepleien opplever en større økning enn sykehjem i antall pasienter som utskrives fra sykehus.</li>
+
+</ol>
+<p>&nbsp;</p><p>Funn i undersøkelsen kan tyde på at ansatte i de kommunale helse- og omsorgstjenestene har fått det enda travlere det siste halvannet året. Det ser ut som at både hjemmesykepleien og sykehjem har behov for flere ansatte, og kompetansehevende tiltak for å klare å utføre nye og økte oppgaver som følger med samhandlingsreformen.</p><p>&nbsp;</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/nova/publikasjonar/nova-publikasjonar/rapportar/2013/samhandlingsreformen/samhandlingsreformen.-nova-rapport-8-13.-omslag/678435-2-nor-NO/Samhandlingsreformen.-NOVa-Rapport-8-13.-Omslag.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2013</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+61</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+978-82-78-472-1 (trykt) / 978-82-78-473-8 (pdf)</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+0808-5013</p>
+                </div>
+                                                                <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                90,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                                                        <a href="mailto:publikasjoner@nova.hioa.no">
+                                NOVA                            </a>
+                                                            </div>
+                        </div>
+
+                            <h4>Tilknyttet prosjekt</h4>
+                <div class="publication_right_content_line">
+                                                    <a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Prosjekter/Helse-og-velferd/Avsluttede-prosjekter/2013/Samhandlingsreformen-og-utskrivningsklare-pasienter">Samhandlingsreformen og utskrivningsklare pasienter</a><br />
+                                        
+                </div>
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2013/Samhandlingsreformen" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

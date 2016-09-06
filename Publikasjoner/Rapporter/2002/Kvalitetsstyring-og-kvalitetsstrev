@@ -1,0 +1,501 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Kvalitetsstyring og kvalitetsstrev - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Kvalitetsstyring og kvalitetsstrev" />
+    <meta itemprop="name" content="Kvalitetsstyring og kvalitetsstrev">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+										<meta name="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design" />
+				<meta itemprop="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design">
+						
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2002/Kvalitetsstyring-og-kvalitetsstrev" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_45519 subtree_level_6_node_id_79035 subtree_level_7_node_id_40055"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter">Rapporter</a></li>
+                                                          <li>
+                                    <a class="current">Kvalitetsstyring og kvalitetsstrev</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Kvalitetsstyring og kvalitetsstrev</h1>            
+                                        <p class="ingress">Nye styringsambisjoner i hjemmetjenesten</p>
+                                        <em>Forfatter(e):</em>
+                <ul><li><a href="/tilsatt/miava">Mia Vabø</a></li></ul>
+                                        <em>NOVA Rapport 18/02</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/45683/675780/file/3098_1.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p>Siden midt på 1990-tallet har de kommunale pleie- og omsorgstjenestene iverksatt ulike former for kvalitetsarbeid. Arbeidet tar utgangspunkt i noen generelle styringsideer og styringsprinsipper. Denne rapporten viser hvordan ideene fortolkes av en rekke aktører på ulike nivåer.</p><p>Aktørene bærer med seg ulike interesser, ideer og forestillinger og trekker dermed kvalitetsarbeidet i ulike og til dels motstridende retninger. I kommuner der kvalitetsarbeidet har skutt fart, veves arbeidet sammen med en rekke moderniserings- og effektiviseringstiltak som er orientert mot å avgrense det offentlige omsorgsansvaret. Målet er best mulig kvalitet for knappe skattekroner. Anvendelsen av spesialiserte bestillerteam, serviceerklæringer, omsorgsplaner og kvalitetsmålinger røper en sterk tro på at hjelpebehov er stabile og lette å forhåndsdefinere.</p><p>Sett &quot;nedenfra&quot;, fra yrkesutøvernes ståsted, fortoner hjelpebehovene seg derimot som utydelige og skiftende. Omsorgshverdagen byr på en rekke praktiske og moralske problemer som bare kan løses dersom styringstiltakene mykes opp og anvendes lempelig. Kvalitetsarbeidet reflekterer en drakamp mellom en importert managementideologi og en etablert, sosialpolitisk omsorgspraksis som har vært orientert mot å bistå mennesker med vekslende og uforutsigbare behov.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p class=" text-left">Siden midt på 1990-tallet har den kommunale pleie- og omsorgstjenesten hatt ulike former for kvalitetsarbeid på dagsorden. Kvalitetsarbeidet har ikke forankring i en spesifikk metodikk eller modell, men i en abstrakt og generell styringsidé eller styringslogikk. I denne rapporten ser vi nærmere på hvordan denne løse kvalitetsideen blir sosialt konstruert og forsøkt oversatt til praksis. Rapporten tar utgangspunkt i de føringer som kommer fra sentrale helsemyndigheter og fra det kommunale omsorgsbyråkratiet. Deretter stilles fokuset skarpere på den hjemmebaserte omsorgstjenesten. Styringsambisjoner fra aktører som ser tjenesten &quot;ovenfra&quot; blir sammenholdt med synspunkter og perspektiver som kommer &quot;nedenfra&quot;, fra de yrkesutøvere som til daglig yter omsorg overfor syke og eldre. Vi understreker at rapporten ikke har til hensikt å evaluere kvalitetsarbeidet i navngitte kommuner. Hensikten er snarere å løfte fram noen generelle problemer og utfordringer som dukker opp i et løpende utviklingsarbeid.</p>    <h2 class=" text-left">Hva sier de ansatte?</h2><p class=" text-left">Rapporten bygger på en undersøkelse som ble foretatt i to trinn: Vi gjennomførte først en kartleggingsundersøkelse blant et tilfeldig utvalg av pleie- og omsorgsledere, deretter gjennomførte vi en mer inngående undersøkelse i fem kommuner/bydeler som hadde relativt mye erfaring med kvalitetsarbeid. Her intervjuet vi personer som hadde et særlig ansvar for kvalitetsarbeidet, i tillegg til et utvalg av sykepleiere, hjelpepleiere og hjemmehjelpere fra primærvirksomheten. Intervjuene fra kommunene ble supplert med intervjuer med offentlige kvalitetsrådgivere som har et særlig ansvar for å bistå kommunene i sitt kvalitetsarbeid.</p><p class=" text-left">Analysen er basert på et fortolkende perspektiv. Vi legger til grunn at nye styringsideer aldri kan påvirke organisasjoner mekanisk, men må tolkes, tydes og tilpasses, ofte i flere ledd, av flere personer med ulike kunnskaper og erfaringer. Personer som eksponeres for nye styringsideer sluker ikke nødvendigvis hele ideen, men velger ut de elementer som fremstår som fornuftige ut fra egne forestillinger og ambisjoner.</p>    <h2 class=" text-left">Total kvalitetsledelse</h2><p class=" text-left">Pådriverne i kvalitetsarbeidet er inspirert av ideen om &quot;total kvalitetsledelse&quot; (TKL). Dette er en altomfattende og mangslungen styringsidé som opprinnelig ble utformet innenfor industrien, men som i dag blir anbefalt overfor alle typer organisasjoner. Ideen handler om å mobilisere hele organisasjonen til å kontrollere, perfeksjonere og forbedre egne arbeidsprosesser i tråd med kundens interesser. Ideen forutsetter at kvalitetskrav skal defineres, spesifiseres og helst gjøres målbare.</p><p class=" text-left">Kvalitetskravene er imidlertid ikke gitt en gang for alle, men må fortløpende justeres i forhold til kundens krav. Det er derfor viktig at organisasjonen systematisk mobiliserer ressurser og fantasi for å kunne imøtekomme det som til enhver tid er kundens preferanser og ønsker. TKL rommer mange prinsipper og kan dermed formidles og anvendes fleksibelt - både som en &quot;hard&quot; idé som betoner standardisering og kontroll, og som en &quot;myk&quot; idé som betoner engasjement og forbedringsvilje. I denne rapporten ser vi at tolkningen av ideen preges av de interesser og verdier ulike aktører bærer med seg i kraft av sine tidligere erfaringer og sin posisjon.</p>    <h2 class=" text-left">Ledelse og ansatte med ulike perpektiver</h2><p class=" text-left">Forskjellige perspektiver på samme type kvalitetstiltak vitner om at aktørene tenker og taler fra ulike ideologiske ståsteder. Perspektiver fra omstillingsvillige ledere og utviklingskonsulenter viser at de forstår omsorgstjenesten i lys av en importert managementideologi. De forstår hjemmetjenesten som enorganisasjon som styres ovenfra, og som leverer avgrenset og avtalt service til konsumenter med krav og rettigheter.</p><p class=" text-left">Perspektivene fra omsorgspersonellet vitner om at de holder fast ved tidligere velferdspolitiske idealer og praksisformer. Deres fortellinger er fundert på en antakelse om at god omsorg er individorientert og situasjonsbesemt. Omsorgen kan i begrenset grad styres fraforhåndsdefinerteanvisninger, den må skjønnsmessig tilpasses konkrete personer og situasjoner. De to diskursene tegner ulike bilder av hva hjemmetjenesten er, og hva som må til for å sikre hjelpemottakerne god kvalitet.</p>    <h2 class=" text-left">Fra ledelse til praksisfeltet - hva skjer med tiltakene?</h2><p class=" text-left">I kommuner som har latt seg inspirere av kvalitetsideen, veves kvalitetstiltakene ofte inn i et mer omfattende moderniseringsarbeid som handler om å få bedre innsyn og kontroll med anvendelsen av knappe ressurser. Målet er å skape en tydeligere tjeneste - en tjeneste der standarder og avtaler definerer hva kommunen tilbyr, og hva brukeren har krav på.</p><p class=" text-left">Yrkesutøverne som befinner seg i hjemmetjenestens primærvirksomhet, har lite kjennskap til den &quot;store&quot; kvalitetsideen. De møter som regel ideen etter at den er oversatt til konkrete tiltak og rutiner. Deres bidrag i tolkningsprosessen handler om å fylle disse med et innhold som gir mening i forhold til en praktisk hverdagsvirkelighet. Erfaringer fra omsorgshverdagen tilsier at faste rutiner og hjelpeoppdrag stadig &quot;forstyrres&quot; av oppgaver som trenger seg på &quot;nedenfra&quot;, fra mennesker med ustabile og skiftende behov. Styringsdokumenter må derfor utformes og anvendes lempelig, slik at det blir rom for å gjøre nødvendige tilpasninger til konkrete personer og situasjoner. Det som ble fremstilt som kraftfulle styringsverktøyer av konsulenter og ledere, mykes altså opp og dempes når det treffer praksisfeltet.</p><p class=" text-left">Konsulenter og administratorer strever med å skape en tydeligere grense omkring det offentlige omsorgsansvaret. Omsorgspersonellet strever med å skape rom for fleksibilitet og situasjonstilpasset omsorg. Partenes ulike forestillingene om hva hjemmetjenesten er, trekker kvalitetstiltakene i ulike retninger. Spenningen mellom ulike tolkninger av hva som er riktig og bra, fører til konstant nye løsninger og destabilisering.</p><p class=" text-left">Tiltak orientert mot å tydeliggjøre og avgrense omsorgen brytes mot etablerte praksisformer og fremkaller krav om nye og mer raffinerte styringstiltak. Den praktiske omsorgen brytes mot rigide styringstiltak og fremkaller krav om mer fleksibilitet. Det oppstår en form for uklarhet og institusjonsforvirring som gjør tjenesten ugjennomtrengelig og vanskelig å forstå. Vi finner at det bak nye styringsbetegnelser skjuler seg på den ene siden ufullstendige og til dels kraftløse styringstiltak, på den andre siden omsorgspersonell som frustreres over at betingelsene for å gjøre en god jobb stadig forringes. Ingen lykkes med sine &quot;kvalitetsprosjekter&quot;.</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/nova/publikasjonar/nova-publikasjonar/rapportar/2002/kvalitetsstyring-og-kvalitetsstrev/nova-rapport-18-20022/676241-2-nor-NO/NOVA-Rapport-18-2002.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2002</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+170</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+82-7894-148-3</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+0808-5013</p>
+                </div>
+                                                                <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                230,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                            Utsolgt
+                                    </div>
+                        </div>
+
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2002/Kvalitetsstyring-og-kvalitetsstrev" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

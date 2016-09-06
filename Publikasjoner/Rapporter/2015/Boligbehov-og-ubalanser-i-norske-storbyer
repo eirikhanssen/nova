@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Boligbehov og ubalanser i norske storbyer - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Boligbehov og ubalanser i norske storbyer" />
+    <meta itemprop="name" content="Boligbehov og ubalanser i norske storbyer">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+										<meta name="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design" />
+				<meta itemprop="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design">
+						
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Boligbehov-og-ubalanser-i-norske-storbyer" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Rapporter/2015/Housing-needs-and-imbalances-in-large-cities">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/About-HiOA/Centre-for-Welfare-and-Labour-Research/NOVA/Publikasjonar/Rapporter/2015/Housing-needs-and-imbalances-in-large-cities">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_45519 subtree_level_6_node_id_73095 subtree_level_7_node_id_79109"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter">Rapporter</a></li>
+                                                          <li>
+                                    <a class="current">Boligbehov og ubalanser i norske storbyer</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Boligbehov og ubalanser i norske storbyer</h1>            
+                                                    <em>Forfatter(e):</em>
+                <ul><li><a href="/tilsatt/lmtu">Lena Magnusson Turner</a></li><li><a href="/tilsatt/vnord">Viggo Nordvik</a></li><li><a href="/tilsatt/jarso">Jardar Sørvoll</a></li><li> </li></ul>
+                                        <em>NOVA Rapport 5/15</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/102977/2410465/file/Boligbehov-ubalanser-norske-storbyer-R5-2015.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p>Folketallet i de norske storbyene forventes å stige relativt kraftig fram mot 2030. Veksten fører&nbsp; til mer økonomisk aktivitet og større behov for kommunale tjenester, infrastruktur og transport. Den tiltagende urbaniseringen gir økt press på kommunenes begrensede arealer og ressurser. Befolkningsveksten bør håndteres innenfor bærekraftige økonomiske og miljømessige rammer, og arealplanlegging må ta hensyn til interessene til både nye og eksisterende befolkningsgrupper. Rapporten består av tre delstudier. Den studerer boligmønstrene og boligfrekvensene til unge voksne, personer over 60 år og innvandrere. Denne kunnskapen er sentral for beregningen av boligbehov og boligplanlegging. Videre undersøkes stedspreferanser og avstanden mellom retorikk og praksis i den boligpolitiske debatten.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p>I denne rapporten presenteres tre studier og en sammenfattende syntese som inngår i forskningsprosjektet «Boligbehov og ubalanser i storbyene». Disse stu­diene har et empirisk-praktisk formål. Hovedformålet er å utvide kunnskaps­grunnlaget for bolig- og arealplanleggingen i «storbyene»: Oslo, Kristiansand, Stavanger, Bergen og Trondheim.</p><p>Utgangspunktet for prosjektet er den kraftige befolkningsøkningen som forventes i urbane strøk fram mot 2040. På denne bakgrunn har flere stemmer i den offentlige debatten fremhevet at vi kan være på vei mot en «boligmangel­krise». Dårligere boforhold og/eller en undertrykking av storbyenes vekstdyna­mikk kan bli konsekvensene av en slik krise. Tilpasningen av boligtilbudet i storbyene til den demografiske utviklingen er derfor en nasjonal utfordring. Våre fem største byer huser en stor og økende andel av den norske befolk­ningen, og er samtidig sentrale arenaer for kulturell utveksling og innovasjon.</p><p>De tre studiene er forfattet av samfunnsgeograf Lena Magnusson Turner, samfunnsøkonom Viggo Nordvik og historiker Jardar Sørvoll. Nordvik har i tillegg skrevet den sammenfattende syntesen som ligger vedlagt (også utgitt som NOVA Notat 3/15). Magnusson Turners bidrag er en studie av demo­grafiske endringer, boligbehov og boligfrekvenser i norske storbyer. Nordvik undersøker befolkningens stedspreferanser, og hvor attraktive randsonene er på boligmarkedet. Sørvoll analyserer den offentlige debatten om boligforsy­ningen i årene mellom 2011 og 2014, en periode med relativt stor oppmerk­somhet om «boligbyggingens problem».</p>    <h2>Demografi, boligfrekvenser og boligbehov i norske storbyer</h2><p>Magnusson Turners studie «Demografisk utveckling och bostadsbehov i norska storbyar» er basert på en database utarbeider av Statistisk sentralbyrå for forskningsrådsprosjektet «Neighbourhoods at risk». Databasen inneholder informasjon fra folke- og boligtellingene for årene 2001 og 2011, samt demo­grafiske, geografiske og sosioøkonomiske opplysninger om samtlige personer bosatt i storbyene (Oslo, Kristiansand, Stavanger, Bergen og Trondheim) i perioden fra 1990 til 2011.</p><p>Magnusson Turner analyserer husholdsmønstrene og boligfrekvensene til tre grupper: unge voksne personer (20–35 år), befolkningen over 60 år (61+ år) og personer med innvandrerbakgrunn. Kunnskap om disse gruppenes preferanser og tilpasninger er viktig for beregningen av boligbehov og plan­leggingen av nye boligområder. Det er nemlig ingen enkel sammenheng mellom befolkningsvekst og boligetterspørsel. Beregninger av fremtidige boligbehov vil således alltid være usikre og foreløpige. Vi vet likevel noe om boligforsyningspolitikkens utfordringer i årene som kommer: Unge voksne mellom 20 og 35 år utgjør en gruppe med særegne karakteristika og eta­bleringsutfordringer. De forsøker blant annet å forsere tersklene til stor­byenes arbeids-, partner- og boligmarked. Dette innebærer at deres markeds­atferd er preget av mindre stabilitet enn andre grupper. Vekst i befolkningen over 60 år vil utgjøre en stor andel av befolkningsveksten i storbyene frem mot 2040. I samme periode forventes innvandrerbefolkningen – både som følge av arbeids­kraftinnvandring og naturlig vekst – å øke.</p><p>Boligfrekvenser er et sentralt begrep i Magnusson Turners studie. Bolig­frekvensene for en gruppe individer uttrykker hvor stor andel av disposisjons­retten til en bolig medlemmene i en gruppe har. Aleneboere har en frekvens på 1. Individer som bor med en partner, har en frekvens lik 0,5. Boligfre­kvensen til unge voksne som fortsatt bor sammen med sine foreldre, har en boligfrekvens lik 0. I studien «Demografisk utveckling och bostadsbehov i norska storbyar» oppgis boligfrekvensene i form av antall etablerte hushold per 100 voksne individer – for eksempel unge voksne eller personer over 60 år. Hvis gruppen utelukkende består av enpersonshushold blir boligfrekvensen 100. Dreier det seg derimot kun om par, er frekvensen på 50.</p><p>Magnusson Turner viser at det forekom en liten økning i storbyenes boligfrekvenser mellom 2001 og 2011. Boligfrekvensveksten per 1000 inn­byggere i de to største byene utgjør for eksempel en økning av boligbehovet fra 660 til 678 i Oslo og fra 604 til 632 i Bergen. Beskjedne frekvensendringer kan altså ha stor betydning for boligbehovet.</p><p>I 2001 var det stor variasjon mellom storbyene hva gjelder unge voksnes husholdsmønstre og boligfrekvenser. Mens for eksempel 30 prosent av 35-åringene i Oslo bodde for seg selv, var den tilsvarende andelen for Kristiansand 15 prosent. I årene frem mot 2011 ble disse forskjellene redusert. Antallet eneboere fortsetter å øke generelt i denne gruppen. Utviklingen kommer til uttrykk i form av økte boligfrekvenser i storbyene: fra mellom 53,2 og 63,3 i 2001 til mellom 56,6 og 64,7 i 2011. Andelen unge voksne i flerfamilie­hushold økte også i samtlige storbyer i denne perioden. Det er også grunn til å merke seg at andelen unge voksne som leier bolig økte i alle byene mellom 2001 og 2011. I et internasjonalt, sammenlignende perspektiv er det riktignok enkelt i Norge å etablere seg i egen eid bolig for denne gruppen. Likevel er det samfunnsmessig og politisk interessant at andelen unge voksne boligeiere ble redusert i tidsrommet for undersøkelsen.</p><p>Kvinner og menn over 60 år er relativt sett lite tilbøyelig til å flytte. Denne gruppen preges også av eneboere eller par uten hjemmeboende barn. Fra 2001 til 2011 forekom det imidlertid en liten økning av par med hjemme­boende barn. Med tiden har det også blitt vanligere å leve lenger som par. Fra 2001 til 2011 økte andelen personer over 80 år i parhushold med fem prosent.</p><p>Også i gruppen «personer med innvandrerbakgrunn» økte eneboerne sin andel av husholdningene mellom 2001 og 2011. Forskjellen er imidlertid store innenfor denne heterogene gruppen. Blant personer med pakistansk opp­rinnelse er for eksempel andelen eneboere på beskjedne 23 prosent. Tilsvarende tall for personer med bakgrunn fra andre nordiske land er 56 prosent. Generelt sett viser analysene at enkelte innvandrergrupper har problemer med å etablere seg på eierboligmarkedet. Dette gjelder spesielt for personer fra Somalia. Magnusson Turner understreker til sist at det er viktig å ta høyde for inn­vandrergruppenes atferdsmønstre når boligbehov beregnes. Selv etter lang tid i Norge lever kulturelle mønstre videre i deres husholds- og bosettingsmønstre.</p>    <h2>Lokaliseringspreferanser – noen indikasjoner</h2><p>Utgangspunktet for Nordviks studie – «Lokaliseringspreferanser i norske storbyer» – er at kommunene trenger kunnskap om potensielle utbyggings­områders attraktivitet. Storbykommunene ønsker ikke å bruke planleggings-, regulerings- og infrastrukturressurser der etterspørselen er liten.</p><p>Lokaliseringspreferanser er ikke mulig å observere direkte. Derfor benyttes «faktisk flytting», husleiepriser og boligpriser som inkatorer for steders popularitet. Analysen av disse indikatorene viser at byen har en geografisk arbeidsdeling: forskjellige typer hushold verdsetter ulike boligområder. Sentrumsområdene tiltrekker seg typisk relativt unge befolkningsgrupper, mens norske storbyers ytterkanter preges av få unge, men desto flere barne­familier.</p><p>
+<em class="italic" >Faktisk flytting</em>
+. I denne delen analyseres innflyttingen til utvalgte om­råder i de fem storbyene (Oslo, Kristiansand, Stavanger, Bergen og Trondheim). Logikken bak er enkel: Størrelsen på innflyttingen til et område kan være tegn på at det vurderes som attraktivt å bo der. På den annen side kan innflytting primært være motivert av pris, dvs. at det var i dette området et hushold fant en bolig det hadde råd til. Høy innflytting er også noe som preger områder med høy utskiftning av befolkningen. Av den grunn undersøkes også folks tilbøyelighet til å bli boende over et lengre tidsrom i samme område.</p><p>Det er verdt å merke seg at Arna (Bergen) og Holmlia (Oslo) har både de laveste innflyttingsratene og de høyeste andelene småbarnsfamilier som blir boende over lengre tid. Dette tyder på at storbyenes ytterområder kan være attraktive for konsumentene, og at de har en klar funksjon i storbyenes geo­grafiske arbeidsdeling. Et nyanserende moment er riktignok at Arna og Holmlia er områder med relativt lave boligpriser, og at en del beboere dermed er forhindret fra å flytte til andre deler av Bergen og Oslo.</p><p>
+<em class="italic" >Husleier</em>
+. Husleienivået reflekterer husholdningenes relative verdsetting av leide boliger i ulike områder. Husleiepriser er derfor i teorien en god indikator for stedspreferanser. Problemet er at storbyenes husleiestatistikk er mangelfull og lite formålstjenlig. Av den grunn benytter Nordvik her data som er samlet inn av Oslo kommunes Boligbygg, noe som betyr at analysen av leieprisene kun dekker hovedstaden. Analysene viser at det er stor variasjon i husleienivået mellom de ulike bydelene. Avstanden mellom de dyreste og rimeligste områdene har imidlertid blitt noe mindre mellom 2002 og 2013. Endringene er riktignok så beskjedne at det er mer dekkende å snakke om stabilitet enn konvergens. Både i 2002 og 2013 var det omkring 20 prosents forskjell mellom husleiene i Oslos dyreste og rimeligste område. Dette tyder på at ingen områder i hovedstaden har spesielt lav attraktivitet, ei heller er det snakk om nedadgående popularitetskurver.</p><p>
+<em class="italic" >Boligpriser</em>
+. Nordvik bruker såkalte hedonske regresjonsteknikker for å estimere hvor mye boligprisene faller når man beveger seg fra sentrum til periferi i storbyregionene. Med få unntak faller prisene når man går fra sentrum til ytterkantene. Når man beveger seg fra de ytre delene av bykjernen til randsonene, er imidlertid ikke prisfallet spesielt stort.</p><p>Nordviks undersøkelse av flyttestrømmer, husleier og boligpriser indi­kerer at det finnes et kommersielt potensiale for boligbygging også i storbyenes mindre sentrale deler. Norske storbyer skiller seg dermed ikke vesentlig fra nordiske hovedsteder som Helsinki og København i dette henseende.</p>    <h2>Boligbygging etter boligpolitikken: Debatten om boligforsyningen i storbyene 2011–2013</h2><p>Utgangspunktet for Sørvolls essay er den brede politiske enigheten om at boligbyggingen ikke holder tritt med befolkningsveksten i storbyene. Essayets formål er å belyse nye perspektiver og handlingsmuligheter. Aktørenes selv­representasjoner tas på alvor og diskuteres i lys av den faktisk førte bolig­politikk. På denne måten avdekkes interessante eksempler på hva som ikke sies eller sjelden problematiseres, i boligforsyningsdebatten. Det pekes også på avstanden mellom retorikk og praksis i det boligpolitiske ordskiftet. Til sist skisseres tre idealtypiske strategier eller løsninger på «boligforsyningens pro­blem»: boligsosialisme, boligliberalisme og sosialdemokratisk pragmatisme.</p><p>Det empiriske grunnlaget for essayet er ulike kategorier skriftlige kilder: bystyreforhandlinger, stortingsforhandlinger og avisartikler. Kildene analyseres ved hjelp av en fortolkningsramme som er felles for aktørene i norsk politikk. Selv om partiene krangler om mangt, ytrer deres representanter seg i samsvar med forestillingen om at boligsektoren er situert mellom marked og velferds­politikk. Boligsektoren har ett bein i velferdsstaten og er dermed gjenstand for politisk-normative vurderinger. Samtidig aksepterer alle politiske partier i større eller mindre grad at (de fleste) boliger fordeles gjennom markedet.</p><p>Karakteren og grensene for den offentlige boligforsyningspolitikken har imidlertid endret seg i løpet av de siste 35 årene. Meget forenklet er det tale om et skifte fra plan til marked. Det kan dermed argumenteres for at det har vært spesielt vanskelig for politikerne å være utviklingens herrer i boligsektoren de siste tiårene. Satt på spissen kan det hevdes at debatten om boligbyggingen mellom 2011 og 2013 fant sted etter boligpolitikken.</p><p>Boligforsyningens problem etter boligpolitikken: Både på nasjonalt og kommunalt nivå var det forskjell mellom venstresiden og høyresidens forslag og retorikk i boligforsyningsdebatten. Representanter for Høyre og Frp snakket gjerne om at det var nødvendig å redusere omfanget av offentlig styring og krav for å få fart på boligbyggingen. Arbeiderpartiet og SV frem­hevet snarere betydningen av «politisk styring», «politisk ansvar» og «kommu­nale boligplaner» i tråd med den sosialdemokratiske tradisjonen.</p><p>Den rødgrønne regjeringens boligmelding (Meld. St. 17 2012–2013) var imidlertid forsiktig og uforpliktende på boligforsyningens område, og regjeringen som ledes av Erna Solberg, har så langt nøyd seg med relativt moderate endringer av plan- og bygningsloven. På denne bakgrunn argumen­terer Sørvoll for at det er avstand mellom målsettinger og virkemidler i bolig­forsyningsdebatten: verken høyresiden eller venstresiden følger opp sitt ønske om flere boliger med kraftfulle virkemidler. Han argumenterer også for at poli­tikernes retorikk tidvis bidrar til å tilsløre utbyggernes makt. Venstresidens krav om «politisk ansvar» og «boligplanlegging» og høyresidens krav om «avregulering» kan tilsløre at ingen av de politiske leirene rår over virkemidler som kan presse utbyggerne til å stikke spadene i jorda. Det er en kjensgjerning at utbyggere bare bygger på tomter de vurderer som kommersielt interessante.</p><p>Debatten om boligforsyningen i storbyene er også interessant som følge av hva som neglisjeres eller nevnes i liten grad. Sørvoll løfter i den sammenheng frem fire temaer: Eierlinja og leiemarkedet, den eksisterende boligmassen, privat profitt og «samfunnsskapte verdier» og demografi og boligfrekvenser.</p><p>Må vi lære oss å elske markedet?: Hvordan kan politikerne bli utvik­lingens herrer i boligsektoren? Hva bør nasjonale og lokale myndigheter gjøre for å sette mer fart i storbyens boligbygging? Dette er spørsmål Sørvoll stiller og diskuterer til sist i essayet.</p><p>Svar på spørsmålene er avhengig av øynene som ser. Den foretrukne medisinen vil variere med diagnosene. Sørvoll diskuterer derfor styrker og svakheter ved tre idealtypiske løsninger på boligforsyningens problem: bolig­liberalisme, boligsosialisme og pragmatisk sosialdemokrati.</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/om-hioa/senter-for-velferds-og-arbeidslivsforskning/nova/publikasjonar/rapporter/2015/boligbehov-og-ubalanser-i-norske-storbyer/boligbehov-og-ubalanser-i-norske-storbyer-r5-15-w278/2410456-1-nor-NO/Boligbehov-og-ubalanser-i-norske-storbyer-R5-15-w278.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2015</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+217</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+978-82-7894-550-6</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+0808-5013</p>
+                </div>
+                                                    <div class="publication_right_content_line">
+                    <em>Publisert:</em>
+                    <p>
+2015</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                230,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                                                        <a href="mailto:publikasjoner@nova.hioa.no">
+                                publikasjoner@nova.hioa.no                            </a>
+                                                            </div>
+                        </div>
+
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Boligbehov-og-ubalanser-i-norske-storbyer" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

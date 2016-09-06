@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+
+<html itemscope itemtype="http://schema.org/Article" xmlns="http://www.w3.org/1999/xhtml" xml:lang="nb" lang="nb">
+<head>
+					
+	<title>Oppfølgingsprosjektet i Ny GIV - HiOA</title>    
+
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+            <meta name="Content-language" content="no-bokmaal" />
+    	
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    <meta name="title" content="Oppfølgingsprosjektet i Ny GIV" />
+    <meta itemprop="name" content="Oppfølgingsprosjektet i Ny GIV">
+    <meta name="author" content="" />
+	<meta name="p:domain_verify" content="3a11dc5033d5012ab4dce032cb87920c"/>
+										<meta name="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design" />
+				<meta itemprop="description" content="Høgskolen i Oslo og Akershus (HiOA) tilbyr utdanning innen helsefag, samfunnsfag, lærerutdanning og teknologi, kunst og design">
+						
+<link rel="shortcut icon" href="/extension/hioa/design/hioa/images/favicon.ico" />
+<link rel="alternate" type="application/rss+xml" title="Hioa nyheter - rss feed " href="/rss/feed/aktuelle-saker" />
+
+<!-- <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+<meta name="viewport" content="width=device-width" /> -->
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<!-- <link rel="apple-touch-icon" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone.jpg">
+<link rel="apple-touch-icon" sizes="72x72" href="/extension/ezwebin/design/ezwebin/images/touch-icon-ipad.jpg">
+<link rel="apple-touch-icon" sizes="114x114" href="/extension/ezwebin/design/ezwebin/images/touch-icon-iphone4.jpg"> -->
+
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="/extension/hioa/design/hioa/stylesheets/screen/resize/ie8.css" type="text/css" media="screen" />
+<![endif]-->
+<meta name="google-site-verification" content="bhz-sw3r8Dy9zHX-I7_6NGMIkzaT90reQ4zkOTyA2PI" />
+<meta name="google-site-verification" content="Ui0ZSivoaNg3gsRgFrxfr0BZ3dyDvrOZaiOCd1XxfyQ" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Oppfoelgingsprosjektet-i-Ny-GIV" />
+
+
+    <link rel="stylesheet" type="text/css" href="/var/ezflow_site/cache/public/stylesheets/7b538ffe42df86820aef7f4d9a239a30_all.css" />
+
+  
+
+
+
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+
+<link rel="stylesheet" type="text/css" media="print"  href="/extension/hioa/design/hioa/stylesheets/print.css" />
+
+<link rel="stylesheet" type="text/css"  href="/extension/hioa/design/hioa/stylesheets/upgrade_rearrange_fixes.css" />
+
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+        /*if( !((window.location.protocol == 'https:') && window.location.pathname.search('admin')) && window.location.pathname.search('For-tilsatte')) )	{
+		if (window != top)  {
+        	        //Inside an iframe check
+                	top.location.href = location.href;
+	        }
+	}*/
+//]]>
+</script>
+
+
+</head>
+<!-- Complete page area: START -->
+
+
+                        <body class="article course">
+        
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KRPB75" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-KRPB75');</script>
+<!-- End Google Tag Manager -->
+
+<ul id="hidnav" role="navigation">
+	<li><a href="#section">skip to content</a></li>
+	<li><a href="#navcontainer">Main navigation (skip)</a></li>
+	<li><a href="#footer">Bottom menu (skip)</a></li>
+</ul>
+<div class="container" data-role="page">
+	<img id="printLogo" alt="Print logo HiOA" src="/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png" />	
+			<div id="hioa-toolbar">
+					<div id="mobile-menu-trigger">
+				<img src="/extension/hioa/design/hioa/images/hioa-meny-knapp_off.png" alt="meny" />
+			</div>
+			<div href="javascript:void(0);" id="mobile-search-tool-trigger"><img src="/extension/hioa/design/hioa/images/hioa-sok-knapp_off.png" alt="søk"></div>
+                    					<a href="/eng/">English</a>						<div id="mobile-search-tool">
+				<form action="/Soek">
+                                        					<input title="searchtext" id="searchtextMobile" class="searchField" type="text" autocomplete="off" name="searchtext" placeholder="Søk">
+					<input class="submit" type="submit" value="Søk" alt="Search" />
+				</form>
+			</div>
+			<div id="mobile-menu">
+				<ul>
+					<li class="main-menu">
+						<a href="/Studier-og-kurs">Studier og kurs</a>
+					</li>
+                    <li class="main-menu">
+                        <a href="https://student.hioa.no/nb">student.hioa.no</a>
+                    </li>
+					<li>
+						<a href="/Kontakt-oss">Kontakt oss</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+					</li>
+					<li>
+						<a href="/Forskning-og-utvikling">Forskning og utvikling</a>
+					</li>
+                    <li>
+                        <a href="/LSB">Læringssenter og bibliotek</a>
+                    </li>
+					<li>
+						<a href="https://tilsatt.hioa.no">For tilsatte</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA">Om HiOA</a>
+					</li>
+					<li>
+						<a href="/Om-HiOA/Ledige-stillinger">Ledige stillinger</a>
+					</li>
+				</ul>
+			</div>
+					</div>
+
+	
+	<div id="top">
+		<div class="contentWrapper">
+							<a id="logo" href="http://www.hioa.no/"><img width="236" height="auto" alt="Logo - HiOA - Tilbake til forsida HiOA" src="/extension/hioa/design/hioa/images/hioa-logo-web_697×120_no.png" /></a>
+			
+            			<nav>
+				<div id="navcontainer" class="fullsizeBlock">
+  					    
+<ul id="topMenu">
+    <!--  -->
+    <li>
+                    <a href="https://student.hioa.no/nb"  title="Student informasjon og verktøy">student.hioa.no</a>
+            </li>
+    <li>
+					<a href="/Fronter" title="Fronter">Fronter</a>
+			</li>		
+        <li>
+					<a href="https://student.hioa.no/studentweb" title="StudentWeb">Studentweb</a>
+				
+	</li>
+    <li>
+			<a href="/LSB" title="Bibliotek">Læringssenter og bibliotek</a>
+			</li>
+      	        					<li><a href="/eng/">English</a></li>				
+	
+								
+	
+	
+	
+	<li class="text-resize">
+		<a class="text-resize-small" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-medium" href="/Forstoerre-innholdet-paa-nettsiden">A</a>
+		<a class="text-resize-big" href="/Forstoerre-innholdet-paa-nettsiden">A</a>		
+	</li>
+</ul>
+
+    <div id="search">
+  <form action="/Soek" id="search_form">
+            <fieldset class="search">
+        <div id="ezautocomplete">
+            <label for="searchtext" class="searchstringlabel">Søk etter innhold og personer</label>
+            <input title="searchfield" class="searchField" id="searchtext" placeholder="Søk etter innhold og personer" name="searchtext" type="text" value=""  onkeyup="lookup(this.value);" autocomplete="off"/>
+                    <input type="image" src="/extension/hioa/design/hioa/images/hioa-search-icon.png" id="searchbutton"alt="Søk" />
+                    <div id="ezautocompletecontainer"></div>
+        </div>
+                </fieldset>
+  </form>
+</div> 
+
+
+
+<script type="text/javascript">
+window.onload = function(){
+	jQuery('#ezautocompletecontainer').css('width', jQuery('input#searchtext').width() + 60);
+}
+</script>
+ 					<ul id="Nav">
+						<li class="first">
+															<a class="dropdownlink" href="/Studier-og-kurs">Studier og kurs</a>
+													</li>
+						<li>
+															<a class="dropdownlink" href="/Forskning-og-utvikling">Forskning og utvikling</a>
+													</li>
+                        <li>
+                                                            <a class="dropdownlink" href="/Om-HiOA/Fakulteter-og-sentre">Fakulteter og sentre</a>
+                                                    </li>
+						<li>
+															<a class="dropdownlink" href="/Kontakt-oss">Kontakt oss</a>
+													</li>
+                    </ul>
+				</div> <!-- END: navcontainer -->
+			</nav>
+                     </div> <!-- contentWrapper -->
+  	</div><!-- top -->
+  		  <!-- <div class="clearfloat"></div> -->
+<!-- <div id="page" class="nosidemenu extrainfo section_id_19 subtree_level_0_node_id_2 subtree_level_1_node_id_1900 subtree_level_2_node_id_31555 subtree_level_3_node_id_31631 subtree_level_4_node_id_33236 subtree_level_5_node_id_45519 subtree_level_6_node_id_73095 subtree_level_7_node_id_70577"> -->
+    <!-- Header area: START -->
+  <!-- Header area: END -->
+  
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+  
+<div id="maincontent">
+					<div id="topShadow"></div>		
+				<div class="frameWrapper">
+			<div class="bodyframe_right side"></div>
+			<div class="bodyframe_left side"></div>
+                	<div class="contentWrapper">
+						    <div id="breadCrumb">
+      <!-- Path content: START -->
+  <ul>
+                                <li><a href="/">Hjem</a></li>
+                                                <li><a href="/Om-HiOA">Om Høgskolen i Oslo og Akershus</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning">Senter for velferds- og arbeidslivsforskning </a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA">Velferdsforskningsinstituttet NOVA</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar">Publikasjonar</a></li>
+                                                <li><a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter">Rapporter</a></li>
+                                                          <li>
+                                    <a class="current">Oppfølgingsprosjektet i Ny GIV</a>
+                            </li>
+
+                    </ul>
+    <!-- Path content: END -->
+  </div>
+						
+			<div id="section">		          <!-- Main area content: START -->
+			          <div class="research-group">
+    <div class="section">
+        <div class="research_project">
+                            <h1>Oppfølgingsprosjektet i Ny GIV</h1>            
+                                        <p class="ingress">Sluttrapport fra en kartleggingsstudie</p>
+                                        <em>Forfatter(e):</em>
+                <ul><li><a href="/tilsatt/masle">Mira Aaboen Sletten</a></li><li><a href="/tilsatt/abakk">Anders Bakken</a></li><li><a href="/tilsatt/palian">Patrick Lie Andersen</a></li><li> </li></ul>
+                                        <em>NOVA Rapport 1/15</em>          
+                                            
+                                    
+                <p>
+                    <a id="download_for_free" href="/content/download/94357/1928407/file/Ny-Giv-Rapport-1-15.pdf">
+                        Last ned gratis
+                    </a>
+                </p>
+                 
+            
+                            <div class="short_description">
+                    
+<p class=" text-LEFT">I 2011 satte Regjeringen i gang Ny GIV, et treårig prosjekt for å øke gjennomføringen i videregående opplæring. Oppfølgingsprosjektet var ett av satsingsområdene, og målet har vært å styrke innsatsen overfor ungdom som er i ferd med å slutte eller har sluttet i videregående. Dette skulle blant annet skje gjennom å prøve ut opplæringsmodeller som kombinerer arbeidspraksis med læreplanmål i videregående, og gjennom å styrke samarbeidet mellom de ulike aktørene som har ansvar for målgruppa. Det har også vært et mål å utvikle kompetansen til de ansatte i sektoren.</p><p class=" text-LEFT">Rapporten gir en overordnet vurdering av hvordan Oppfølgingsprosjektet har fungert. Samarbeidsrelasjonene er blitt styrket, Oppfølgingstjenesten har bedre oversikt enn tidligere, og flere unge har deltatt i alternative opplæringstiltak. Oppfølgingsprosjektet har derimot i mindre grad greid å treffe de mest risikoutsatte gruppene, de som har vært ute av arbeid og skole i mer enn ett år.</p> 
+                </div>
+               
+                            <a href="javascript:void(0);" id="show_summary_trigger">Sammendrag av publikasjonen</a>
+                <div class="publication_summary">
+		<h2>Sammendrag av publikasjonen</h2>
+		
+<p>Å få flere unge til å fullføre videregående opplæring står høyt på den politiske dagsorden, og utgjør i dag ett av hovedmålene for grunnopplæringen i Norge. I perioden 2011 til 2013 har den nasjonale satsingen for å øke gjennomføringsgraden i videregående opplæring vært samlet i en felles satsing, Ny GIV. Hovedmålet har vært å øke andelen som fullfører og består, fra 69 prosent i 2010 til 75 prosent innen 2015. Ny GIV har omfattet tre parallelle prosjekter der Oppfølgingsprosjektet, som denne rapporten handler om, har vært rettet mot ungdom som ikke benytter seg av retten til videregående opplæring.</p><p>NOVA har fått i oppdrag av Kunnskapsdepartementet å evaluere Oppfølgingsprosjektet. Målet med evalueringen er å belyse i hvilken grad og på hvilken måte innsatsen har bidratt til å realisere hovedmålet i Ny GIV. Dette har vi gjort gjennom å kartlegge og vurdere hvordan de tre nasjonale innsatsområdene i Oppfølgingsprosjektet har fungert i fylkene: utprøving av opplæringsmodeller som kombinerer arbeidspraksis med læreplanmål, styrking av samarbeidsrelasjonene i sektoren og kompetanseheving for ansatte som jobber med målgruppen. På tvers av disse tre nasjonale innsatsområdene har Oppfølgingsprosjektet lagt en føring om at den mest risikoutsatte delen av målgruppenskulle prioriteres. Ungdom som har vært utenfor skole og arbeid i ett år eller mer, skulle gis høyest prioritet, både ved utprøving av opplæringsmodeller og i utformingen av samarbeidet med andre aktører. Oppfølgingsprosjektet skal likevel rettes mot alle i målgruppen for den fylkeskommunale oppfølgingstjenesten (OT), det vil si ungdom i alderen 15–21 år med rett til videregående opplæring, men som verken er i videregående opplæring eller arbeid.</p><p>Det ble i 2013 utgitt en delrapport fra evalueringen. I denne hovedrapporten har vi fulgt opp analyser fra delrapporten, og vi gir her en samlet vurdering av hvordan Oppfølgingsprosjektet har fungert i skoleårene 2012/13 og 2013/14. Vurderingene baserer seg på analyser av tiltaksinnsatsen i disse to årene, samt data fra spørreundersøkelser til ansatte i oppfølgingstjenesten, NAV og skolene. Det er også gjennomført en spørreundersøkelse til ungdom på tiltak, og det er foretatt en omfattende kartlegging av hva slags tiltak som rettes mot målgruppen, og hvem som deltar i dem.</p>    <h2>
+<strong>Hovedfunn</strong>
+</h2>
+<ul>
+
+<li>Flere unge har deltatt i alternative opplæringstiltak som ligger tettere opp mot videregående opplæring.</li>
+
+<li>Samarbeidsrelasjonene i sektoren har blitt styrket.</li>
+
+<li>Oppfølgingsprosjektet har i liten grad greid å treffe de mest risikoutsatte gruppene som har vært utenfor skole og arbeid mer enn ett år.</li>
+
+</ul>
+<p>&nbsp;</p><p>Undersøkelsen viser at det har skjedd en dreining i tiltaksinnsatsen over tid slik at flere ungdommer deltar i tiltak som ligger tettere opp mot videregående opplæring. Dette er i tråd med intensjonen til Oppfølgingsprosjektet. Relativt flere av ungdommene som er i tiltak, deltar i aktiviteter der målet er å kombinere arbeidspraksis og læreplanmål i videregående, mens det har vært noe nedgang i bruken av de arbeidsrettete NAV-tiltakene. Samtidig er det fortsatt slik at de tradisjonelle NAV-tiltakene brukes klart mest.</p><p>Et annet hovedfunn er at Oppfølgingsprosjektet har bidratt til å øke oppmerksomheten om målgruppen og til økt bevissthet om nødvendigheten av å ha en helhetlig og samordnet tilnærming i arbeidet for å få flere utenfor opplæring og arbeid til å gjennomføre videregående opplæring. Mye tyder på at arbeidet med ungdom utenfor opplæring og arbeid er blitt styrket i løpet av prosjektperioden, og at Ny GIV har bidratt til økt systemforståelse og bedre samarbeidsrelasjoner både i oppfølgingstjenesten og i NAV. Det har også skjedd endringer ved at de videregående skolene oftere involverer oppfølgingstjenesten før en elev skrives ut av skolen. Oppfølgingstjenesten har også fått bedre oversikt over målgruppen.</p><p>Når det gjelder kompetanseheving for de ansatte som jobber med målgruppen, tyder evalueringen på at tilbudet som er gitt i regi av Ny GIV, primært har styrket samarbeidskompetansen til aktørene. Det har i mindre grad gitt kunnskap som kan brukes til planlegging av tiltak generelt, og til utvikling av aktiviteter rettet mot de mest risikoutsatte i OTs målgruppe spesielt.</p><p>Selv om vi ser klare tegn til at innsatsen rettet mot ungdom utenfor opplæring og arbeid er styrket, har evalueringen også avdekket at det er rom for forbedringer. For det første kan vi ikke se at fylkene har lykkes med å vinkle tiltaksaktiviteten slik at relativt flere av de ungdommene som har vært lenge utenfor arbeid og opplæring prioriteres. Så mange som halvparten av de eldste i OTs målgruppe har vært utenfor skole og arbeid i mer enn ett år. Dette er en gruppe som dessuten er risikoutsatt på andre måter enn at de har vært lenge utenfor. De har oftere foreldre med lav utdanning og inntekt og dårligere karakterer fra grunnskolen enn andre ungdommer OT har kontakt med. Dette understreker betydningen av å øke innsatsen overfor ungdom som har vært lenge utenfor videregående opplæring.</p><p>Evalueringen tyder også på at tilbudet av tiltak som kombinerer arbeidspraksis med læreplanmål bør utvides. Kombinasjonsløp bør bli tilgjengelig innenfor flere fagområder og mulig å søke seg til for flere av ungdommene i målgruppen. Evalueringen kan også tyde på noe «flaskehalsproblematikk» i samarbeidet med skolene. Det er grunn til å tro at kombinasjonsløp som tiltak for økt gjennomføring brukes aller mest effektivt hvis ungdommene i målgruppen får mulighet til å søke seg mot slike løp før de avsluttet opplæringen – enten i overgangen mellom grunnskole og videregående opplæring, eller før en elev i videregående avslutter opplæringen. Samtidig viser evalueringen at det kan være grunn til å gjennomgå og endre måten tiltaksaktivitetene registreres i oppfølgingstjenestens saksbehandlersystem OTTO.</p>    <h2>
+<strong>Økt bruk av tiltak der fylket har en sentral rolle og tiltak som kombinerer arbeidspraksis med læreplanmål</strong>
+</h2><p>Rapporten viser altså at det har skjedd en dreining i tiltaksaktiviteten i løpet av prosjektperioden, mot at flere ungdommer deltar i tiltak som er kompetansehevende og som kombinerer arbeidspraksis med læreplanmål i videregående. Ungdom som oppfølgingstjenesten jobber med, deltar noe oftere i fylkeskommunale tiltak og i kombinasjonstiltak der fylkeskommunen og NAV samarbeider. Det er også blitt dokumentert at blant de ungdommene som på begynnelsen av skoleåret var under oppfølging og veiledning av oppfølgingstjenesten, er det noen flere over tid som går over i kombinasjonstiltakene, som Oppfølgingsprosjektet har ønsket å stimulere fylkene til spesielt.</p><p>Totalt er det dokumentert 177 opplærings-, motivasjons- og aktiviseringstiltak i skoleårene 2012/13 og 2013/14, noe som i seg selv beskriver omfanget av tiltak ute i fylkene. Mange av disse tiltakene har som målsetting å kombinere arbeidspraksis med læreplanmål, og totalt var det 26 prosent av ungdommene på tiltak som deltok i et slikt tiltak i 2013/14. Dette var en økning fra 19 prosent i skoleåret 2012/13. Dette funnet underbygges av at relativt flere av ungdommene på tiltak skoleåret 2013/14 enn skoleåret 2012/13 er med i tiltak der både fylkeskommunen og NAV er inne med ressurser.</p><p>Selv om rapporten kan dokumentere en dreining i retning av økt bruk av tiltak der fylkeskommunen har en rolle, og mot tiltak der arbeidspraksis kombineres med læreplanmål, viser analysene at det er de arbeidsrettete NAV-tiltakene og tiltak som hovedsakelig har til hensikt å gi arbeidspraksis, som fortsatt brukes i størst grad. NAV og bedriftene spiller en svært viktig rolle når det gjelder å aktivisere ungdom i OTs målgruppe.</p>    <h2>
+<strong>Behov for flere kombinasjonsløp?</strong>
+</h2><p>Oppfølgingstjenesten har hatt en viktig pådriverrolle når det gjelder å opprette den typen kombinasjonstiltak som Oppfølgingsprosjektet skulle stimulere til mer bruk av. I rapporten kommer det fram at mange ansatte i OT kjenner til og har brukt tiltak der arbeidspraksis kombineres med læreplanmål i sitt arbeid med ungdom i målgruppa. Dette gjelder også mange av de ansatte i NAV. Samtidig viser evalueringen at mange ansatte mener at det er stort behov for flere kombinasjonsløp og flere aktiviteter der arbeidspraksis kombineres med læreplanmål. De ansatte mener ikke nødvendigvis at det er behov for helt «nye» tiltak, men etterlyser flere tiltaksplasser i eksisterende kombinasjonsløp eller en utvidet bruk av eksisterende vekslingsmodeller – utvidet til flere fagområder, flere trinn i videregående og knyttet til flere skoler/regioner i fylkene.</p><p>I den tidlige fasen av arbeidet med å veilede ungdom inn i alternative løp har skolene en viktig rolle. Undersøkelsen viser at det er et potensiale for at skolene i større grad tar en pådriverrolle for en mer aktiv bruk av alternative opplæringsløp i det frafallsforebyggende arbeidet. Bare rundt fem av ti videregående skoler og tre av ti ungdomsskoler har brukt alternative opplæringsløp for å forebygge frafall. Samtidig viser evalueringen at bruken av denne typen virkemidler henger sammen med behovet. På skoler der rektor opplever at de har store frafallsproblemer, har mer enn to av tre tatt i bruk opplæringsløp som kombinerer arbeidspraksis med læreplanmål for å forebygge frafall. Utviklingen fra våren 2013 til våren 2014 indikerer dessuten en positiv utvikling der litt flere videregående skoler bruker denne typen opplæringsløp i sitt frafallsforebyggende arbeid.</p>    <h2>
+<strong>Ungdom som har vært lenge utenfor</strong>
+</h2><p>Oppfølgingsprosjektet skal rettes mot alle i målgruppen for den fylkeskommunale oppfølgingstjenesten (OT), men likevel slik at de mest risikoutsatte ungdommene – det vil si som har vært utenfor skole og arbeid mer enn ett år – prioriteres. Bakgrunnen for at denne gruppen er særlig viktig å nå, er at sjansen for varig utenforskap øker med tiden en ungdom står uten jobb eller skoleplass. En spørreundersøkelse til ungdom på tiltak som ble gjennomført i forbindelse med evalueringen, viste nettopp at ungdom som hadde vært utenfor opplæring og arbeid over lengre tid, oftere var motivert for å jobbe enn for å gjennomføre ordinær opplæring. Sammenliknet med tiltaksdeltakere med kortere tid uten skoleplass og jobb var motivasjonen deres for å delta i tiltak oftere at de ønsket seg en vanlig jobb framfor å returnere til videregående opplæring.</p><p>I rapporten viser vi at nokså mange av de ungdommene som oppfølgingstjenesten jobber, har vært utenfor skole og arbeid i mer enn ett år. Totalt gjelder dette nesten hver fjerde. Andelen varierer med alder, og blant de eldste har nær halvparten av ungdommene vært utenfor mer enn ett år. Disse ungdommene er dessuten risikoutsatt også på andre måter. De har oftere foreldre med lav utdanning og inntekt og dårligere karakterer fra grunnskolen enn andre ungdommer i OT. Dette understreker hvor viktig det er at gruppen prioriteres i OTs innsats.</p><p>Evalueringen viser at ungdom som har vært utenfor lenge, oftere enn andre deltar på tiltak, og at ni av ti tiltaksdeltakere deltar i arbeidsrettete NAV-tiltak og tiltak der arbeidspraksis er den aller viktigste målsettingen. Dette er langt vanligere enn det som gjelder for ungdommene som har vært kortere tid utenfor skole og arbeid. Selv om vi tar hensyn til ungdommenes alder og andre kjennetegn som påvirker hvilken type tiltak ungdom rekrutteres inn i, er det slik at ungdom som har vært lenge utenfor, sjeldnere enn andre deltar i tiltak der fylkeskommunen og NAV samarbeider, og i tiltak som kombinerer arbeidspraksis med læreplanmål. Sammenlikningen av tiltaksaktiviteten for de to skoleårene som evalueringen dekker, viser heller ikke at andelen i denne typen kombinasjonstiltak har økt mer blant de mest risikoutsatte enn blant OT-ungdom flest. Det er heller motsatt.</p><p>Selv om mange av tiltakene har et innhold vi kan anta er særlig viktig for de mest risikoutsatte av ungdommene i OTs målgruppe, tyder evalueringen også på et behov for ytterligere tilrettelegging på tiltakssiden. I spørreskjemaundersøkelsene til ansatte i OT og NAV svarte hele åtte av ti at det var behov for flere tiltak rettet spesielt mot ungdom som har vært lenge utenfor opplæring og arbeid. Sammenlikningen av svar fra spørreundersøkelsene som ble gjennomført våren 2013 og våren 2014, gir heller ingen indikasjon på at omfanget av tiltak spesielt rettet mot særlig risikoutsatt ungdom, har økt i løpet av perioden for Oppfølgingsprosjektet.</p>    <h2>
+<strong>En styrket oppfølgingstjeneste gjennom bedre samarbeid </strong>
+</h2><p>Et viktig utgangspunkt for Oppfølgingsprosjektet har vært at utfordringene med å få flere ungdom til å fullføre videregående er sammensatte og at de derfor ikke lar seg løse med ett sett virkemidler innenfor én sektor. Prosjektet har hatt som mål å samordne innsatser på tvers av etater og departementale ansvarsområder, og mellom departement, fylker og kommuner. Evalueringen har vært avgrenset til det operative nivå, til de som jobber direkte med ungdom i målgruppen. Det er et gjennomgående funn i evalueringen at Oppfølgingsprosjektet har påvirket samarbeidet mellom aktørene på en positiv måte. Både ansatte i OT og ansatte i NAV opplever at deres etater i dag lykkes bedre i arbeidet med å hjelpe ungdom utenfor opplæring og arbeid over i opplæring, arbeid eller annen sysselsetting, enn de gjorde i tiden før Oppfølgingsprosjektet.</p><p>En god del av de ansatte i OT og NAV mener at Oppfølgingsprosjektet i seg selv har hatt betydning for disse forbedringene. Mange vektlegger betydningen av at de har fått bedre kjennskap til og kunnskap om andre aktører, og at de generelt har bedre systemforståelse. Vi tolker det slik at flere er bevisst at helheten i tiltakskjeden er viktig, og at det kreves en samordnet innsats hvis man skal lykkes med å få flere ungdommer til å gjennomføre videregående opplæring. Kartleggingen viser samtidig at forholdsvis få mener at Oppfølgingsprosjektet har hatt særlig effekt på tiltakstilbudet og bruken av opplæringsløp der arbeidspraksis kombineres med læreplanmål.</p><p>Evalueringen har vist at ansatte i OT og NAV har relativt lik forståelse av de ulike sektorenes ansvar i innsatsen for økt gjennomføring i videregående opplæring. Ni av ti er fornøyd med samarbeidet, særlig når det samarbeides om planlegging av aktiviteter og tiltak, rekruttering av ungdom inn i tiltak, oppfølging av ungdom og samarbeid rundt utveksling av erfaringer. Ansatte som i praksis samarbeider mest med den andre parten, er også mest fornøyd med samarbeidet.</p>    <h2>
+<strong>Potensial for bedre samarbeid med skolene?</strong>
+</h2><p>Samordningsinnsatsen i Oppfølgingsprosjektet har ikke bare handlet om samordning av de ulike aktørenes virkemidler, men også om samordning av innsatser i tid. Det har vært et mål at fylkene utarbeider klare rutiner for at skolene tar kontakt med OT i forkant av et avbrudd, at de legger til rette for avslutningssamtaler, og at det lages oppfølgingsavtaler i samarbeid med OT og andre instanser. Hensikten har vært å forhindre at ungdommene blir gående lenge uten et tilbud. Det er størst sjanse for å lykkes hvis OT (og NAV) tar over ansvaret mens skolene fremdeles har kontakt med ungdommene. Evalueringen gir inntrykk av at fylkene har lykkes med å få skolene til å involvere OT i forkant av at en elev avslutter opplæringen. Samtidig ser det ut til å være et potensiale for at skolene i større grad kan trekke NAV inn i samarbeidet.</p><p>Blant skolelederne oppfatter en klar majoritet at skolen vanligvis tar kontakt, og at det avholdes avklaringsmøter i forkant av et avbrudd. Litt færre OT-ansatte (om lag halvparten) mener skolene vanligvis tar kontakt med OT før en elev skrives ut av skolen. Evalueringen viser en positiv utvikling: det er litt flere OT-ansatte i det siste året som evalueringen omfatter, som opplever at skolene tar kontakt med dem. Ifølge skolelederne er den klart vanligste grunnen til at det ikke avholdes avklaringsmøter, at det er vanskelig å få eleven til å møte. Det kan være at hun eller han ikke ønsker et møte, ikke dukker opp, eller at skolen ikke får kontakt med ungdommen. De beskriver dermed ikke en situasjon der utfordringene primært ligger i rutinene rundt disse møtene, eller i systemene rundt ungdommene.</p><p>Kontakten mellom skolene og NAV tidlig i frafallsprosessen ser ut til å være betydelig svakere, og her ser vi ingen forbedring i løpet av perioden. Bare knapt 20 prosent av de NAV-ansatte mener skolene tar kontakt med NAV i forkant av et avbrudd, og signifikant færre NAV-ansatte opplever samarbeidet med skolene som godt i den siste undersøkelsen sammenliknet med den første. Mens skolene er en åpenbar samarbeidspartner for OT, har NAV tradisjonelt hatt en mer uklar rolle i samarbeidet med skolene. Det pågående forsøket med NAV-veiledere i videregående skole som er satt i gang innenfor rammen av Oppfølgingsprosjektet, er en måte å organisere samarbeid mellom skolene og NAV på tidlig i frafallsprosessen. I og med at forsøket har hatt liten utbredelse (involvert få skoler) i perioden for NOVAs evaluering, er det imidlertid lite trolig at det har virket inn på de NAV-ansattes oppfatning av samarbeidet med skolene generelt.</p>    <h2>
+<strong>Kompetanseheving </strong>
+</h2><p>Sammen med ambisjonen om utprøving av opplæringsmodeller og styrking av samarbeidsrelasjoner har kompetanseheving vært et særlig innsatsområde i Oppfølgingsprosjektet. Det er hver enkelt fylkeskommunes ansvar å sørge for at oppfølgingstjenesten har tilstrekkelig kapasitet og kompetanse til å følge opp målgruppen, og til å planlegge og iverksette tiltak i samarbeid med andre aktører. I delrapporten fra prosjektet i 2013 konkluderte vi med at kompetansehevingstilbudet i Oppfølgingsprosjektet så ut til å være særlig nyttig i arbeidet med å styrke samarbeidsrelasjonene mellom aktørene, men at det i mindre grad hadde bidratt til å øke aktørenes kunnskap om tiltak og utprøving av opplæringsmodeller.</p><p>Analysene i denne sluttrapporten støtter opp under konklusjonene fra underveisrapporten. Mange av de ansatte både i OT og NAV har deltatt på ulike typer kompetansehevinger skoleåret 2013/14. Godt over halvparten av de OT-ansatte har deltatt på en eller annen form for kompetanseheving i regi av Ny GIV. I og med at den sentrale prosjektledelsen ikke har initiert noen bred kompetanseheving dette skoleåret, kan det tyde på en betydelig regional kompetansehevingsaktivitet i kjølvannet av Oppfølgingsprosjektet.</p>    <h2>
+<strong>Behov for samordning av opplysninger?</strong>
+</h2><p>I rapporten har vi utforsket behovet for samordning av opplysninger om ungdom i OTs målgruppe. Selv om OT i løpet av prosjektperioden for Ny GIV har fått bedre oversikt og kommer i kontakt med flere av ungdommene i målgruppa, avdekker data som vi selv har samlet inn, et potensial for bedre oversikt over den samlede tiltaksaktiviteten i fylkene.</p><p>Gjennom arbeidet med evalueringen har vi erfart at sentraladministrasjonen i mange av fylkene har begrenset oversikt over den samlede tiltaksaktiviteten i sitt eget fylke. Ut over de tiltakskodene som registres av oppfølgingstjenesten i deres eget administrative system (OTTO), sitter de færreste på lett tilgjengelig informasjon om hvilke typer tiltak som brukes, og hvilke ungdommer som deltar på de ulike tiltakene. OTTO gir trolig heller ikke full informasjon om den totale tiltaksaktiviteten. Kobling av opplysninger fra vårt eget tiltaksregister med det som registreres i OTTO, tyder i alle fall på at en del av tiltaksaktiviteten ikke registreres i OTTO.</p><p>Nærmere bestemt viser analysene at den totale tiltaksaktiviteten i fylkene underrapporteres hvis man kun legger OTs registreringer til grunn. Kun tre av fire av de ungdommene NOVA har fått rapportert inn som tiltaksdeltakere, er registrert i oppfølgingstjenestens register. Mange av disse har elevstatus og kan derfor være utenfor OTs målgruppe. Ser vi bort fra disse, er det fremdeles drøyt en av ti som ikke gjenfinnes i OTTO. Underrapporteringen gjelder da særlig tiltak som kun har arbeidspraksis som mål, og der kun NAV er inne med ressurser. Videre har OT dårligere oversikt over noen grupper av ungdom på tiltak enn andre. Ungdom som ikke er registrert i OTTO, er jevnt over noe eldre enn de som er registrert i OTTO. De har også i større grad gjennomført deler av videregående opplæring. Slik kan det se ut som om OT fremdeles har en vei å gå når det gjelder å få oversikt over tiltaksaktiviteten blant de eldste ungdommene i målgruppen, og blant de som faller fra relativt sent i opplæringsløpet.</p><p>Evalueringen understreker også betydningen av at OTTOs tiltakskoder gir begrenset informasjon om innholdet i og målsettingen med tiltakene. NOVA vil på bakgrunn av evalueringen anbefale at registeringsverktøyet som brukes i oppfølgingstjenesten, gjennomgås på nytt, slik at innhold og virkemidler i tiltakene i større grad registreres på individnivå. En bedre oversikt over virkemidlene i innsatsen vil gi fylkene og de som arbeider med ungdom, større oversikt, og i neste omgang gjøre det lettere å vurdere effekten av innsatsene, noe som er en viktig målsetting i videreføringen av innsatsen gjennom det nye «program for bedre gjennomføring i videregående opplæring».&nbsp;</p>		<a href="javascript:void(0);" id="close_summary_trigger">Lukk sammendrag</a>
+                </div>        
+                    </div>
+    </div>
+    <div class="Col fullsizeBlock">
+        <div class="ColWrapper">
+                            <img class="publication_right_content_image"  id="kdks" src="/var/ezflow_site/storage/images/om-hioa/senter-for-velferds-og-arbeidslivsforskning/nova/publikasjonar/rapporter/2015/oppfoelgingsprosjektet-i-ny-giv/oppfoelgingsprosjektet-i-ny-giv-w278/1928398-1-nor-NO/Oppfoelgingsprosjektet-i-Ny-Giv-w278.jpg" alt="" title=""  />
+                                        <div class="publication_right_content_line">
+                    <em>Utgivelsesår:</em>
+                    <p>
+2015</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>Antall sider:</em>
+                    <p>
+165</p>
+                </div>
+             
+                            <div class="publication_right_content_line">
+                    <em>ISBN:</em>
+                    <p>
+078-82-7894-538-4</p>
+                </div>
+                                        <div class="publication_right_content_line">
+                    <em>ISSN:</em>
+                    <p>
+0808-5013</p>
+                </div>
+                                                                <div class="publication_right_content_line">
+                    <h4>Bestilling</h4>
+                                            <div class="publication_right_content_line">
+                            <em>Pris:</em>
+                            <p>
+                                NOK
+                                                                190,-                            </p>
+                        </div>
+                                        <div class="publication_right_content_line">
+                    <em>Bestilling:</em>
+                                                                        <a href="mailto:publikasjoner@nova.hioa.no">
+                                publikasjoner@nova.hioa.no                            </a>
+                                                            </div>
+                        </div>
+
+                            <h4>Tilknyttet prosjekt</h4>
+                <div class="publication_right_content_line">
+                                                    <a href="/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Prosjekter/Avsluttede/Evaluering-av-oppfoelgingsprosjektet-i-NY-GIV">Evaluering av oppfølgingsprosjektet i NY GIV</a><br />
+                                        
+                </div>
+                        
+        </div>                
+    </div>           
+</div>
+
+<script type="text/javascript">
+    window.onload = function(){
+            $("#show_summary_trigger").click(function(){
+		$(".publication_summary").show();		   
+		$("#show_summary_trigger").hide();
+            });
+	$("#close_summary_trigger").click(function(){
+		$(".publication_summary").hide();		   
+		$("#show_summary_trigger").show();
+	})
+    }
+</script>
+
+
+		          <!-- Main area content: END -->
+</div>
+			</div>
+		</div><!--end:frameWrapper-->
+</div>        <!-- Extra area: START -->
+    
+    <!-- Extra area: END -->
+<!--  </div>
+  </div> -->
+  <!-- Columns area: END -->
+  <!-- Footer area: START -->
+  <!-- Footer area: START -->
+
+<div class="clearfloat"></div>
+<div id="footer">
+	<div class="inner">
+    <div class="contentWrapper">											
+        <div id="footerMenuContainer">            
+        <div class="footerMenu">
+							<h4 class="footerMenuHeader">HiOA</h4>
+												  
+			<ul>
+									<li><a href="/Om-HiOA">Om høgskolen</a></li>
+										                    	<li><a href="/Om-HiOA/Organisasjonskart" title="Organisasjon HiOA">Organisasjon</a></li>
+	                    <li><a href="/Om-HiOA/Strategier" title="HiOAs Stategi">Strategi</a></li>
+	                    <li><a href="/Om-HiOA/Ledige-stillinger" title="Ledige stillinger ved HiOA">Ledige stillinger</a></li>
+	                    <li><a href="/Kontakt-oss/Mediekontakt" title="Mediekontakt for HiOA">Mediekontakt</a></li>
+						<li><a href="/Om-HiOA/Kart-og-veibeskrivelse" title="Kart og veibeskrivelse for HiOA">Kart og veibeskrivelse</a></li>
+						<li><a href="/Om-HiOA/Informasjonskapsler-paa-Hioa.no" title="Om informasjonskapsler på hioa.no">Om informasjonskapsler</a></li>
+									            </ul>
+    	</div>
+        <div class="footerMenu">
+												<h4 class="footerMenuHeader">Kontaktinformasjon</h4>
+								<p>
+					Høgskolen i Oslo og Akershus<br/>
+					Postboks 4 St. Olavs plass<br />                         0130 Oslo <br />
+					Tlf.: 67 23 50 00 <br />
+					E-post: <a href="mailto:post@hioa.no">post@hioa.no</a>
+				</p>
+									</div>
+		<div class="footerMenu">
+							
+            	<h4 class="footerMenuHeader">
+            		            			Møt oss her
+            		            	</h4>
+						<ul>	
+							<li><a class="imagelink facebook" href="http://www.facebook.com/hioa">Facebook</a></li>
+										<li><a class="imagelink twitter" href="https://twitter.com/#!/HiOA_info">Twitter</a></li>
+				<li><a class="imagelink linkedin" href="http://no.linkedin.com/company/h-gskolen-i-oslo-og-akershus">LinkedIn</a></li>											
+				<li><a class="imagelink flickr" href="http://www.flickr.com/photos/hioa/">Flickr</a></li>
+			            	<li><a class="imagelink instagram" href="http://www.instagram.com/hioa">Instagram</a></li>
+                        	<li><a class="imagelink googleplus" rel="publisher" href="https://plus.google.com/106065048460808498234">Google+</a></li>
+                        </ul>
+        </div>		
+        			<div class="footerMenu">
+					            	<h4 class="footerMenuHeader last">Aktuelt</h4>
+	                <ul>
+						<li><a href="/Aktuelt">Aktuelle saker fra HiOA</a>  </li>
+						<li><a href="http://www.hioa.no/vitenogpraksis/?origin=externfooter">Viten + praksis - HiOAs forskningsmagasin</a></li>
+						<li><a href="http://www.khrono.no">Khrono - HiOAs uavhengige nettavis</a>  </li>
+						<li><a href="http://blogg.hioa.no/">blogg.hioa.no</a></li>
+						        		</ul>
+					    	</div>
+	    	    						    <div class="footerMenu last">		
+			    	<ul>
+			    		<li>
+			    			<a class="imagelink fortilsatte" href="https://tilsatt.hioa.no">For tilsatte</a>
+			    		</li>
+						<li>
+							<a href="https://prod.cms.hioa.no/admin/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Oppfoelgingsprosjektet-i-Ny-GIV" target="_blank" title="Login">eZ Publish</a>
+						</li>	
+					</ul>
+				</div>
+					</div> <!-- footer menu container -->
+<div class="clearfloat"></div>
+</div>																				
+</div> <!-- contentwrapper -->										
+</div> <!-- inner -->
+</div> <!-- footer -->
+<!-- Footer area: END -->
+  <!-- Footer area: END -->
+<!-- </div> -->
+<!-- Complete page area: END -->
+<!-- Footer script area: START --><!-- Footer script area: END -->
+<script type="text/javascript" src="/var/ezflow_site/cache/public/javascript/da876c0edcacbe616bc0946b747eabf8.js" charset="utf-8"></script>
+
+    
+
+<script type="text/javascript">
+
+  	var _gaq = _gaq || [];
+  	_gaq.push(['_setAccount', 'UA-25223587-1']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+
+	<script type="text/javascript" src="/extension/hioa/design/hioa/javascript/sitester_script_v9_1750.js"></script>
+
+
+ 	<script type="text/javascript">
+		var nhutmaid;
+ 	 	var nhutmafirst;
+ 	 	var nhutmaprevious;
+ 	 	var nhutmalatest;
+ 	 	var nhutmanumber;
+ 	 	{
+			if (document.cookie != '')
+			var nhcookie = document.cookie.split('; ');
+			var x;
+			for (x in nhcookie)
+			{
+				if (nhcookie[x].substring(0, 6) == "__utma")
+				{
+					nhutmaparts = nhcookie[x].split('.');
+					nhutmaid = nhutmaparts[1];
+					nhutmafirst = nhutmaparts[2];
+					nhutmaprevious = nhutmaparts[3];
+					nhutmalatest = nhutmaparts[4];
+					nhutmanumber = nhutmaparts[5];
+				}
+			}
+ 	 	 }
+	</script>
+
+ 	<!-- Submit GA Visitor ID to CustomVar5 -->
+ 	<script type="text/javascript">
+		_gaq.push(['_setCustomVar',5, 'nethouseid',nhutmaid,1]);
+ 	 	_gaq.push(['_trackEvent','nethouse','id','',0,true]);
+ 	 </script>
+
+	<script id="__maSrc" type="text/javascript" data-pid="8633">
+		(function () {
+		    var d=document,t='script',c=d.createElement(t),s=(d.URL.indexOf('https:')==0?'s':''),p;
+		    c.type = 'text/java'+t;
+		    c.src = 'http'+s+'://'+s+'c.cdnma.com/apps/capture.js';
+		    p=d.getElementsByTagName(t)[0];p.parentNode.insertBefore(c,p);
+		}());
+	</script> 
+
+
+	<script type="text/javascript">
+		/*<![CDATA[*/
+		(function() {
+			var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+			sz.src = '//ssl.siteimprove.com/js/siteanalyze_6000487.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+		})();
+		/*]]>*/
+	</script> 
+	<script>
+	(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded) {
+				var fbds = document.createElement('script');
+				fbds.async = true;
+				fbds.src = '//connect.facebook.net/en_US/fbds.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(fbds, s);
+				_fbq.loaded = true;
+			}
+			_fbq.push(['addPixelId', '1587557568129850']);
+		})();
+		window._fbq = window._fbq || [];
+		window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript>
+		<img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1587557568129850&amp;ev=PixelInitialized" />
+	</noscript>
+ 
+    <meta property="og:image" content="http://www.hioa.no/extension/hioa/design/hioa/images/Hioa-Logo-s_h-orig.png"/>
+</body>
+</html>

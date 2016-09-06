@@ -592,9 +592,12 @@ var alle_serier = {
     temahefte: temahefte
 };
 
-
+	function getBaseFilenameFromUrl(inputString) {
+		return inputString.replace(/\//g,"|").replace(/^.+?([^|]+)$/g, "$1").replace(/^(.+?)[.][^.]+/g, "$1").toLowerCase();
+	}
 	// pages to investigate END
 	var url = window.location.href;
+	var filename = getBaseFilenameFromUrl(url);
 	var title = document.title;
 
 	if(isNovaPublicationPage(url)){
@@ -706,8 +709,7 @@ var alle_serier = {
             var statusEl = document.querySelector("#statusEl");
             var xhr = new XMLHttpRequest();
             var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
-            var site_url = window.location.href;
-            var post_data = "site_url="+site_url+"&json_data="+json_data_string;
+            var post_data = "filename="+filename+"&json_data="+json_data_string;
             xhr.open("POST",post_url,true);
             // set the content type header info for sending url encoded vars in the request
             xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");

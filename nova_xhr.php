@@ -2,9 +2,7 @@
 require 'db_login.php';
 ini_set('default_charset', 'UTF-8');
 	
-
-
-	$site_url = $_POST['site_url'];
+	$idFilename = $_POST['filename'];
 	$json_data = $_POST['json_data'];
 
 	/*echo "<p>Received data from " . $site_url . "</p>";
@@ -19,8 +17,8 @@ ini_set('default_charset', 'UTF-8');
 		die("Connection failed: " .  $conn->connect_error); 
 	}
 
-	$sql = "INSERT INTO nova_json (url, json)";
-	$sql .= "VALUES ('$site_url', '$json_data');";
+	$sql = "INSERT INTO $db_table (idFilename, JSON)";
+	$sql .= "VALUES ('$idFilename', '$json_data');";
 
 
 

@@ -595,8 +595,13 @@ var alle_serier = {
 	function getBaseFilenameFromUrl(inputString) {
 		return inputString.replace(/\//g,"|").replace(/^.+?([^|]+)$/g, "$1").replace(/^(.+?)[.][^.]+/g, "$1").toLowerCase();
 	}
+	
+	function getSeriesFromUrl(inputString){
+		return inputString.replace(/^.+?Publikasjoner[/]([^/]+).+/g,"$1");
+	}
 	// pages to investigate END
 	var url = window.location.href;
+	var series = getSeriesFromUrl(url);
 	var filename = getBaseFilenameFromUrl(url);
 	var title = document.title;
 
@@ -690,7 +695,7 @@ var alle_serier = {
 		}
 
 		var publicationData = {
-	        url: url,
+	        series: series,
 			mainTitle: mainTitle,
 			subTitle: subTitle,
 			authors: authors,
@@ -709,7 +714,7 @@ var alle_serier = {
             var statusEl = document.querySelector("#statusEl");
             var xhr = new XMLHttpRequest();
             var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
-            var post_data = "filename="+filename+"&json_data="+json_data_string;
+            var post_data = "filename="+filename+"&series="+series+"&json_data="+json_data_string;
             xhr.open("POST",post_url,true);
             // set the content type header info for sending url encoded vars in the request
             xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");

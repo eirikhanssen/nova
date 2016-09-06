@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nova extractor
 // @namespace    hfw.no/ns/nova_extractor
-// @version      0.5
+// @version      0.7
 // @description  Extract info from NOVA publications
 // @author       You
 // @match        http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/*
@@ -778,24 +778,26 @@ var lokale_serier = {
 
 	function novaExtractorMainPage(){
 		console.log('novaExtractorMainPage');
-        var alleSerierArray = notat.concat(rapporter, skriftserie, temahefte);
 
-	function openPages(linkList, index){
-        var len = linkList.length;
-        if(len > index) {
-        	var currentLink = linkList[index];
-        	console.log("opening linkList[" + index + "]: " + currentLink);
-        	window.open(currentLink);
-        	setTimeout(function(){
-        		openPages(linkList, (index + 1));
-        	},200);
-        } else {
-        	console.log("All done opening " + len + " pages.")
-        }
-		
-	} // openPages();
+        function openPages(linkList, index){
+            var len = linkList.length;
+            if(len > index) {
+                var currentLink = linkList[index];
+                console.log("opening linkList[" + index + "]: " + currentLink);
+                window.open(currentLink);
+                setTimeout(function(){
+                    openPages(linkList, (index + 1));
+                },400);
+            } else {
+                console.log("All done opening " + len + " pages.")
+            }
 
-	openPages(alle_lokale_serier, 0);
+        } // openPages();
+
+        //openPages(lokale_serier.notater, 0);
+        //openPages(lokale_serier.skriftserie, 0);
+        openPages(lokale_serier.rapporter, 0);
+        //openPages(lokale_serier.temahefter, 0);
 
 	} // novaExtractorMainPage()
 

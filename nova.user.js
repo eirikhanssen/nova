@@ -34,11 +34,12 @@
 */
 
 (function nova(){
-	console.log("Start nova extractor - mine metadata for DOI submission");
 
-	// pages to investigate BEGIN
+console.log("Start nova extractor - mine metadata for DOI submission");
 
-	var notater = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2015/Barnehagelaererne",
+// pages to investigate BEGIN
+
+var notater = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2015/Barnehagelaererne",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2015/Det-som-skjer-paa-nett-forblir-paa-nett",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2015/Boligbehov-og-ubalanser-i-storbyer.-En-synteserapport",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2014/Formell-og-uformell-omsorg",
@@ -591,6 +592,43 @@ var rapporter = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsf
 
 rapporter = rapporter.sort();
 
+function isNovaPublicationPage(url){
+		if(url.indexOf('nova/Publikasjoner/') > -1) {
+			return true;
+		} else {
+			return false;
+		}
+	}
+
+function isNovaExtractorMainPage(url){
+	if(title.indexOf('NOVA extractor') > -1) {
+		return true;
+	} else {
+		return false;
+	}
+}
+
+function hasYearInSegmentInUrl(str) {
+	return str.match(/[/]\d\d\d\d[/]/) != null;
+}
+
+function getYearFromNovaUrl(str) {
+	if(hasYearInSegmentInUrl(str)){
+		return str.replace(/^.+?[/](\d\d\d\d)[/].+?$/g,'$1');
+	} else {
+		return "";
+	}
+}
+
+function getBaseFilenameFromUrl(inputString) {
+		return inputString.replace(/\//g,"|").replace(/^.+?([^|]+)$/g, "$1").replace(/^(.+?)[.][^.]+/g, "$1");
+	}
+	
+function getSeriesFromUrl(inputString){
+		return inputString.replace(/^.+?Publikasjonar[/]([^/]+).+/g,"$1");
+	}
+
+
 function genLocalLinks(linkList) {
     var filename;
     var year;
@@ -598,7 +636,7 @@ function genLocalLinks(linkList) {
     var result = [];
     var currentLink;
     for(var value of linkList) {
-        currentLink = value.replace(/^.+?[/]Publikasjonar/g,"http://localhost/~hanson/nova/Publikasjoner").replace(/NOVAs-skriftserie/g,'Skriftserie');
+        currentLink = value.replace(/^.+?[/]Publikasjonar/g,"http://localhost/~hanson/nova/Publikasjonar").replace(/NOVAs-skriftserie/g,'Skriftserie');
         result.push(currentLink);
     }
     return result;
@@ -611,194 +649,176 @@ var lokale_serier = {
     temahefter: genLocalLinks(temahefter)
 };
 
-	var alle_lokale_serier = lokale_serier.notater.concat(lokale_serier.rapporter, lokale_serier.skriftserie, lokale_serier.temahefter);
+var alle_lokale_serier = lokale_serier.notater.concat(lokale_serier.rapporter, lokale_serier.skriftserie, lokale_serier.temahefter);
 
-	function getBaseFilenameFromUrl(inputString) {
-		return inputString.replace(/\//g,"|").replace(/^.+?([^|]+)$/g, "$1").replace(/^(.+?)[.][^.]+/g, "$1");
+
+// pages to investigate END
+var url = window.location.href;
+var series = getSeriesFromUrl(url);
+var filename = getBaseFilenameFromUrl(url);
+var title = document.title;
+
+if(isNovaPublicationPage(url)){
+	novaPublicationPage();
+} else if(isNovaExtractorMainPage(url)) {
+	novaExtractorMainPage();
+} else {console.log('unknown page: ' + url);}
+
+
+// script runs on a pop-up page and needs to mine data, send to server and close page.
+function novaPublicationPage() {
+	console.log('novaPublicationPage');
+
+	function closePage(){
+        // sleep
+        var delay_in_ms = 100;
+        setTimeout(function(){
+            window.close();
+        }, delay_in_ms);
+        /*var readyToClose = confirm("done, close this page?");
+        if(readyToClose) {
+            window.close();
+        }*/
+	}
+
+	// mine metadata
+	var mainTitleElem = document.querySelector('.research_project h1');
+	var mainTitle = (mainTitleElem !== null) ? mainTitleElem.textContent : undefined;
+	var subTitleElem = document.querySelector('.research_project p.ingress');
+	var subTitle = (subTitleElem !== null) ? subTitleElem.textContent : undefined;
+	
+	function getAuthorList () {
+		return document.querySelectorAll('.research_project ul li');
 	}
 	
-	function getSeriesFromUrl(inputString){
-		return inputString.replace(/^.+?Publikasjoner[/]([^/]+).+/g,"$1");
-	}
-	// pages to investigate END
-	var url = window.location.href;
-	var series = getSeriesFromUrl(url);
-	var filename = getBaseFilenameFromUrl(url);
-	var title = document.title;
+    var dateEdition,
+        datePublished,
+        publicationType,
+        issn,
+        isbn,
+        pages,
+        authors;
 
-	if(isNovaPublicationPage(url)){
-		novaPublicationPage();
-	} else if(isNovaExtractorMainPage(url)) {
-		novaExtractorMainPage();
-	} else {console.log('unknown page: ' + url);}
-
-	function isNovaPublicationPage(url){
-		if(url.indexOf('nova/Publikasjoner/') > -1) {
-			return true;
-		} else {
-			return false;
-		}
-	}
-
-	function isNovaExtractorMainPage(url){
-		if(title.indexOf('NOVA extractor') > -1) {
-			return true;
-		} else {
-			return false;
-		}
-	}
-
-	function novaPublicationPage() {
-		console.log('novaPublicationPage');
-
-		function closePage(){
-            // sleep
-            var delay_in_ms = 100;
-            setTimeout(function(){
-                window.close();
-            }, delay_in_ms);
-            /*var readyToClose = confirm("done, close this page?");
-            if(readyToClose) {
-                window.close();
-            }*/
-		}
-
-		// mine metadata
-		var mainTitleElem = document.querySelector('.research_project h1');
-		var mainTitle = (mainTitleElem !== null) ? mainTitleElem.textContent : undefined;
-		var subTitleElem = document.querySelector('.research_project p.ingress');
-		var subTitle = (subTitleElem !== null) ? subTitleElem.textContent : undefined;
-		
-		function getAuthorList () {
-			return document.querySelectorAll('.research_project ul li');
-		}
-		
-	    var dateEdition,
-	        datePublished,
-	        publicationType,
-	        issn,
-	        isbn,
-	        pages,
-	        authors;
-
-	        authors = (function () {
-				var al = getAuthorList();
-				var authorArray = [];
-				for (var i = 0; i < al.length; i++) {
-					authorArray.push(al[i].textContent);
-				}
-				return authorArray;
-			})();
-
-		var possibleMetaEms = document.querySelectorAll('div > em');
-		for (var j = 0; j < possibleMetaEms.length; j++) {
-			switch (possibleMetaEms[j].textContent) {
-				case 'Utgivelsesår:':
-					dateEdition = possibleMetaEms[j].nextElementSibling.textContent.trim();
-				break;
-	            case 'Publisert:':
-					datePublished = possibleMetaEms[j].nextElementSibling.textContent.trim();
-				break;
-	            case 'Publikasjonstype:':
-					publicationType = possibleMetaEms[j].nextElementSibling.textContent.trim();
-				break;
-	            case 'ISSN:':
-					issn = possibleMetaEms[j].nextElementSibling.textContent.trim();
-				break;
-				case 'ISBN:':
-					isbn = possibleMetaEms[j].nextElementSibling.textContent.trim();
-				break;
-	            case 'Antall sider:':
-					pages = possibleMetaEms[j].nextElementSibling.textContent.trim();
-				break;
-	            default:
-	            	if(possibleMetaEms[j].textContent.trim().indexOf('Temahefte') > -1) {
-	            		publicationType = possibleMetaEms[j].textContent.trim();
-	            	}
-	            break;
+        authors = (function () {
+			var al = getAuthorList();
+			var authorArray = [];
+			for (var i = 0; i < al.length; i++) {
+				authorArray.push(al[i].textContent);
 			}
+			return authorArray;
+		})();
+
+	var possibleMetaEms = document.querySelectorAll('div > em');
+	for (var j = 0; j < possibleMetaEms.length; j++) {
+		switch (possibleMetaEms[j].textContent) {
+			case 'Utgivelsesår:':
+				dateEdition = possibleMetaEms[j].nextElementSibling.textContent.trim();
+			break;
+            case 'Publisert:':
+				datePublished = possibleMetaEms[j].nextElementSibling.textContent.trim();
+			break;
+            case 'Publikasjonstype:':
+				publicationType = possibleMetaEms[j].nextElementSibling.textContent.trim();
+			break;
+            case 'ISSN:':
+				issn = possibleMetaEms[j].nextElementSibling.textContent.trim();
+			break;
+			case 'ISBN:':
+				isbn = possibleMetaEms[j].nextElementSibling.textContent.trim();
+			break;
+            case 'Antall sider:':
+				pages = possibleMetaEms[j].nextElementSibling.textContent.trim();
+			break;
+            default:
+            	if(possibleMetaEms[j].textContent.trim().indexOf('Temahefte') > -1) {
+            		publicationType = possibleMetaEms[j].textContent.trim();
+            	}
+            break;
 		}
-
-		var publicationData = {
-	        series: series,
-			mainTitle: mainTitle,
-			subTitle: subTitle,
-			authors: authors,
-			dateEdition: dateEdition,
-			datePublished: datePublished,
-	        publicationType: publicationType,
-	        issn: issn,
-	        isbn: isbn,
-	        pages: pages
-	    };
-
-	    var stringified = JSON.stringify(publicationData);
-        
-        function ajax_post(json_data_string){
-            console.log("json_data_string: " + json_data_string);
-            var len = json_data_string.length;
-            var statusEl = document.querySelector("#statusEl");
-            var xhr = new XMLHttpRequest();
-            var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
-            var post_data = "filename="+filename+"&series="+series+"&len="+len+"&json_data="+json_data_string;
-            xhr.open("POST",post_url,true);
-            // set the content type header info for sending url encoded vars in the request
-            xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-            // access the onreadystatechenge event for the XMLHttpRequest object
-            xhr.onreadystatechange = function(){
-                console.log(xhr.readyState + ", " + xhr.status);
-                var return_data = xhr.responseText;
-                if(xhr.readyState == 4 && xhr.status == 200) {
-                    statusEl.style.color = "green";
-                    statusEl.innerHTML = statusEl.innerHTML + return_data;
-                    closePage();
-                } else {
-                    statusEl.style.color = "red";
-                    statusEl.innerHTLM = statusEl.innerHTML + return_data;
-                }
-                
-            };
-            xhr.send(post_data);
-        	statusEl.innerHTML = statusEl.innerHTML + "</br></br><strong>posted data sendt to server: </strong></br></br>" + post_data + "</br>";
-        }
-        
-        // send the data to php now and wait for response to update the status div.
-        
-        var statusEl = document.createElement("aside");
-        statusEl.id = "statusEl";
-        statusEl.innerHTML="processing XHR...</br>";
-        statusEl.style.cssText="position:fixed; top:0; right:0; bottom:0; width: 98%; margin-top: 3em; margin-bottom: 3em; margin-right: auto; margin-left: auto; opacity: 0.9; border: 3px solid red; color: black; background-color: #dddddd; font-family: sans-serif; padding: 0.5em; font-size: 1.1em; box-shadow: 0 0 5px black;";
-        document.querySelector("body").appendChild(statusEl);
-
-        console.log("posting: ");
-	    console.log(stringified);
-        ajax_post(stringified);
-
 	}
 
-	function novaExtractorMainPage(){
-		console.log('novaExtractorMainPage');
+	var publicationData = {
+        series: series,
+		mainTitle: mainTitle,
+		subTitle: subTitle,
+		authors: authors,
+		dateEdition: dateEdition,
+		datePublished: datePublished,
+        publicationType: publicationType,
+        issn: issn,
+        isbn: isbn,
+        pages: pages
+    };
 
-        function openPages(linkList, index){
-            var len = linkList.length;
-            if(len > index) {
-                var currentLink = linkList[index];
-                console.log("opening linkList[" + index + "]: " + currentLink);
-                window.open(currentLink);
-                setTimeout(function(){
-                    openPages(linkList, (index + 1));
-                },400);
+    var stringified = JSON.stringify(publicationData);
+    
+    function ajax_post(json_data_string){
+        console.log("json_data_string: " + json_data_string);
+        var len = json_data_string.length;
+        var statusEl = document.querySelector("#statusEl");
+        var xhr = new XMLHttpRequest();
+        var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
+        var post_data = "filename="+filename+"&series="+series+"&len="+len+"&json_data="+json_data_string;
+        xhr.open("POST",post_url,true);
+        // set the content type header info for sending url encoded vars in the request
+        xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        // access the onreadystatechenge event for the XMLHttpRequest object
+        xhr.onreadystatechange = function(){
+            console.log(xhr.readyState + ", " + xhr.status);
+            var return_data = xhr.responseText;
+            if(xhr.readyState == 4 && xhr.status == 200) {
+                statusEl.style.color = "green";
+                statusEl.innerHTML = statusEl.innerHTML + return_data;
+                closePage();
             } else {
-                console.log("All done opening " + len + " pages.")
+                statusEl.style.color = "red";
+                statusEl.innerHTLM = statusEl.innerHTML + return_data;
             }
+            
+        };
+        xhr.send(post_data);
+    	statusEl.innerHTML = statusEl.innerHTML + "</br></br><strong>posted data sendt to server: </strong></br></br>" + post_data + "</br>";
+    }
+    
+    // send the data to php now and wait for response to update the status div.
+    
+    var statusEl = document.createElement("aside");
+    statusEl.id = "statusEl";
+    statusEl.innerHTML="processing XHR...</br>";
+    statusEl.style.cssText="position:fixed; top:0; right:0; bottom:0; width: 98%; margin-top: 3em; margin-bottom: 3em; margin-right: auto; margin-left: auto; opacity: 0.9; border: 3px solid red; color: black; background-color: #dddddd; font-family: sans-serif; padding: 0.5em; font-size: 1.1em; box-shadow: 0 0 5px black;";
+    document.querySelector("body").appendChild(statusEl);
 
-        } // openPages();
+    console.log("posting: ");
+    console.log(stringified);
+    ajax_post(stringified);
 
-        //openPages(lokale_serier.notater, 0);
-        //openPages(lokale_serier.skriftserie, 0);
-        openPages(lokale_serier.rapporter, 0);
-        //openPages(lokale_serier.temahefter, 0);
+}
 
-	} // novaExtractorMainPage()
+// script runs on the page opening all link items. Needs to open all pages in list.
+function novaExtractorMainPage(){
+	console.log('novaExtractorMainPage');
+
+    function openPages(linkList, index){
+        var len = linkList.length;
+        if(len > index) {
+            var currentLink = linkList[index];
+            console.log("opening linkList[" + index + "]: " + currentLink);
+            window.open(currentLink);
+            setTimeout(function(){
+                openPages(linkList, (index + 1));
+            },500);
+        } else {
+            console.log("All done opening " + len + " pages.")
+        }
+
+    } // openPages();
+
+    // open all pages so that metadata will be saved.
+    openPages(lokale_serier.notater, 0);
+    openPages(lokale_serier.skriftserie, 0);
+    openPages(lokale_serier.rapporter, 0);
+    openPages(lokale_serier.temahefter, 0);
+
+} // novaExtractorMainPage()
 
 }()); // function nova()

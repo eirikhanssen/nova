@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nova extractor
 // @namespace    hfw.no/ns/nova_extractor
-// @version      0.7
+// @version      0.9
 // @description  Extract info from NOVA publications
 // @author       You
 // @match        http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/*
@@ -189,7 +189,8 @@ var skriftserie = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidsliv
 
 skriftserie = skriftserie.sort();
 
-var rapporter = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Oppfoelgingsprosjektet-i-Ny-GIV",
+var rapporter = [
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Oppfoelgingsprosjektet-i-Ny-GIV",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Det-tenner-en-gnist",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Resultatevaluering-av-Omsorgsplan-2015",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2015/Evaluering-av-tiltaket-Maalrettet-stoette-og-veiledning-til-kommuner-og-deres-skoler-som-har-vedvarende-hoeye-mobbetall",
@@ -298,6 +299,7 @@ var rapporter = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsf
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2016/Forskning-om-familiegenerasjoner",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2016/Ungdata-2016.-Nasjonale-resultater",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2016/Vold-og-overgrep-mot-barn-og-unge",
+"http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2016/Tjenestetilbudet-til-familier-som-har-barn-med-funksjonsnedsettelser",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/1999/Moderne-urfolk-lokal-og-etnisk-tilhoerighet-blant-samisk-ungdom",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2000/Samarbeid-mellom-hjem-og-skole-en-kartleggingsundersoekelse",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Rapporter/2008/Barneverntjenestens-haandtering-av-saker-med-vold-og-seksuelle-overgrep",
@@ -593,7 +595,7 @@ var rapporter = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsf
 rapporter = rapporter.sort();
 
 function isNovaPublicationPage(url){
-		if(url.indexOf('nova/Publikasjoner/') > -1) {
+		if(url.indexOf('nova/Publikasjonar/') > -1) {
 			return true;
 		} else {
 			return false;
@@ -609,7 +611,7 @@ function isNovaExtractorMainPage(url){
 }
 
 function hasYearInSegmentInUrl(str) {
-	return str.match(/[/]\d\d\d\d[/]/) != null;
+	return str.match(/[/]\d\d\d\d[/]/) !== null;
 }
 
 function getYearFromNovaUrl(str) {
@@ -670,15 +672,14 @@ function novaPublicationPage() {
 	console.log('novaPublicationPage');
 
 	function closePage(){
-        // sleep
-        var delay_in_ms = 100;
-        setTimeout(function(){
-            window.close();
+        // sleep before deciding to close or not.
+        var delay_in_ms = 1000;
+    	setTimeout(function(){
+        	var okToClose = (document.querySelector(".error") == null);
+            if(okToClose) {
+            	window.close();
+            }
         }, delay_in_ms);
-        /*var readyToClose = confirm("done, close this page?");
-        if(readyToClose) {
-            window.close();
-        }*/
 	}
 
 	// mine metadata
@@ -687,35 +688,80 @@ function novaPublicationPage() {
 	var subTitleElem = document.querySelector('.research_project p.ingress');
 	var subTitle = (subTitleElem !== null) ? subTitleElem.textContent : undefined;
 	
-	function getAuthorList () {
-		return document.querySelectorAll('.research_project ul li');
+	function getAuthors () {
+		
+		function getPersonFromString(str) {
+			// check if the name is reversed
+			var isReversed = (str.match(",") !== null);
+			var splitter = " ";
+			var parts, first, last;
+
+			if(!isReversed) {
+				parts = str.split(splitter);
+				var len = parts.length;
+				var last = parts[len-1];
+				var first = "";
+			for (var i = 0; i < len-1; i ++) {
+				if (i > 0) { first = first + " "; }
+				first = first + parts[i];
+			}		
+			} else {
+				splitter = ",";
+				parts = str.split(splitter);
+				last = parts[0];
+				first = parts[1];
+			}
+			return {fn: first.trim(), ln: last.trim()};
+		}
+
+
+		var ems = document.querySelectorAll('em');
+		var current_em;
+		var authorLIs;
+		var authors = [];
+		var current_author = "";
+		var i;
+		for (i = 0; i < ems.length; i++) {
+			current_em = ems[i];
+			//console.log(current_em.innerText);
+			if(current_em.innerText == "Forfatter(e):") {
+				authorLIs = current_em.nextElementSibling.querySelectorAll('li');
+				//return authorLIs;
+				
+				for (i = 0; i < authorLIs.length; i++) {
+					current_author = authorLIs[i].textContent.trim();
+					if (current_author !== "") {
+						console.log(current_author);
+						authors.push(getPersonFromString(current_author));
+					}
+				}
+			return authors;
+			}
+		}
+
+		//return "Didn't find any authors!";
+		
+		//return "didn't find any authors!";
 	}
 	
-    var dateEdition,
-        datePublished,
+    var pubYear,
+        pubDate,
         publicationType,
         issn,
         isbn,
         pages,
         authors;
 
-        authors = (function () {
-			var al = getAuthorList();
-			var authorArray = [];
-			for (var i = 0; i < al.length; i++) {
-				authorArray.push(al[i].textContent);
-			}
-			return authorArray;
-		})();
+        authors = getAuthors();
 
 	var possibleMetaEms = document.querySelectorAll('div > em');
 	for (var j = 0; j < possibleMetaEms.length; j++) {
 		switch (possibleMetaEms[j].textContent) {
 			case 'Utgivelsesår:':
-				dateEdition = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				pubYear = possibleMetaEms[j].nextElementSibling.textContent.trim();
 			break;
             case 'Publisert:':
-				datePublished = possibleMetaEms[j].nextElementSibling.textContent.trim();
+				pubDate = possibleMetaEms[j].nextElementSibling.textContent.trim();
 			break;
             case 'Publikasjonstype:':
 				publicationType = possibleMetaEms[j].nextElementSibling.textContent.trim();
@@ -739,18 +785,21 @@ function novaPublicationPage() {
 
 	var publicationData = {
         series: series,
+        pubYear: pubYear,
+		pubDate: pubDate,
 		mainTitle: mainTitle,
 		subTitle: subTitle,
+		filename: filename,
 		authors: authors,
-		dateEdition: dateEdition,
-		datePublished: datePublished,
-        publicationType: publicationType,
+		publicationType: publicationType,
         issn: issn,
         isbn: isbn,
         pages: pages
     };
 
     var stringified = JSON.stringify(publicationData);
+
+    var year = publicationData.pubYear || publicationData.pubDate || "0000";
     
     function ajax_post(json_data_string){
         console.log("json_data_string: " + json_data_string);
@@ -758,7 +807,7 @@ function novaPublicationPage() {
         var statusEl = document.querySelector("#statusEl");
         var xhr = new XMLHttpRequest();
         var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
-        var post_data = "filename="+filename+"&series="+series+"&len="+len+"&json_data="+json_data_string;
+        var post_data = "filename=" + filename + "&year=" + year + "&series=" + series + "&len=" + len + "&json_data=" + json_data_string;
         xhr.open("POST",post_url,true);
         // set the content type header info for sending url encoded vars in the request
         xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
@@ -769,11 +818,12 @@ function novaPublicationPage() {
             if(xhr.readyState == 4 && xhr.status == 200) {
                 statusEl.style.color = "green";
                 statusEl.innerHTML = statusEl.innerHTML + return_data;
-                closePage();
             } else {
                 statusEl.style.color = "red";
                 statusEl.innerHTLM = statusEl.innerHTML + return_data;
             }
+
+			closePage();
             
         };
         xhr.send(post_data);
@@ -789,7 +839,7 @@ function novaPublicationPage() {
     document.querySelector("body").appendChild(statusEl);
 
     console.log("posting: ");
-    console.log(stringified);
+    //console.log(stringified);
     ajax_post(stringified);
 
 }
@@ -806,14 +856,14 @@ function novaExtractorMainPage(){
             window.open(currentLink);
             setTimeout(function(){
                 openPages(linkList, (index + 1));
-            },500);
+            },600);
         } else {
-            console.log("All done opening " + len + " pages.")
+            console.log("All done opening " + len + " pages.");
         }
 
     } // openPages();
 
-    // open all pages so that metadata will be saved.
+    //open all pages so that metadata will be saved.
     openPages(lokale_serier.notater, 0);
     openPages(lokale_serier.skriftserie, 0);
     openPages(lokale_serier.rapporter, 0);

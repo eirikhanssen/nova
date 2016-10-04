@@ -37,7 +37,11 @@
 
 console.log("Start nova extractor - mine metadata for DOI submission");
 
-// pages to investigate BEGIN
+/*
+	==========================================
+	 Pages to mine metadata
+	==========================================
+*/
 
 var notater = ["http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2015/Barnehagelaererne",
 "http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Notat/2015/Det-som-skjer-paa-nett-forblir-paa-nett",
@@ -594,6 +598,12 @@ var rapporter = [
 
 rapporter = rapporter.sort();
 
+/*
+	==========================================
+	 Functions
+	==========================================
+*/
+
 function isNovaPublicationPage(url){
 		if(url.indexOf('nova/Publikasjonar/') > -1) {
 			return true;
@@ -610,12 +620,12 @@ function isNovaExtractorMainPage(url){
 	}
 }
 
-function hasYearInSegmentInUrl(str) {
+function hasYearSegmentInUrl(str) {
 	return str.match(/[/]\d\d\d\d[/]/) !== null;
 }
 
 function getYearFromNovaUrl(str) {
-	if(hasYearInSegmentInUrl(str)){
+	if(hasYearSegmentInUrl(str)){
 		return str.replace(/^.+?[/](\d\d\d\d)[/].+?$/g,'$1');
 	} else {
 		return "";
@@ -660,14 +670,28 @@ var series = getSeriesFromUrl(url);
 var filename = getBaseFilenameFromUrl(url);
 var title = document.title;
 
+/*
+	==========================================
+	 MAIN program
+	==========================================
+*/
+
 if(isNovaPublicationPage(url)){
 	novaPublicationPage();
 } else if(isNovaExtractorMainPage(url)) {
 	novaExtractorMainPage();
 } else {console.log('unknown page: ' + url);}
 
+/*
+	==========================================
+	 Script is running on a popupage that should be mined for data
+	 - mine data
+	 - send to server
+	 - close page
+	==========================================
+*/
 
-// script runs on a pop-up page and needs to mine data, send to server and close page.
+
 function novaPublicationPage() {
 	console.log('novaPublicationPage');
 
@@ -843,6 +867,13 @@ function novaPublicationPage() {
     ajax_post(stringified);
 
 }
+
+/*
+	==========================================
+	 Script is running on the host page
+	 - open all pages to be mined for data with a small delay between
+	==========================================
+*/
 
 // script runs on the page opening all link items. Needs to open all pages in list.
 function novaExtractorMainPage(){

@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         nova extractor
 // @namespace    hfw.no/ns/nova_extractor
-// @version      0.11
+// @version      0.50
 // @description  Extract info from NOVA publications
 // @author       You
 // @match        http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/*
@@ -253,13 +253,75 @@
     var filename = getBaseFilenameFromUrl(url);
 
     // mine metadata
-    var titleElem = document.querySelector('.research_project h1');
+   /* var titleElem = document.querySelector('.research_project h1');
     var title = (titleElem !== null) ? titleElem.textContent : undefined;
     var subtitleElem = document.querySelector('.research_project p.ingress');
-    var subtitle = (subtitleElem !== null) ? subtitleElem.textContent : undefined;
+    var subtitle = (subtitleElem !== null) ? subtitleElem.textContent : undefined;*/
 
 
+    function hasSubtitleIngress() {
+    	var ingress = document.querySelector('.ingress');
+    	if (ingress !== null) {
+    		return true;
+    	} else {
+    		return false;
+    	}
+    }
+    function getSubtitleFromIngress() {
+    	var ingress = document.querySelector('.ingress');
+    	if(ingress !== null) {
+    		return ingress.textContent;
+    	} else {return undefined;}
+    	
+    }
+    function hasSubtitleInTitle() {
+    	var title = document.querySelector('.research_project > h1').textContent;
+    	if (title.match(/[:]/) === null) {
+    		return false;
+    	} else {
+    		return true;	
+    	}
+    }
+    function getSubtitleFromTitle() {
+    	var title = document.querySelector('.research_project > h1').textContent.trim();
+    	var subtitle = title.replace(/^[^:]+:(.+)$/,'$1').trim();
+    	return subtitle;
+    }
+    function getMainTitleFromTitle() {
+		var title = document.querySelector('.research_project > h1').textContent.trim();
+    	var maintitle = title.replace(/^([^:]+):.+$/,'$1').trim();
+    	return maintitle;
+    }
 
+    function hasSubtitle() {
+    	if(hasSubtitleIngress()){
+    		return true;
+    	} else if (hasSubtitleInTitle()) {
+    		return true;
+    	}
+    	return false;
+    }
+    
+    function getTitle() {
+    	var title = document.querySelector('.research_project > h1').textContent.trim();
+    	if(hasSubtitleIngress()) {
+    		return title;
+    	} else if(hasSubtitleInTitle()) {
+    		return getMainTitleFromTitle();
+    	} else {
+    		return title;
+    	}
+    }
+
+    function getSubtitle() {
+    	if(hasSubtitleIngress()) {
+    		return getSubtitleFromIngress();
+    	} else if(hasSubtitleInTitle()) {
+    		return getSubtitleFromTitle();
+    	} else {
+    		return "";
+    	}
+    }
 
 
     function getAuthors() {
@@ -321,16 +383,17 @@
     // clean up structure a bit by removing unwanted markup
     removeUnwanted();
 
-    var pubDate,
+    var year,
         publisherItem,
         issn,
-        isbn,
-        pages,
-        authors;
+        isbn = "",
+        authors,
+        subtitle;
 
     authors = getAuthors();
-    pubDate = getYear();
+    year = getYear();
     publisherItem = getPublisherItem();
+    subtitle=getSubtitle();
 
     var possibleMetaEms = document.querySelectorAll('div.publication_right_content_line > em');
     for (var j = 0; j < possibleMetaEms.length; j++) {
@@ -341,9 +404,6 @@
             case 'ISBN:':
                 isbn = possibleMetaEms[j].nextElementSibling.textContent.trim();
                 break;
-            case 'Antall sider:':
-                pages = possibleMetaEms[j].nextElementSibling.textContent.trim();
-                break;
             default:
                 break;
         }
@@ -351,28 +411,26 @@
 
     var publicationData = {
         series: series,
-        pubDate: pubDate,
+        year: year,
         title: title,
         subtitle: subtitle,
         filename: filename,
         authors: authors,
         publisherItem: publisherItem,
         issn: issn,
-        isbn: isbn,
-        pages: pages
+        isbn: isbn
     };
 
     var stringified = JSON.stringify(publicationData);
 
-    var year = publicationData.pubYear || publicationData.pubDate || "0000";
-
+    
     function ajax_post(json_data_string) {
         console.log("json_data_string: " + json_data_string);
         var len = json_data_string.length;
         var statusEl = document.querySelector("#statusEl");
         var xhr = new XMLHttpRequest();
         var post_url = "http://localhost/~hanson/nova/nova_xhr.php";
-        var post_data = "filename=" + filename + "&year=" + year + "&series=" + series + "&len=" + len + "&json_data=" + json_data_string;
+        var post_data = "year="+ year + "&series=" + series + "&publisherItem=" + publisherItem + "&filename=" + filename +  "&len=" + len + "&issn=" + issn +"&title=" + title + "&subtitle=" + subtitle + "&isbn=" + isbn + "&json_data=" + json_data_string;
         xhr.open("POST", post_url, true);
         // set the content type header info for sending url encoded vars in the request
         xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
@@ -1037,9 +1095,9 @@
         };
 
         //open all pages so that metadata will be saved.
-        openPages(lokale_serier.notater, 0);
-        openPages(lokale_serier.skriftserie, 0);
-        openPages(lokale_serier.rapporter, 0);
+        //openPages(lokale_serier.notater, 0);
+        //openPages(lokale_serier.skriftserie, 0);
+        //openPages(lokale_serier.rapporter, 0);
         openPages(lokale_serier.temahefter, 0);
 
     } // novaExtractorHostPage()

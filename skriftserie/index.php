@@ -41,7 +41,7 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 	var doi_submit_email = "ojs@hioa.no";
 
 	db_json_rows = <?php echo json_encode($rows); ?>;
-
+	
 	window.addEventListener('load', init, false);
 
 	function init() {
@@ -74,6 +74,8 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 	}
 
 	function display() {
+		var rows = initializeJsonArray(db_json_rows);
+		console.log(rows.length + " rows in result");
 		var ts = currentTimestamp();
 		var container = document.createElement('container');
 		var ns = "http://www.crossref.org/schema/4.3.4";
@@ -109,6 +111,22 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		head.appendChild(timestamp);
 		head.appendChild(depositor);
 		head.appendChild(registrant);
+
+
+		/*
+			==========================================
+			 Create Doi Batch Body
+			==========================================
+		*/
+
+		var body = document.createElementNS(ns,'body');
+
+
+		/*
+			==========================================
+			 Finalize Doi Batch
+			==========================================
+		*/
 
 		doi_batch.appendChild(head);
 	

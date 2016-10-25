@@ -42,6 +42,14 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 
 	db_json_rows = <?php echo json_encode($rows); ?>;
 
+	window.addEventListener('load', init, false);
+
+	function init() {
+		console.log('init');
+		// change the timeout in ms if needed
+		window.setTimeout(function(){display();}, 1);
+	}
+
 	function initializeJsonArray(inputArray) {
 		var a = [];
 		for (var i = 0; i < inputArray.length; i++) {
@@ -95,6 +103,7 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		depositor.appendChild(depositor_name);
 		depositor.appendChild(email_address);
 		var registrant = document.createElementNS(ns,'registrant');
+		registrant.innerHTML = "HiOA";
 
 		head.appendChild(doi_batch_id);
 		head.appendChild(timestamp);

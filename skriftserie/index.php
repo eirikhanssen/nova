@@ -47,7 +47,7 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 	function init() {
 		console.log('init');
 		// change the timeout in ms if needed
-		window.setTimeout(function(){display();}, 1);
+		window.setTimeout(function(){display();}, 10);
 	}
 
 	function initializeJsonArray(inputArray) {
@@ -119,7 +119,46 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			==========================================
 		*/
 
-		var body = document.createElementNS(ns,'body');
+		function reportPaperFromJSON(row){
+			//console.log(row);
+
+			var report_paper = document.createElementNS(ns, 'report-paper');
+			
+			var report_paper_series_metadata = document.createElementNS(ns, 'report-paper_series_metadata');
+			report_paper_series_metadata.setAttribute("language", "no");
+
+			var series_metadata = document.createElementNS(ns, 'series_metadata');
+			var titles = document.createElementNS(ns, 'titles');
+			var title = document.createElementNS(ns, 'title');
+			title.innerHTML = row.title;
+			titles.appendChild(title);
+			// remember subtitle check!
+			series_metadata.appendChild(titles);
+
+			var issn = document.createElementNS(ns, 'issn');
+			issn.innerHTML = row.issn;
+
+			series_metadata.appendChild(issn);
+
+			report_paper_series_metadata.appendChild(series_metadata);
+
+			report_paper.appendChild(report_paper_series_metadata);
+
+			return report_paper;
+		}
+
+		var doi_batch_body = document.createElementNS(ns,'body');
+		
+		for(var j = 0; j< rows.length; j++) {
+			doi_batch_body.appendChild(reportPaperFromJSON(rows[j]));
+		}
+
+		
+
+		/*rows.forEach(function(){
+			//doi_batch_body.appendChild(reportPaperFromJSON());
+			reportPaperFromJSON();
+		});*/
 
 
 		/*
@@ -129,7 +168,10 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		*/
 
 		doi_batch.appendChild(head);
-	
+		doi_batch.appendChild(doi_batch_body);
+
+
+		// why is this line here?
 		var rows = initializeJsonArray(db_json_rows);
 		//rows.forEach(logTitle);
 

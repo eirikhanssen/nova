@@ -37,6 +37,9 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 ?>
 
 <script>
+	var doi_submitter = "Eirik Hanssen";
+	var doi_submit_email = "ojs@hioa.no";
+
 	db_json_rows = <?php echo json_encode($rows); ?>;
 
 	function initializeJsonArray(inputArray) {
@@ -51,14 +54,54 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		console.log(element.title);
 	};
 
+	function pad(num, size) {
+		var s = '00' + num;
+		return s.substr(s.length-size);
+	}
+
+	function currentTimestamp() {
+		var d = new Date();
+		var timestamp = d.getFullYear().toString() + pad(d.getMonth()+1,2) + pad(d.getDate(),2) + pad(d.getHours(),2) + pad(d.getMinutes(),2) + pad(d.getSeconds(),2);
+		return timestamp;
+	}
+
 	function display() {
+		var ts = currentTimestamp();
 		var container = document.createElement('container');
-		var doi_batch = document.createElementNS('http://www.crossref.org/schema/4.3.4', 'doi_batch');
+		var ns = "http://www.crossref.org/schema/4.3.4";
+		var doi_batch = document.createElementNS(ns, 'doi_batch');
 		doi_batch.setAttribute('xmlns:xsi','http://www.w3.org/2001/XMLSchema-instance');
 		doi_batch.setAttribute('xmlns:xsd','http://www.w3.org/2001/XMLSchema');
 		doi_batch.setAttribute('version','4.3.4');
 		doi_batch.setAttribute('xsi:schemaLocation','http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd');
 		container.appendChild(doi_batch);
+
+		
+		/*
+			==========================================
+			 Create Doi Batch Header
+			==========================================
+		*/
+		var head = document.createElementNS(ns,'head');
+		var doi_batch_id = document.createElementNS(ns,'doi_batch_id');
+		doi_batch_id.innerHTML = "hioa_" + ts;
+		var timestamp = document.createElementNS(ns,'timestamp');
+		timestamp.innerHTML=ts;
+		var depositor = document.createElementNS(ns,'depositor');
+		var depositor_name = document.createElementNS(ns,'depositor_name');
+		depositor_name.innerHTML = doi_submitter;
+		var email_address = document.createElementNS(ns,'email_address');
+		email_address.innerHTML = doi_submit_email;
+		depositor.appendChild(depositor_name);
+		depositor.appendChild(email_address);
+		var registrant = document.createElementNS(ns,'registrant');
+
+		head.appendChild(doi_batch_id);
+		head.appendChild(timestamp);
+		head.appendChild(depositor);
+		head.appendChild(registrant);
+
+		doi_batch.appendChild(head);
 	
 		var rows = initializeJsonArray(db_json_rows);
 		//rows.forEach(logTitle);

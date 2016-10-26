@@ -78,12 +78,12 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		console.log(rows.length + " rows in result");
 		var ts = currentTimestamp();
 		var container = document.createElement('container');
-		var ns = "http://www.crossref.org/schema/4.3.4";
+		var ns = "http://www.crossref.org/schema/4.3.7";
 		var doi_batch = document.createElementNS(ns, 'doi_batch');
 		doi_batch.setAttribute('xmlns:xsi','http://www.w3.org/2001/XMLSchema-instance');
 		doi_batch.setAttribute('xmlns:xsd','http://www.w3.org/2001/XMLSchema');
-		doi_batch.setAttribute('version','4.3.4');
-		doi_batch.setAttribute('xsi:schemaLocation','http://www.crossref.org/schema/4.3.4 http://www.crossref.org/schema/deposit/crossref4.3.4.xsd');
+		doi_batch.setAttribute('version','4.3.7');
+		doi_batch.setAttribute('xsi:schemaLocation','http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd');
 		container.appendChild(doi_batch);
 
 		
@@ -133,6 +133,12 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			title.innerHTML = row.title;
 			titles.appendChild(title);
 			// remember subtitle check!
+			// check if subtitle is present and not empty string
+			if(row.subtitle !== undefined && row.subtitle !== "") {
+				var subtitle = document.createElementNS(ns, 'subtitle');
+				subtitle.innerHTML = row.subtitle;
+				titles.appendChild(subtitle);
+			}
 			series_metadata.appendChild(titles);
 
 			var issn = document.createElementNS(ns, 'issn');

@@ -142,6 +142,7 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			// get all contributors
 			function getContributors(current_row) {
 			// contributors
+			// what about editors!! currently no editors in json! FIXME!!
 			var contributors = document.createElementNS(ns, 'contributors');
 			for(var k = 0; k < current_row.authors.length; k++) {
 				var seq = "first";

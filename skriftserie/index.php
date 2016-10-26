@@ -118,6 +118,93 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			 Create Doi Batch Body
 			==========================================
 		*/
+			// get a person_name
+	
+			function getCurrentPersonName(person,seq) {
+				person_name = document.createElementNS(ns, 'person_name');
+				person_name.setAttribute("contributor_role","author");
+				person_name.setAttribute("sequence",seq);
+
+				given_name = document.createElementNS(ns, 'given_name');
+				surname = document.createElementNS(ns, 'surname');
+
+				given_name.innerHTML = person.fn;
+				surname.innerHTML = person.ln;
+
+				person_name.appendChild(given_name);
+				person_name.appendChild(surname);
+
+				return person_name;
+				
+			}
+
+
+			// get all contributors
+			function getContributors(current_row) {
+			// contributors
+			var contributors = document.createElementNS(ns, 'contributors');
+			for(var k = 0; k < current_row.authors.length; k++) {
+				var seq = "first";
+				if (k>0) {
+					seq = "additional";
+				}
+				contributors.appendChild(getCurrentPersonName(current_row.authors[k], seq));
+
+				}
+				return contributors;
+
+			}
+
+		function getTitles(row) {
+			var titles = document.createElementNS(ns, 'titles');
+			var title = document.createElementNS(ns, 'title');
+			title.innerHTML = row.title;
+			titles.appendChild(title);
+
+			// check if subtitle is present and not empty string
+			if(row.subtitle !== undefined && row.subtitle !== "") {
+				var subtitle = document.createElementNS(ns, 'subtitle');
+				subtitle.innerHTML = row.subtitle;
+				titles.appendChild(subtitle);
+			}
+			return titles;
+		}
+
+		function getSeriesTitles(row) {
+			var series = row.series;
+			var series_title = "";
+			switch (series) {
+				case "Skriftserie":
+				series_title = "NOVA Skriftserie";
+				break;
+				case "Notat":
+				series_title = "NOVA Notat";
+				break;
+				case "Rapporter":
+				series_title = "NOVA Rapport";
+				break;
+				case "Temahefte":
+				series_title = "Temahefte";
+				break;
+			}
+
+			//WIP!
+			var titles = document.createElementNS(ns, 'titles');
+			var title = document.createElementNS(ns, 'title');
+			title.innerHTML = series_title;
+			titles.appendChild(title);
+			return titles;
+		}
+
+		function getSeriesMetadata(row){
+			var series_metadata = document.createElementNS(ns, 'series_metadata');
+			series_metadata.appendChild(getSeriesTitles(row));
+			var issn = document.createElementNS(ns, 'issn');
+			issn.innerHTML = row.issn;
+			series_metadata.appendChild(issn);
+			return series_metadata;
+		}
+
 
 		function reportPaperFromJSON(row){
 			//console.log(row);
@@ -127,26 +214,12 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			var report_paper_series_metadata = document.createElementNS(ns, 'report-paper_series_metadata');
 			report_paper_series_metadata.setAttribute("language", "no");
 
-			var series_metadata = document.createElementNS(ns, 'series_metadata');
-			var titles = document.createElementNS(ns, 'titles');
-			var title = document.createElementNS(ns, 'title');
-			title.innerHTML = row.title;
-			titles.appendChild(title);
-			// remember subtitle check!
-			// check if subtitle is present and not empty string
-			if(row.subtitle !== undefined && row.subtitle !== "") {
-				var subtitle = document.createElementNS(ns, 'subtitle');
-				subtitle.innerHTML = row.subtitle;
-				titles.appendChild(subtitle);
-			}
-			series_metadata.appendChild(titles);
 
-			var issn = document.createElementNS(ns, 'issn');
-			issn.innerHTML = row.issn;
+			report_paper_series_metadata.appendChild(getSeriesMetadata(row));
 
-			series_metadata.appendChild(issn);
+			report_paper_series_metadata.appendChild(getContributors(row));
 
-			report_paper_series_metadata.appendChild(series_metadata);
+			report_paper_series_metadata.appendChild(getTitles(row));
 
 			report_paper.appendChild(report_paper_series_metadata);
 

@@ -78,12 +78,13 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		console.log(rows.length + " rows in result");
 		var ts = currentTimestamp();
 		var container = document.createElement('container');
-		var ns = "http://www.crossref.org/schema/4.3.7";
+		var ns = "http:/"+"/www.crossref.org/schema/4.3.7";
 		var doi_batch = document.createElementNS(ns, 'doi_batch');
-		doi_batch.setAttribute('xmlns:xsi','http://www.w3.org/2001/XMLSchema-instance');
-		doi_batch.setAttribute('xmlns:xsd','http://www.w3.org/2001/XMLSchema');
+		doi_batch.setAttribute('xmlns',ns);
+		doi_batch.setAttribute('xmlns:xsi','http:/'+'/www.w3.org/2001/XMLSchema-instance');
 		doi_batch.setAttribute('version','4.3.7');
-		doi_batch.setAttribute('xsi:schemaLocation','http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd');
+		//doi_batch.setAttribute('xmlns:xsd','http://www.w3.org/2001/XMLSchema');
+		doi_batch.setAttribute('xsi:schemaLocation','http:/'+'/www.crossref.org/schema/4.3.7 http:/'+'/www.crossref.org/schema/deposit/crossref4.3.7.xsd');
 		container.appendChild(doi_batch);
 
 		
@@ -266,7 +267,12 @@ oppvekst, velferd og aldring (NOVA)*/
 
 		function getMediaType(row) {
 			// TODO this one needs to be either online or print, but how to decide?
-			return "online";
+			
+			if (row.series == "Skriftserie") {
+				return "print";
+			} else {
+				return "online";
+			}
 		}
 
 		function getPubDate(row) {
@@ -354,9 +360,9 @@ oppvekst, velferd og aldring (NOVA)*/
 
 			report_paper_series_metadata.appendChild(getTitles(row));
 
-			report_paper_series_metadata.appendChild(getPublisherInfo(row));
-
 			report_paper_series_metadata.appendChild(getPubDate(row));
+
+			report_paper_series_metadata.appendChild(getPublisherInfo(row));
 
 			report_paper_series_metadata.appendChild(getDoiData(row));
 

@@ -175,8 +175,12 @@ oppvekst, velferd og aldring (NOVA)*/
 			}
 	
 			function getCurrentPersonName(person,seq) {
+				var role = "author";
 				person_name = document.createElementNS(ns, 'person_name');
-				person_name.setAttribute("contributor_role","author");
+				if(person.role === "editor") {
+					role = "editor";
+				}
+				person_name.setAttribute("contributor_role",role);
 				person_name.setAttribute("sequence",seq);
 
 				given_name = document.createElementNS(ns, 'given_name');

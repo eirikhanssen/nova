@@ -119,6 +119,60 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			==========================================
 		*/
 			// get a person_name
+			function getPublisherInfo(row) {
+				/*
+NOVA changed name sometime in 2014.
+
+Skriftserie (tom 2007), publisher:
+Norsk institutt for forskning om oppvekst,
+velferd og aldring (NOVA)
+
+Notat tom: Notat 2/2014:
+Norsk institutt for forskning om
+oppvekst, velferd og aldring (NOVA)
+
+Notat fom: Notat 3/14
+Velferdsforskningsinstituttet NOVA
+
+Rapport tom: Rapport 13/2014
+Norsk institutt for forskning om
+oppvekst, velferd og aldring (NOVA)
+
+Rapport fom: Rapport 14/2014
+Velferdsforskningsinstituttet NOVA
+
+Temahefte (eldre enn 2014):
+Norsk institutt for forskning om
+oppvekst, velferd og aldring (NOVA)*/
+
+			var pre2014NovaPubName = "Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)";
+			var new2014NovaPubName = "Velferdsforskningsinstituttet NOVA";
+			var publisherName = new2014NovaPubName;
+			var publisher = document.createElementNS(ns, 'publisher');
+			var publisher_name = document.createElementNS(ns, 'publisher_name');
+			var publisher_place = document.createElementNS(ns, 'publisher_place');
+			
+			publisher_place.innerHTML = "Oslo";
+			if(row.year < 2014) {
+				publisherName = pre2014NovaPubName;
+			} else if (row.year == 2014) {
+				if(row.series == "Notat") {
+					// Notat 1/14 and Notat 2/14 uses pre2014NovaPubName
+					if(row.publisherItem.match(/Notat\s+[1-2][/]\d+/g) !== null) {
+						publisherName = pre2014NovaPubName;
+					}
+				} else if (row.series == "Rapport") {
+					// Rapport 1/14...Rapport 13/14 uses pre2014NovaPubName
+					if (row.publisherItem.match(/Rapport\s+\d[0-3]?[/]\d+/g) !== null) {
+						publisherName = pre2014NovaPubName;
+					}
+				}
+			}
+			publisher_name.innerHTML = publisherName;
+			publisher.appendChild(publisher_name);
+			publisher.appendChild(publisher_place);
+			return publisher;
+			}
 	
 			function getCurrentPersonName(person,seq) {
 				person_name = document.createElementNS(ns, 'person_name');
@@ -206,6 +260,20 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			return series_metadata;
 		}
 
+		function getMediaType(row) {
+			// TODO this one needs to be either online or print, but how to decide?
+			return "online";
+		}
+
+		function getPubDate(row) {
+			var publication_date = document.createElementNS(ns, 'publication_date');
+			publication_date.setAttribute("media_type",getMediaType(row));
+			var year = document.createElementNS(ns, 'year');
+			year.innerHTML = row.year;
+			publication_date.appendChild(year);
+			return publication_date;
+		}
+
 
 		function reportPaperFromJSON(row){
 			//console.log(row);
@@ -215,12 +283,15 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			var report_paper_series_metadata = document.createElementNS(ns, 'report-paper_series_metadata');
 			report_paper_series_metadata.setAttribute("language", "no");
 
-
 			report_paper_series_metadata.appendChild(getSeriesMetadata(row));
 
 			report_paper_series_metadata.appendChild(getContributors(row));
 
 			report_paper_series_metadata.appendChild(getTitles(row));
+
+			report_paper_series_metadata.appendChild(getPublisherInfo(row));
+
+			report_paper_series_metadata.appendChild(getPubDate(row));
 
 			report_paper.appendChild(report_paper_series_metadata);
 

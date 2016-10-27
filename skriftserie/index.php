@@ -274,6 +274,67 @@ oppvekst, velferd og aldring (NOVA)*/
 			return publication_date;
 		}
 
+		function getIssueFromPublisherItem(row) {
+			return row.publisherItem.replace(/[^0-9]+(\d+)[/]\d+/,"$1") || "00";
+		}
+
+		function genDOIfromJSON(row) {
+			var doi_base = "10.7577/nova/";
+			var series = row.series.toLocaleLowerCase();
+			var year = row.year;
+			var issue_in_publisherItem = getIssueFromPublisherItem(row);
+			var doi = doi_base + series + "/" + year + "/" + issue_in_publisherItem;
+			return doi;
+		}
+
+		function genResourceFromJSON(row) {
+			var series = "";
+			switch (row.series) {
+				case "Skriftserie":
+					series="skriftserie";
+				break;
+				case "Notat":
+					series="notat";
+				break;
+				case "Rapport":
+					series="rapport";
+				break;
+				case "Temahefte":
+					series="temahefte";
+				break;
+				default:
+					series="unknownSeries"; 
+				break;
+			}
+	
+			var url_base = "http:/" + "/www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/";
+			var series_url_fragment = row.series;
+			if(series_url_fragment == "Skriftserie") {
+				series_url_fragment = "NOVAs-skriftserie";
+			}
+			series_url_fragment = series_url_fragment + "/";
+			var year_fragment = row.year + "/";
+			var filename = row.filename || "unknown-file";
+			var resource_url = url_base + series_url_fragment + "/"; 
+			if(series_url_fragment == "Temahefte") {
+				year_fragment = "";
+			}
+			var resource_url =  url_base + series_url_fragment + year_fragment + filename; 
+			
+			return resource_url;
+		}
+
+		function getDoiData(row) {
+			var doi_data = document.createElementNS(ns, 'doi_data');
+			var doi = document.createElementNS(ns, 'doi');
+			var resource = document.createElementNS(ns, 'resource');
+			doi.innerHTML = genDOIfromJSON(row);
+			resource.innerHTML = genResourceFromJSON(row);
+			doi_data.appendChild(doi);
+			doi_data.appendChild(resource);
+
+			return doi_data;
+		}
 
 		function reportPaperFromJSON(row){
 			//console.log(row);
@@ -292,6 +353,8 @@ oppvekst, velferd og aldring (NOVA)*/
 			report_paper_series_metadata.appendChild(getPublisherInfo(row));
 
 			report_paper_series_metadata.appendChild(getPubDate(row));
+
+			report_paper_series_metadata.appendChild(getDoiData(row));
 
 			report_paper.appendChild(report_paper_series_metadata);
 

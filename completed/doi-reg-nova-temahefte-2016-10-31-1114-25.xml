@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd"
+	version="4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.crossref.org/schema/4.3.7">
+	<head>
+		<doi_batch_id>hioa_20161031111425</doi_batch_id>
+		<timestamp>20161031111425</timestamp>
+		<depositor>
+			<depositor_name>Eirik Hanssen</depositor_name>
+			<email_address>ojs@hioa.no</email_address>
+		</depositor>
+		<registrant>HiOA</registrant>
+	</head>
+	<body>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Viggo Jan</given_name>
+						<surname>Vestel</surname>
+					</person_name>
+					<person_name sequence="additional" contributor_role="author">
+						<given_name>Anders</given_name>
+						<surname>Bakken</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Ungdomskulturer og narkotikabruk</title>
+				</titles>
+				<publication_date media_type="print">
+					<year>1997</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/1997</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/1997/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Ungdomskulturer-og-narkotikabruk</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Jóna Hafdis</given_name>
+						<surname>Einarsson</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Forebyggende arbeid og hjelpetiltak i barneverntjenesten</title>
+					<subtitle>Med vekt på en myndiggjørende praksis</subtitle>
+				</titles>
+				<publication_date media_type="print">
+					<year>1997</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 2/1997</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/1997/2</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Forebyggende-arbeid-og-hjelpetiltak-i-barneverntjenesten</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Kari</given_name>
+						<surname>Killén</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Veiledning og veiledningsmodeller i barnevernets førstelinjetjeneste</title>
+				</titles>
+				<publication_date media_type="print">
+					<year>1998</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/1998</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/1998/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Veiledning-og-veiledningsmodeller-i-barnevernets-foerstelinjetjeneste</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Bente</given_name>
+						<surname>Brostrøm</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Foreldrestøttende tilbud i kommunene</title>
+					<subtitle>Organisering, kartlegging og utvikling</subtitle>
+				</titles>
+				<publication_date media_type="print">
+					<year>1999</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/1999</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/1999/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Foreldrestoettende-tilbud-i-kommunene</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Olve</given_name>
+						<surname>Krange</surname>
+					</person_name>
+					<person_name sequence="additional" contributor_role="author">
+						<given_name>Ketil</given_name>
+						<surname>Skogen</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Naturen i Stor-Elvdal, ulven og det sosiale landskapet.</title>
+					<subtitle>En kortrapport fra prosjektet Konfliktlinjer i utmarka</subtitle>
+				</titles>
+				<publication_date media_type="print">
+					<year>2001</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/2001</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2001/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Naturen-i-Stor-Elvdal-ulven-og-det-sosiale-landskapet</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Bente</given_name>
+						<surname>Brostrøm</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Fra idé til virkelighet. En modell for koordinering og drift av det forebyggende barne- og ungdomsarbeidet</title>
+				</titles>
+				<publication_date media_type="print">
+					<year>2002</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/2002</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2002/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Fra-ide-til-virkelighet</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Lars Petter</given_name>
+						<surname>Gulbrandsen</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Kvalitetssatsing i norske barnehager</title>
+					<subtitle>Statusrapport midtveis</subtitle>
+				</titles>
+				<publication_date media_type="print">
+					<year>2002</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 2/2002</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2002/2</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Kvalitetssatsing-i-norske-barnehager</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Tore W.</given_name>
+						<surname>Kiøsterud</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Hvordan målene ble nådd</title>
+					<subtitle>Hovedlinjer og erfaringer i norsk boligpolitikk</subtitle>
+				</titles>
+				<publication_date media_type="print">
+					<year>2005</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/2005</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2005/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Hvordan-maalene-ble-naadd</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Erling</given_name>
+						<surname>Annaniassen</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Én skandinavisk boligmodell?</title>
+					<subtitle>Historien om et sosialdemokratisk eierland og et sosialdemokratisk leieboerland</subtitle>
+				</titles>
+				<publication_date media_type="print">
+					<year>2006</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/2006</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2006/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/En-skandinavisk-boligmodell</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Kirsti</given_name>
+						<surname>Valset</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Dokumentasjon "Ung i Oslo 2006"</title>
+				</titles>
+				<publication_date media_type="print">
+					<year>2006</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 2/2006</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2006/2</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Dokumentasjon-Ung-i-Oslo-2006</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+	</body>
+</doi_batch>

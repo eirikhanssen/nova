@@ -20,7 +20,7 @@
 			<span class="title"><xsl:value-of select="cr:report-paper_series_metadata/cr:titles/cr:title"/></span>
 			<span class="subtitle"><xsl:value-of select="cr:report-paper_series_metadata/cr:titles/cr:subtitle"/></span>
 		</h3>
-		<p>Serie/Nummer: <em><xsl:value-of select="cr:report-paper_series_metadata/cr:publisher_item/cr:item_number"/></em></p>
+		<p><em><xsl:text>(</xsl:text><xsl:value-of select="cr:report-paper_series_metadata/cr:publisher_item/cr:item_number"/><xsl:text>)</xsl:text></em></p>
 <p>
 	<strong  class="sel"><xsl:value-of select="$doi_url"/></strong>
 	<xsl:text> — Klikkbar lenke: </xsl:text>

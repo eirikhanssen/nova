@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<doi_batch xmlns="http://www.crossref.org/schema/4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7" xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
+<doi_batch xmlns="http://www.crossref.org/schema/4.3.7"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="4.3.7"
+    xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schemas/crossref4.3.7.xsd">
     <head>
-        <doi_batch_id>hioa_20161027035900</doi_batch_id>
-        <timestamp>20161027035900</timestamp>
+        <doi_batch_id>hioa_20161027130729</doi_batch_id>
+        <timestamp>20161027130729</timestamp>
         <depositor>
             <depositor_name>Eirik Hanssen</depositor_name>
             <email_address>ojs@hioa.no</email_address>
@@ -28,13 +30,13 @@
                     <title>Recent Developments in the Norwegian Health Care System: Pointing in What Direction</title>
                     <subtitle>Pointing in What Direction</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Recent-Developments-in-the-Norwegian-Health-Care-System-Pointing-in-What-Direction</resource>
@@ -47,7 +49,7 @@
                     <titles>
                         <title>NOVA Skriftserie</title>
                     </titles>
-                    <issn>0808-9193</issn>
+                    <issn>0808-9183</issn>
                 </series_metadata>
                 <contributors>
                     <person_name sequence="first" contributor_role="author">
@@ -58,13 +60,13 @@
                 <titles>
                     <title>Når rehabiliteringspengene avsluttes</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Naar-rehabiliteringspengene-avsluttes</resource>
@@ -88,13 +90,13 @@
                 <titles>
                     <title>Preretirement in the Nordic countries in an European context</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Preretirement-in-the-Nordic-countries-in-an-European-context</resource>
@@ -118,13 +120,13 @@
                 <titles>
                     <title>Social protection for the elderly in Norway</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Social-protection-for-the-elderly-in-Norway</resource>
@@ -149,13 +151,13 @@
                     <title>Studying Culture through Surveys: Getting Thick Descriptions out of Paper-thin Data</title>
                     <subtitle>Getting Thick Descriptions out of Paper-thin Data</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Studying-Culture-through-Surveys-Getting-Thick-Descriptions-out-of-Paper-thin-Data</resource>
@@ -180,13 +182,13 @@
                     <title>Penger er ikke alt!</title>
                     <subtitle>tre foredrag på randen av økonomi</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Penger-er-ikke-alt</resource>
@@ -210,13 +212,13 @@
                 <titles>
                     <title>Minstepensjonisten, rik eller fattig?</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Minstepensjonisten-rik-eller-fattig</resource>
@@ -241,13 +243,13 @@
                     <title>Wealth Distribution between Generations</title>
                     <subtitle>A Source of Conflict or Cohesion</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/8</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Wealth-Distribution-between-Generations</resource>
@@ -272,13 +274,13 @@
                     <title>Livsform, livsløp og livstema som anvendte forskningsbegreper</title>
                     <subtitle>Med eksempler fra gerontologisk forskning</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/9</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Livsform-livsloep-og-livstema-som-anvendte-forskningsbegreper</resource>
@@ -303,13 +305,13 @@
                     <title>Meaning of intergenerational relations</title>
                     <subtitle>Impact on self-construction and life satisfaction among elderly women and men</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1997</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1997</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1997/10</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1997/Meaning-of-intergenerational-relations</resource>
@@ -334,13 +336,13 @@
                     <title>Juvenile Delinquency in Norway</title>
                     <subtitle>Three Papers on:Sanctions, Alternatives, Age of Criminal Responsibility and Crime Trends</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1998</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1998</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1998/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1998/Juvenile-Delinquency-in-Norway</resource>
@@ -365,13 +367,13 @@
                     <title>Children´s Right, Father´s Duty, Mothers´ Responsibility</title>
                     <subtitle>Policies and Attitudes towards Lone Parents</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1998</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1998</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1998/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1998/Children-s-Right-Father-s-Duty-Mothers-Responsibility</resource>
@@ -395,13 +397,13 @@
                 <titles>
                     <title>Husholdningenes boligfinansiering</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1998</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1998</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1998/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1998/Husholdningenes-boligfinansiering</resource>
@@ -430,13 +432,13 @@
                     <title>Epilepsi og diabetes</title>
                     <subtitle>Noen resultater fra grunnstønadsundersøkelsen 1995</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1998</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1998</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1998/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1998/Epilepsi-og-diabetes</resource>
@@ -449,7 +451,7 @@
                     <titles>
                         <title>NOVA Skriftserie</title>
                     </titles>
-                    <issn>0808-0138</issn>
+                    <issn>0808-9183</issn>
                 </series_metadata>
                 <contributors>
                     <person_name sequence="first" contributor_role="author">
@@ -461,13 +463,13 @@
                     <title>Pensjonister i arbeid</title>
                     <subtitle>En undersøkelse av uføre- og alderspensjonisters aktivitet på arbeidsmarkedet</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1998</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1998</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1998/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1998/Pensjonister-i-arbeid</resource>
@@ -492,13 +494,13 @@
                     <title>Ungdom og idrett i et flerkulturelt samfunn</title>
                     <subtitle>Litteraturoversikt og innledende analyser av Osloungdoms idrettsaktiviteter</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1998</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1998</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1998/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1998/Ungdom-og-idrett-i-et-flerkulturelt-samfunn</resource>
@@ -522,13 +524,13 @@
                 <titles>
                     <title>Tilrettelagte boliger - omsorgsboliger</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/Tilrettelagte-boliger-omsorgsboliger</resource>
@@ -552,13 +554,13 @@
                 <titles>
                     <title>The changing balance between incentives and economic security in the Nordic unemployment benefit schemes</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/The-changing-balance-between-incentives-and-economic-security-in-the-Nordic-unemployment-benefit-schemes</resource>
@@ -583,13 +585,13 @@
                     <title>Gjeld og økte rentekostnader.</title>
                     <subtitle>Renteøkningene i 1998 sett i lys av utviklingen i husholdningenes gjeld på 1990-tallet</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/Gjeld-og-oekte-rentekostnader</resource>
@@ -602,7 +604,7 @@
                     <titles>
                         <title>NOVA Skriftserie</title>
                     </titles>
-                    <issn>0808-9193</issn>
+                    <issn>0808-9183</issn>
                 </series_metadata>
                 <contributors>
                     <person_name sequence="first" contributor_role="author">
@@ -614,13 +616,13 @@
                     <title>Samarbeid mellom hjem og skole om barn med funksjonshemninger</title>
                     <subtitle>En kunnskapsoversikt</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/Samarbeid-mellom-hjem-og-skole-om-barn-med-funksjonshemninger</resource>
@@ -644,13 +646,13 @@
                 <titles>
                     <title>Diskrimineringsproblematikk og offentlige tiltak</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/Diskrimineringsproblematikk-og-offentlige-tiltak</resource>
@@ -675,13 +677,13 @@
                     <title>Transfers and Maintenance Responsibility</title>
                     <subtitle>The Relationship between Parents and Young Adult Children</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/Transfers-and-Maintenance-Responsibility</resource>
@@ -710,13 +712,13 @@
                     <title>Personer som begår seksuelle overgrep mot barn</title>
                     <subtitle>Forståelse, behandling og straff - Rapport fra en nordisk ekspertkonferanse</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>1999</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>1999</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/1999/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/1999/Personer-som-begaar-seksuelle-overgrep-mot-barn</resource>
@@ -740,13 +742,13 @@
                 <titles>
                     <title>Opinionens forventninger til velferdsstaten</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Opinionens-forventninger-til-velferdsstaten</resource>
@@ -771,13 +773,13 @@
                     <title>Spania - for helsens skyld</title>
                     <subtitle>En intervjuundersøkelse blant norske pensjonister på Costa del Sol</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Spania-for-helsens-skyld</resource>
@@ -806,13 +808,13 @@
                     <title>Diabetes og livskvalitet</title>
                     <subtitle>Resultater fra Helseundersøkelsen i Nord-Trøndelag. Endring fra 1984 til 1995</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Diabetes-og-livskvalitet</resource>
@@ -836,13 +838,13 @@
                 <titles>
                     <title>Commitment to welfare - a question of trust</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Commitment-to-welfare-a-question-of-trust</resource>
@@ -867,13 +869,13 @@
                     <title>Et barnevern med lydhørhet for barnet</title>
                     <subtitle>Fra generelle risikofaktorer og globale modeller til forståelse av spesifikke, tilrettelagte dagliglivserfaringer</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Et-barnevern-med-lydhoerhet-for-barnet</resource>
@@ -898,13 +900,13 @@
                     <title>Trygdefinansierte kjøretøy for funksjonshemmede</title>
                     <subtitle>En vurdering av dagens ordning i et samfunnspolitisk perspektiv</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Trygdefinansierte-kjoeretoey-for-funksjonshemmede</resource>
@@ -929,13 +931,13 @@
                     <title>Parents between work and care</title>
                     <subtitle>Effects of the new cash benefit scheme</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2000</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2000</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2000/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2000/Parents-between-work-and-care</resource>
@@ -960,13 +962,13 @@
                     <title>Tilleggsrapport - Ung i Notodden</title>
                     <subtitle>Seksualitet, kropp, psykisk helse og skoletilpasning</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/Tilleggsrapport-Ung-i-Notodden</resource>
@@ -990,13 +992,13 @@
                 <titles>
                     <title>Hverdagslivets sosiologi i norsk tradisjon</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/Hverdagslivets-sosiologi-i-norsk-tradisjon</resource>
@@ -1020,13 +1022,13 @@
                 <titles>
                     <title>Klage over ikke å få nesten universelle goder</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/Klage-over-ikke-aa-faa-nesten-universelle-goder</resource>
@@ -1051,13 +1053,13 @@
                     <title>Om klager på kommunen</title>
                     <subtitle>En surveyundersøkelse</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/Om-klager-paa-kommunen</resource>
@@ -1081,13 +1083,13 @@
                 <titles>
                     <title>Om økonomisk verdsetting av ubetalt arbeid</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/Om-oekonomisk-verdsetting-av-ubetalt-arbeid</resource>
@@ -1112,13 +1114,13 @@
                     <title>The Child Home Care allowance and women`s labour force participation in Finland, 1985-1998</title>
                     <subtitle>A Comparison with Norway</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/The-Child-Home-Care-allowance-and-women-s-labour-force-participation-in-Finland-1985-1998</resource>
@@ -1163,13 +1165,13 @@
                     <title>Barn som blir plassert utenfor hjemmet - risiko og utvikling</title>
                     <subtitle>Fremgangsmåter og erfaringer med å opparbeide et empirisk materiale</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2001</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2001</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2001/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2001/Barn-som-blir-plassert-utenfor-hjemmet-risiko-og-utvikling</resource>
@@ -1194,13 +1196,13 @@
                     <title>Om fattigdomsbegrepet og dets implikasjoner for praktisk politikk</title>
                     <subtitle>Barnefattigdom: En diskusjon av tilstandsbilder, konsekvenser og tiltak</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2002</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2002</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2002/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2002/Om-fattigdomsbegrepet-og-dets-implikasjoner-for-praktisk-politikk</resource>
@@ -1225,13 +1227,13 @@
                     <title>Early retirement and social citizenship.</title>
                     <subtitle>Marginalisation and integration in the Nordic countries</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2002</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2002</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2002/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2002/Early-retirement-and-social-citizenship</resource>
@@ -1255,13 +1257,13 @@
                 <titles>
                     <title>Vurderingsgrunnlaget i alvorlige barnevernssaker</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2002</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2002</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2002/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2002/Vurderingsgrunnlaget-i-alvorlige-barnevernssaker</resource>
@@ -1286,13 +1288,13 @@
                     <title>Noen trekk ved barnevernets utvikling mellom 1954 og 1980</title>
                     <subtitle>Historisk og barnevernfaglig delrapport</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2002</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2002</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2002/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2002/Noen-trekk-ved-barnevernets-utvikling-mellom-1954-og-1980</resource>
@@ -1316,13 +1318,13 @@
                 <titles>
                     <title>Life-course Perspectives in Aging Research</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2002</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2002</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2002/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2002/Life-course-Perspectives-in-Aging-Research</resource>
@@ -1346,13 +1348,13 @@
                 <titles>
                     <title>Globalisation, the World Bank and the New Welfare State</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Globalisation-the-World-Bank-and-the-New-Welfare-State</resource>
@@ -1377,13 +1379,13 @@
                     <title>Nordisk barnevern: Likheter i lovgivning - forskjeller i praksis</title>
                     <subtitle>Om kultur, normer og holdninger</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Nordisk-barnevern-Likheter-i-lovgivning-forskjeller-i-praksis</resource>
@@ -1412,13 +1414,13 @@
                     <title>Familierådslag</title>
                     <subtitle>Nasjonal plan for utprøving og evaluering av metoden familierådslag</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Familieraadslag</resource>
@@ -1443,13 +1445,13 @@
                     <title>Hjelp til barn som har foreldre med psykiske lidelser</title>
                     <subtitle>Evalueringen av prosjektet og virksomheten "Du er ikke den eneste" - et gruppetilbud med psykopedagogisk tilnærming til barn og unge som har foreldre med psykisk lidelse</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Hjelp-til-barn-som-har-foreldre-med-psykiske-lidelser</resource>
@@ -1473,13 +1475,13 @@
                 <titles>
                     <title>Boligetablering, dokumentavgift og boligsparing for unge</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Boligetablering-dokumentavgift-og-boligsparing-for-unge</resource>
@@ -1504,13 +1506,13 @@
                     <title>Etablering, generasjonsulikhet og generasjonsoverføringer i boligsektoren</title>
                     <subtitle>En kunnskapsoversikt utarbeidet etter oppdrag for Kommunal- og regionaldepartementet</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Etablering-generasjonsulikhet-og-generasjonsoverfoeringer-i-boligsektoren</resource>
@@ -1523,7 +1525,7 @@
                     <titles>
                         <title>NOVA Skriftserie</title>
                     </titles>
-                    <issn>0808-9193</issn>
+                    <issn>0808-9183</issn>
                 </series_metadata>
                 <contributors>
                     <person_name sequence="first" contributor_role="author">
@@ -1535,13 +1537,13 @@
                     <title>De frivillige organisasjonenes rolle i aktivisering og arbeidstrening av personer med marginal eller ingen tilknytning til arbeidsmarkedet</title>
                     <subtitle>En litteraturstudie</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/De-frivillige-organisasjonenes-rolle-i-aktivisering-og-arbeidstrening-av-personer-med-marginal-eller-ingen-tilknytning-til-arbeidsmarkedet</resource>
@@ -1566,13 +1568,13 @@
                     <title>Old age is not for sissies</title>
                     <subtitle>A study in constructing self, community and old age in a new age</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/8</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Old-age-is-not-for-sissies</resource>
@@ -1600,13 +1602,13 @@
                 <titles>
                     <title>Barns levekår. Teoretiske perspektiver på familieøkonomiens betydning for barns hverdag.</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2003</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2003</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2003/9</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2003/Barns-levekaar</resource>
@@ -1631,13 +1633,13 @@
                     <title>Somaliere i eksil i Norge</title>
                     <subtitle>En kartlegging av erfaringer fra fem kommuner og åtte bydeler i Oslo</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2004</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2004</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2004/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2004/Somaliere-i-eksil-i-Norge</resource>
@@ -1662,13 +1664,13 @@
                     <title>Hva kan vi lære av Danmark?</title>
                     <subtitle>Sosialforvaltning i en desentralisert velferdsstat</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2004</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2004</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2004/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2004/Hva-kan-vi-laere-av-Danmark</resource>
@@ -1697,13 +1699,13 @@
                     <title>Mødre med barn i kontantstøttealder</title>
                     <subtitle>Yrkestilknytning, arbeidstid og barnetilsyn</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2004</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2004</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2004/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2004/Moedre-med-barn-i-kontantstoettealder</resource>
@@ -1732,13 +1734,13 @@
                     <title>Forskning om vanskeligstilte på boligmarkedet</title>
                     <subtitle>En kunnskapsoversikt</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2004</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2004</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2004/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2004/Forskning-om-vanskeligstilte-paa-boligmarkedet</resource>
@@ -1767,13 +1769,13 @@
                     <title>Se der hacker bestefar, eller bestemor på anbud</title>
                     <subtitle>Avisene og de eldre</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2004</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2004</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2004/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2004/Se-der-hacker-bestefar-eller-bestemor-paa-anbud</resource>
@@ -1797,13 +1799,13 @@
                 <titles>
                     <title>Er den norske opinionen en bremsekloss mot velferdspolitiske reformer?</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Er-den-norske-opinionen-en-bremsekloss-mot-velferdspolitiske-reformer</resource>
@@ -1827,13 +1829,13 @@
                 <titles>
                     <title>Evaluering av Foreldretelefonen</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Evaluering-av-Foreldretelefonen</resource>
@@ -1857,13 +1859,13 @@
                 <titles>
                     <title>Lesbiske og homofile arbeidstakere - en pilotundersøkelse.</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Lesbiske-og-homofile-arbeidstakere-en-pilotundersoekelse</resource>
@@ -1887,13 +1889,13 @@
                 <titles>
                     <title>Diskriminering - en litteraturgjennomgang</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Diskriminering-en-litteraturgjennomgang</resource>
@@ -1918,13 +1920,13 @@
                     <title>Unge uføres avgang fra arbeidslivet</title>
                     <subtitle>- en kunnskapsoversikt</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Unge-ufoeres-avgang-fra-arbeidslivet</resource>
@@ -1949,13 +1951,13 @@
                     <title>Two technical choices with critical implications</title>
                     <subtitle>Issues in Scandinavian pension reform</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Two-technical-choices-with-critical-implications</resource>
@@ -1979,13 +1981,13 @@
                 <titles>
                     <title>Nordiske surveyundersøkelser av barn og unges levekår 1970-2002</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Nordiske-surveyundersoekelser-av-barn-og-unges-levekaar-1970-2002</resource>
@@ -2010,13 +2012,13 @@
                     <title>Opplevelse</title>
                     <subtitle>En prosessevaluering av Juventes FRISTIL-modul</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2005</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2005</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2005/8</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2005/Opplevelse</resource>
@@ -2041,13 +2043,13 @@
                     <title>Bruk av khat i Norge</title>
                     <subtitle>Nytelse og lidelse</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2006</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2006</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2006/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2006/Bruk-av-khat-i-Norge</resource>
@@ -2072,13 +2074,13 @@
                     <title>Implementering av Nettungen</title>
                     <subtitle>Evaluering av et arbeid for å bedre samarbeidet omkring barn og unges psykiske helse</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2006</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2006</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2006/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2006/Implementering-av-Nettungen</resource>
@@ -2103,13 +2105,13 @@
                     <title>Det kommunale leiemarkedet</title>
                     <subtitle>Et bakgrunnsnotat for en empirisk undersøkelse av husleiefastsettelsen i kommunale utleieboliger</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2006</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2006</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2006/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2006/Det-kommunale-leiemarkedet</resource>
@@ -2133,13 +2135,13 @@
                 <titles>
                     <title>Registerdatabase for forskning om boligspørsmål</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/1</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Registerdatabase-for-forskning-om-boligspoersmaal</resource>
@@ -2164,13 +2166,13 @@
                     <title>Forebygging av bruk av fysisk straff i oppdragelsen: Nett- og telefontjenester</title>
                     <subtitle>En kartlegging utført på oppdrag av Barne- og likestillingsdepartementet</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/2</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Forebygging-av-bruk-av-fysisk-straff-i-oppdragelsen-Nett-og-telefontjenester</resource>
@@ -2203,13 +2205,13 @@
                     <title>Statens og Husbankens rolle i en markedsbasert boligsektor</title>
                     <subtitle>En kunnskapsoversikt</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/3</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Statens-og-Husbankens-rolle-i-en-markedsbasert-boligsektor</resource>
@@ -2233,13 +2235,13 @@
                 <titles>
                     <title>Full dekning, også av førskolelærere</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/4</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Full-dekning-ogsaa-av-foerskolelaerere</resource>
@@ -2268,13 +2270,13 @@
                     <title>Regnbueprosjektet - en evaluering</title>
                     <subtitle>Forebyggende arbeid med minoritetsfamilier</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/5</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Regnbueprosjektet-en-evaluering</resource>
@@ -2302,13 +2304,13 @@
                 <titles>
                     <title>Tilbudet av leide boliger</title>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/6</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Tilbudet-av-leide-boliger</resource>
@@ -2333,13 +2335,13 @@
                     <title>Gatemeglingsprosjektet i Oslo Røde Kors</title>
                     <subtitle>- en evaluering</subtitle>
                 </titles>
+                <publication_date media_type="print">
+                    <year>2007</year>
+                </publication_date>
                 <publisher>
                     <publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
                     <publisher_place>Oslo</publisher_place>
                 </publisher>
-                <publication_date media_type="print">
-                    <year>2007</year>
-                </publication_date>
                 <doi_data>
                     <doi>10.7577/nova/skriftserie/2007/7</doi>
                     <resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/NOVAs-skriftserie/2007/Gatemeglingsprosjektet-i-Oslo-Roede-Kors</resource>

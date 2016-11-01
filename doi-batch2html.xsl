@@ -4,7 +4,7 @@
 	xmlns:cr= "http://www.crossref.org/schema/4.3.7"
 	exclude-result-prefixes="xs cr"
 	version="2.0">
-<xsl:output method="xml" indent="yes" omit-xml-declaration="yes"></xsl:output>
+<xsl:output method="html" indent="yes" omit-xml-declaration="yes"></xsl:output>
 	
 
 	<xsl:template match="/">

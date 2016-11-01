@@ -32,10 +32,77 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 
 	//print_r($rows);
 
-
-
 ?>
+<script>
+	// file downloader code
+	var institute_name = 'nova';
+	var series_name = 'skriftserie';
+(function() {
+    'use strict';
+    
+    function includes(k) {
+		for(var i=0; i < this.length; i++) {
+			if(this[i] === k || (this[i]) !== this[i] && k !== k) {
+				return true;
+			}
+		}
+		return false;
+    }
 
+    var keysPressed = [];
+    keysPressed.includes = includes;
+
+    function download(filename, text) {
+	  var element = document.createElement('a');
+	  element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(text));
+	  element.setAttribute('download', filename);
+	  element.style.display = 'none';
+	  document.body.appendChild(element);
+	  element.click();
+	  document.body.removeChild(element);
+	}
+        
+    
+    window.addEventListener('keyup', function(event) {
+        // check if key already in array
+        var key = event.keyCode;
+        if(!keysPressed.includes(key)) {
+        	keysPressed.push(key);
+        }
+
+      //  if(keysPressed.includes(120) && keysPressed.includes())
+    });
+    
+    function createFilename(){
+    	var container = document.querySelector('#doi_batch');
+    	var institute_name = container.getAttribute('data-institute');
+    	var series_name = container.getAttribute('data-series_name');
+    	var timestamp = container.getAttribute('data-timestamp').toString().replace(/(\d\d\d\d)(\d\d)(\d\d)(\d\d\d\d)(\d\d)/g,"$1-$2-$3-$4-$5");
+    	var filename = "doi-reg-" + institute_name + "-" + series_name + "-" + timestamp + ".xml";
+    	return filename;
+    }
+
+    function genXMLDeclaration() {
+    	var xmldeclaration = '<?xml version="1.0" encoding="UTF-8"?>';
+    	return  xmldeclaration;
+    }
+
+    window.addEventListener('keyup', function(event) {
+        var key = event.keyCode;
+        console.log(key);
+        if(key === 120) {
+            // user pressed F9 key
+            console.log("Pressed F9");
+
+            var doi_batch_xml = document.querySelector("#doi_batch").innerHTML;
+            var fileContents = genXMLDeclaration() + doi_batch_xml;
+            download(createFilename(), fileContents);
+        }
+    }, false);
+
+})();
+
+</script>
 <script>
 	var doi_submitter = "Eirik Hanssen";
 	var doi_submit_email = "ojs@hioa.no";
@@ -78,6 +145,10 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 		console.log(rows.length + " rows in result");
 		var ts = currentTimestamp();
 		var container = document.createElement('container');
+		container.setAttribute("id","doi_batch");
+		container.setAttribute("data-timestamp",ts);
+		container.setAttribute("data-institute",institute_name);
+		container.setAttribute("data-series_name",series_name);
 		var ns = "http:/"+"/www.crossref.org/schema/4.3.7";
 		var doi_batch = document.createElementNS(ns, 'doi_batch');
 		doi_batch.setAttribute('xmlns',ns);
@@ -120,7 +191,7 @@ $conn = new mysqli($db_servername, $db_username, $db_password, $db_database);
 			==========================================
 		*/
 			// get a person_name
-			function getPublisherInfo(row) {
+			function getPublisher(row) {
 				/*
 NOVA changed name sometime in 2014.
 
@@ -261,6 +332,7 @@ oppvekst, velferd og aldring (NOVA)*/
 			series_metadata.appendChild(getSeriesTitles(row));
 			var issn = document.createElementNS(ns, 'issn');
 			issn.innerHTML = row.issn;
+			console.log(row.issn);
 			series_metadata.appendChild(issn);
 			return series_metadata;
 		}
@@ -268,7 +340,7 @@ oppvekst, velferd og aldring (NOVA)*/
 		function getMediaType(row) {
 			// TODO this one needs to be either online or print, but how to decide?
 			
-			if (row.series == "Skriftserie") {
+			if (row.series == "Skriftserie" || row.series == "Temahefte") {
 				return "print";
 			} else {
 				return "online";
@@ -286,6 +358,14 @@ oppvekst, velferd og aldring (NOVA)*/
 
 		function getIssueFromPublisherItem(row) {
 			return row.publisherItem.replace(/[^0-9]+(\d+)[/]\d+/,"$1") || "00";
+		}
+
+		function getPublisherItem(row) {
+			var publisher_item = document.createElementNS(ns, 'publisher_item');
+			var item_number = document.createElementNS(ns, 'item_number');
+			item_number.innerHTML = row.publisherItem.trim();
+			publisher_item.appendChild(item_number);
+			return publisher_item;
 		}
 
 		function genDOIfromJSON(row) {
@@ -325,8 +405,9 @@ oppvekst, velferd og aldring (NOVA)*/
 			series_url_fragment = series_url_fragment + "/";
 			var year_fragment = row.year + "/";
 			var filename = row.filename || "unknown-file";
-			var resource_url = url_base + series_url_fragment + "/"; 
-			if(series_url_fragment == "Temahefte") {
+			var resource_url = url_base + series_url_fragment + "/";
+			
+			if(series_url_fragment == "Temahefte/") {
 				year_fragment = "";
 			}
 			var resource_url =  url_base + series_url_fragment + year_fragment + filename; 
@@ -362,7 +443,9 @@ oppvekst, velferd og aldring (NOVA)*/
 
 			report_paper_series_metadata.appendChild(getPubDate(row));
 
-			report_paper_series_metadata.appendChild(getPublisherInfo(row));
+			report_paper_series_metadata.appendChild(getPublisher(row));
+
+			report_paper_series_metadata.appendChild(getPublisherItem(row));
 
 			report_paper_series_metadata.appendChild(getDoiData(row));
 

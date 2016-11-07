@@ -4,8 +4,8 @@
 	version="4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns="http://www.crossref.org/schema/4.3.7">
 	<head>
-		<doi_batch_id>hioa_20161031132415</doi_batch_id>
-		<timestamp>20161031132415</timestamp>
+		<doi_batch_id>hioa_20161107134008</doi_batch_id>
+		<timestamp>20161107134008</timestamp>
 		<depositor>
 			<depositor_name>Eirik Hanssen</depositor_name>
 			<email_address>ojs@hioa.no</email_address>
@@ -34,6 +34,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-78-94309-0</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -67,6 +68,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-310-6</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -104,6 +106,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-78-94311-3</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -137,6 +140,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-312-0</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -175,6 +179,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-78-94313-7</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -208,6 +213,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-78-94314-4</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -241,6 +247,7 @@
 				<publication_date media_type="online">
 					<year>2008</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-316-8</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -278,6 +285,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-317-5</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -312,6 +320,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-318-2</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -349,6 +358,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-319-9</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -382,6 +392,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-320-5</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -416,6 +427,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-322-9</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -449,6 +461,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-323-6</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -482,6 +495,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-324-3</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -516,6 +530,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-325-0</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -550,6 +565,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-321-2</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -584,6 +600,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-78-94327-4</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -621,6 +638,7 @@
 				<publication_date media_type="online">
 					<year>2009</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-369-4</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -654,6 +672,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-361-8</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -691,6 +710,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-326-7</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -725,6 +745,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-362-5</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -759,6 +780,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-364-9</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -792,6 +814,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-365-6</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -826,6 +849,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-366-3</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -864,6 +888,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-367-0</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -902,6 +927,7 @@
 				<publication_date media_type="online">
 					<year>2010</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-368-7</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -936,6 +962,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-392-2</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -970,6 +997,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-393-9</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1008,6 +1036,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-395-3</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1045,6 +1074,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-396-0</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1068,8 +1098,8 @@
 				</series_metadata>
 				<contributors>
 					<person_name sequence="first" contributor_role="author">
-						<given_name/>
-						<surname>aiwin</surname>
+						<given_name>Aina</given_name>
+						<surname>Winsvold</surname>
 					</person_name>
 					<person_name sequence="additional" contributor_role="author">
 						<given_name>Sturla</given_name>
@@ -1082,6 +1112,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-397-7</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1120,6 +1151,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-393-4</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1153,6 +1185,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-399-1</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1180,8 +1213,8 @@
 						<surname>Gundersen</surname>
 					</person_name>
 					<person_name sequence="additional" contributor_role="author">
-						<given_name/>
-						<surname>aiwin</surname>
+						<given_name>Aina</given_name>
+						<surname>Winsvold</surname>
 					</person_name>
 				</contributors>
 				<titles>
@@ -1190,6 +1223,7 @@
 				<publication_date media_type="online">
 					<year>2011</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-407-3</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1227,6 +1261,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-416-5</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1264,6 +1299,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-448-6</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1298,6 +1334,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-420-2</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1332,6 +1369,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-428-8</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1366,6 +1404,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-430-1</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1404,6 +1443,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-436-3</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1437,6 +1477,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-438-7</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1471,6 +1512,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-440-0</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1505,6 +1547,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-444-8</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1543,6 +1586,7 @@
 				<publication_date media_type="online">
 					<year>2012</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-446-2</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1580,6 +1624,7 @@
 				<publication_date media_type="online">
 					<year>2013</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-450-9</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1622,6 +1667,8 @@
 				<publication_date media_type="online">
 					<year>2013</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-458-5</isbn>
+				<isbn media_type="electronic">978-82-7894-459-2</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1645,8 +1692,8 @@
 				</series_metadata>
 				<contributors>
 					<person_name sequence="first" contributor_role="author">
-						<given_name/>
-						<surname>aiwin</surname>
+						<given_name>Aina</given_name>
+						<surname>Winsvold</surname>
 					</person_name>
 					<person_name sequence="additional" contributor_role="author">
 						<given_name>Lars Bjarne</given_name>
@@ -1663,6 +1710,8 @@
 				<publication_date media_type="online">
 					<year>2013</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-470-7</isbn>
+				<isbn media_type="electronic">978-82-7894-471-4</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1690,8 +1739,8 @@
 						<surname>Seeberg</surname>
 					</person_name>
 					<person_name sequence="additional" contributor_role="author">
-						<given_name/>
-						<surname>aiwin</surname>
+						<given_name>Aina</given_name>
+						<surname>Winsvold</surname>
 					</person_name>
 					<person_name sequence="additional" contributor_role="author">
 						<given_name>Sidsel</given_name>
@@ -1705,6 +1754,7 @@
 				<publication_date media_type="online">
 					<year>2013</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-480-6</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1738,6 +1788,7 @@
 				<publication_date media_type="online">
 					<year>2014</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-500-1</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1772,6 +1823,7 @@
 				<publication_date media_type="online">
 					<year>2014</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-502-5</isbn>
 				<publisher>
 					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1814,6 +1866,7 @@
 				<publication_date media_type="online">
 					<year>2014</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-526-1</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1852,6 +1905,7 @@
 				<publication_date media_type="online">
 					<year>2014</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-530-8</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1886,6 +1940,7 @@
 				<publication_date media_type="online">
 					<year>2015</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-544-5</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1909,8 +1964,8 @@
 				</series_metadata>
 				<contributors>
 					<person_name sequence="first" contributor_role="author">
-						<given_name/>
-						<surname>aiwin</surname>
+						<given_name>Aina</given_name>
+						<surname>Winsvold</surname>
 					</person_name>
 				</contributors>
 				<titles>
@@ -1920,6 +1975,7 @@
 				<publication_date media_type="online">
 					<year>2015</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-548-3</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1953,6 +2009,7 @@
 				<publication_date media_type="online">
 					<year>2015</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-552-0</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -1995,6 +2052,7 @@
 				<publication_date media_type="online">
 					<year>2016</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-576-6</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -2032,6 +2090,7 @@
 				<publication_date media_type="online">
 					<year>2016</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-584-1</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -2065,6 +2124,7 @@
 				<publication_date media_type="online">
 					<year>2016</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-586-5</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>
@@ -2102,6 +2162,7 @@
 				<publication_date media_type="online">
 					<year>2016</year>
 				</publication_date>
+				<isbn media_type="print">978-82-7894-594-0</isbn>
 				<publisher>
 					<publisher_name>Velferdsforskningsinstituttet NOVA</publisher_name>
 					<publisher_place>Oslo</publisher_place>

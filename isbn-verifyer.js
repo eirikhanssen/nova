@@ -178,4 +178,8 @@ var isbns_to_check = ["978-82-78-94309-0",
 "978-82-7894-586-5",
 "978-82-7894-594-0"];
 
-validateISBNs(isbns_to_check);
+var corrected_isbns = ["978-82-7894-310-6", " 978-82-7894-316-8", "978-82-78-324-3"];
+
+//validateISBNs(isbns_to_check);
+
+validateISBNs(corrected_isbns);

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<doi_batch
+	xsi:schemaLocation="http://www.crossref.org/schema/4.3.7 http://www.crossref.org/schema/deposit/crossref4.3.7.xsd"
+	version="4.3.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.crossref.org/schema/4.3.7">
+	<head>
+		<doi_batch_id>hioa_20161118104400</doi_batch_id>
+		<timestamp>20161118104400</timestamp>
+		<depositor>
+			<depositor_name>Eirik Hanssen</depositor_name>
+			<email_address>ojs@hioa.no</email_address>
+		</depositor>
+		<registrant>HiOA</registrant>
+	</head>
+	<body>
+		<report-paper>
+			<report-paper_series_metadata language="no">
+				<series_metadata>
+					<titles>
+						<title>Temahefte</title>
+					</titles>
+					<issn>1500-3183</issn>
+				</series_metadata>
+				<contributors>
+					<person_name sequence="first" contributor_role="author">
+						<given_name>Bente</given_name>
+						<surname>Brostrøm</surname>
+					</person_name>
+				</contributors>
+				<titles>
+					<title>Fra idé til virkelighet. En modell for koordinering og drift av det forebyggende barne- og ungdomsarbeidet</title>
+				</titles>
+				<publication_date media_type="print">
+					<year>2002</year>
+				</publication_date>
+				<publisher>
+					<publisher_name>Norsk institutt for forskning om oppvekst, velferd og aldring (NOVA)</publisher_name>
+					<publisher_place>Oslo</publisher_place>
+				</publisher>
+				<publisher_item>
+					<item_number>Temahefte 1/2002</item_number>
+				</publisher_item>
+				<doi_data>
+					<doi>10.7577/nova/temahefte/2002/1</doi>
+					<resource>http://www.hioa.no/Om-HiOA/Senter-for-velferds-og-arbeidslivsforskning/NOVA/Publikasjonar/Temahefte/Fra-ide-til-virkelighet.-En-modell-for-koordinering-og-drift-av-det-forebyggende-barne-og-ungdomsarbeidet</resource>
+				</doi_data>
+			</report-paper_series_metadata>
+		</report-paper>
+	</body>
+</doi_batch>
